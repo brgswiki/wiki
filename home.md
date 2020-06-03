@@ -2,7 +2,7 @@
 title: Home
 description: 🏡 A warm welcome to the wiki
 published: true
-date: 2020-06-03T16:29:42.195Z
+date: 2020-06-03T21:13:12.800Z
 tags: 
 ---
 
@@ -110,11 +110,11 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mrs Szafranski](/teachers/mrs-szafranski)
 - [Mrs Taylor](/teachers/mrs-taylor)
 - [Mrs Townsend](/teachers/mrs-townsend)
-- [Mr Vincent](/teachers/mr-vincent)
-- [Miss Watts](/teachers/miss-watts)
-- [Mr Webber](/teachers/mr-webber)
-- [Mr Whyte](/teachers/mr-whyte)
-- [Mr Wilbraham](/teachers/mr-wilbraham)
+- [Mr Vincent *RS & History teacher*](/teachers/mr-vincent)
+- [Miss Watts *Art teacher*](/teachers/miss-watts)
+- [Mr Webber *Music teacher*](/teachers/mr-webber)
+- [Mr Whyte *Head of RS*](/teachers/mr-whyte)
+- [Mr Wilbraham *Maths teacher*](/teachers/mr-wilbraham)
 - [Mrs Williamson](/teachers/mrs-williamson)
 - [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
