@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-06-03T15:06:13.173Z
+date: 2020-06-03T16:05:56.966Z
 tags: school trips, trips, groups
 ---
 
@@ -42,6 +42,7 @@ BRGS hosts a number of school trips, patricularly for the lower years. However, 
 - [Madagascar](/groups/school-trips/madagascar)
 - [Indonesia](/groups/school-trips/indonesia)
 - [Auschwitz](/groups/school-trips/auschwitz)
+- [Geneva](/groups/school-trips/geneva)
 {.links-list}
 
 #### Other
