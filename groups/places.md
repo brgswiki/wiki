@@ -2,39 +2,39 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-06-02T11:16:52.982Z
-tags: 
+date: 2020-06-03T15:08:35.491Z
+tags: places
 ---
 
 # Places
 
 There are many memorable and not-so-memorable places around BRGS, most of which are listed below. Not to be confused with Rooms which are the actual classrooms themselves.
 
-- [Astroturfs](/places/astroturfs)
-- [Art Block](/places/art-block)
-- [Bacup and Rawtenstall Grammar School](/places/brgs)
+- [Astroturfs](/groups/places/astroturfs)
+- [Art Block](/groups/places/art-block)
+- [Bacup and Rawtenstall Grammar School](/groups/places/brgs)
 - [Balcony](/places/balcony)
-- [Basement Corridor](/places/basement-corridor)
-- [Belfry](/places/belfry)
-- [Canopy](/planopy)
-- [Cateen](/places/canteen)
-- [Clark Building](/places/clark-building)
-- [Classrooms](/places/classrooms)
-- [Corridors](/places/corridors)
-- [Cubby Hole](/places/cubby-hole)
-- [English Block](/places/english-block)
-- [General Office](/places/general-office)
-- [Glen Road](/places/glen-road)
-- [Gym](/places/gym)
-- [Hall](/places/hall)
-- [Library](/places/library)
-- [Main Building](/places/main-building)
-- [Music Department](/places/music-department)
-- [Newchurch Wing](/places/newchurch-wing)
-- [PE Block](/places/pe-block)
-- [Staffroom Jr](/places/staffroom-minor)
-- [Staffroom Sr](/places/staffroom-major)
-- [The Glen](/places/the-glen)
+- [Basement Corridor](/groups/places/basement-corridor)
+- [Belfry](/groups/places/belfry)
+- [Canopy](/groups/places/planopy)
+- [Cateen](/groups/places/canteen)
+- [Clark Building](groups//places/clark-building)
+- [Classrooms](groups//places/classrooms)
+- [Corridors](/groups/places/corridors)
+- [Cubby Hole](/groups/places/cubby-hole)
+- [English Block](/groups/places/english-block)
+- [General Office](/groups/places/general-office)
+- [Glen Road](/groups/places/glen-road)
+- [Gym](/groups/places/gym)
+- [Hall](/groups/places/hall)
+- [Library](/groups/places/library)
+- [Main Building](/groups/places/main-building)
+- [Music Department](/groups/places/music-department)
+- [Newchurch Wing](/groups/places/newchurch-wing)
+- [PE Block](/groups/places/pe-block)
+- [Staffroom Jr](/groups/places/staffroom-minor)
+- [Staffroom Sr](/groups/places/staffroom-major)
+- [The Glen](/groups/places/the-glen)
 {.links-list}
 
 ![screen_shot_2020-06-02_at_12.14.03.png](/screen_shot_2020-06-02_at_12.14.03.png) 
