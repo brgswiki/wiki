@@ -2,7 +2,7 @@
 title: Home
 description: 🏡 A warm welcome to the wiki
 published: true
-date: 2020-06-02T11:19:25.743Z
+date: 2020-06-03T16:29:42.195Z
 tags: 
 ---
 
@@ -99,7 +99,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Rowan](/teachers/miss-rowan)
 - [Mr Reeves](/teachers/mr-reeves)
 - [Mrs Richardson](/teachers/mrs-richardson)
-- [Mrs Saunders](/teachers/mrs-saunders)
+- [Mrs Saunders *Cover science teacher*](/teachers/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
 - [Mrs Sharp](/teachers/mrs-sharp)
