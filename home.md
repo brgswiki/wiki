@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-06-04T14:54:53.975Z
+date: 2020-06-04T15:44:21.179Z
 tags: 
 ---
 
@@ -99,7 +99,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mrs Reynard](/teachers/mrs-reynard)
 - [Ms Rogers](/teachers/ms-rogers)
 - [Miss Rowan](/teachers/miss-rowan)
-- [Mr Reeves](/teachers/mr-reeves)
+- [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
 - [Mrs Richardson](/teachers/mrs-richardson)
 - [Mrs Saunders *Cover science teacher*](/teachers/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
