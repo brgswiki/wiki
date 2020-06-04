@@ -2,7 +2,7 @@
 title: Home
 description: 🏡 A warm welcome to the BRGS Wiki
 published: true
-date: 2020-06-04T12:05:58.709Z
+date: 2020-06-04T12:08:03.225Z
 tags: 
 ---
 
@@ -19,10 +19,12 @@ We're a collaborative community website that anyone, including you, can build an
 
 We aim to take your privacy very seriously, and you can view our privacy policy [here](/privacy).
 
-## Teachers
+---
 
-> Red links are pages that don't exist yet, but you can click on them to create them
+> Red links below are pages that don't exist yet, but feel free to click on them to create them
 {.is-info}
+
+## Teachers
 
 - [Mrs Aldred](/teachers/mrs-aldred)
 - [Mrs Appleton-why](/teachers/mrs-appleton-why)
