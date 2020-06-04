@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-06-03T16:39:23.683Z
+date: 2020-06-04T12:49:26.207Z
 tags: places, groups, rooms, classrooms, subjects
 ---
 
@@ -27,3 +27,5 @@ Many of these rooms, depending on the building the reside in, are either miles a
 - [Art Classrooms](/groups/rooms/art-classrooms)
 - [PE Rooms](/groups/rooms/pe-rooms)
 - [Languages Classrooms](/groups/rooms/languages-classrooms)
+
+{.links-list}
