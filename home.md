@@ -1,8 +1,8 @@
 ---
 title: Home
-description: 🏡 A warm welcome to the wiki
+description: 🏡 A warm welcome to the BRGS Wiki
 published: true
-date: 2020-06-03T21:13:12.800Z
+date: 2020-06-04T12:05:58.709Z
 tags: 
 ---
 
