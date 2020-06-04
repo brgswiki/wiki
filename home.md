@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-06-04T12:08:27.762Z
+date: 2020-06-04T14:54:53.975Z
 tags: 
 ---
 
@@ -112,7 +112,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mrs Szafranski](/teachers/mrs-szafranski)
 - [Mrs Taylor](/teachers/mrs-taylor)
 - [Mrs Townsend](/teachers/mrs-townsend)
-- [Mr Vincent *RS & History teacher*](/teachers/mr-vincent)
+- [Mr Vincent](/teachers/mr-vincent)
 - [Miss Watts *Art teacher*](/teachers/miss-watts)
 - [Mr Webber *Music teacher*](/teachers/mr-webber)
 - [Mr Whyte *Head of RS*](/teachers/mr-whyte)
