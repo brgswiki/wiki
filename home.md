@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-06-04T15:44:21.179Z
+date: 2020-06-04T22:03:47.728Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 ## Teachers
 
 - [Mrs Aldred](/teachers/mrs-aldred)
-- [Mrs Appleton-why](/teachers/mrs-appleton-why)
+- [Mrs Appleton-Why](/teachers/mrs-appleton-why)
 - [Mrs Ashworth](/teachers/mrs-ashworth)
 - [Mrs Baines](/teachers/mrs-baines)
 - [Mr Baird](/teachers/mr-baird)
@@ -36,12 +36,10 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Bibi](/teachers/miss-bibi)
 - [Miss Black](/teachers/miss-black)
 - [Mr Brandwood](/teachers/mr-brandwood)
-- [Mr Bretherton](/teachers/mr-bretherton)
 - [Miss Bowden](/teachers/miss-bowden)
 - [Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
 - [Miss Butterworth](/teachers/miss-butterworth)
 - [Miss Byrne](/teachers/miss-byrne)
-- [Mr Cairns](/teachers/mr-cairns)
 - [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
 - [Mr Chambers](/teachers/mr-chambers)
@@ -51,17 +49,16 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mr Davenport](/teachers/mr-davenport)
 - [Ms Dougherty](/teachers/ms-dougherty)
 - [Mrs Easby](/teachers/mrs-easby)
-- [Mr Fitton](/teachers/mr-fitton)
 - [Miss Flint](/teachers/miss-flint)
 - [Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
 - [Miss Foster](/teachers/miss-foster)
-- [Mrs Fowler-gibbs](/teachers/mrs-fowler-gibbs)
+- [Mrs Fowler-Gibbs](/teachers/mrs-fowler-gibbs)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
 - [Miss Gauntlett](/teachers/miss-gauntlett)
 - [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
-- [Miss Gore-ward](/teachers/miss-gore-ward)
+- [Miss Gore-Ward](/teachers/miss-gore-ward)
 - [Mr Grundy](/teachers/mr-grundy)
 - [Miss Harper *English teacher*](/teachers/miss-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
@@ -97,14 +94,12 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mrs Porteous](/teachers/mrs-porteous)
 - [Miss Powell](/teachers/miss-powell)
 - [Mrs Reynard](/teachers/mrs-reynard)
-- [Ms Rogers](/teachers/ms-rogers)
 - [Miss Rowan](/teachers/miss-rowan)
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
 - [Mrs Richardson](/teachers/mrs-richardson)
 - [Mrs Saunders *Cover science teacher*](/teachers/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
-- [Mrs Sharp](/teachers/mrs-sharp)
 - [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
 - [Mrs Spencer](/teachers/mrs-spencer)
 - [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
@@ -120,7 +115,6 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mrs Williamson](/teachers/mrs-williamson)
 - [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
-- [Miss Winchester](/teachers/miss-winchester)
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 - [Mr Wyton](/teachers/mr-wyton)
 {.links-list}
