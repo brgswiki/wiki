@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-05T11:42:16.609Z
+date: 2020-06-05T16:23:33.215Z
 tags: teacher, past teachers, past
 ---
 
@@ -20,7 +20,7 @@ tags: teacher, past teachers, past
 - [Mr Duncan](/teachers/past-teachers/mr-duncan)
 - [Mr Edwards](/teachers/past-teachers/mr-edwards)
 - [Mr Fitton](/teachers/past-teachers/mr-fitton)
-- [Mrs Fowler-Gibbs](/teachers/past-teachers/mrs-fowler-gibbs)
+- [Mrs Fowler-Gibbs](/teachers/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past-teachers/miss-gordon)
 - [Mr Grundy](/teachers/past-teachers/mr-grundy)
 - [Miss Ingham](/teachers/past-teachers/miss-ingham)
