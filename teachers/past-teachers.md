@@ -2,37 +2,35 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-05T16:23:33.215Z
+date: 2020-06-05T17:37:00.110Z
 tags: teacher, past teachers, past
 ---
 
-# Past Teachers
+## Past Teachers
 
-
-
-- [Miss Aldred](/teachers/past-teachers/miss-aldred)
-- [Mrs Appleton-Why](/teachers/past-teachers/mrs-appleton-why)
-- [Mrs Blant](/teachers/past-teachers/mrs-blant)
-- [Miss Byrne](/teachers/past-teachers/miss-byrne)
-- [Mr Bretherton](/teachers/past-teachers/mr-bretherton)
-- [Mr Cairns](/teachers/past-teachers/mr-cairns)
-- [Mrs Cassidy](/teachers/past-teachers/mrs-cassidy)
-- [Mr Duncan](/teachers/past-teachers/mr-duncan)
-- [Mr Edwards](/teachers/past-teachers/mr-edwards)
-- [Mr Fitton](/teachers/past-teachers/mr-fitton)
-- [Mrs Fowler-Gibbs](/teachers/mrs-fowler-gibbs)
-- [Miss Gordon](/teachers/past-teachers/miss-gordon)
-- [Mr Grundy](/teachers/past-teachers/mr-grundy)
-- [Miss Ingham](/teachers/past-teachers/miss-ingham)
-- [Mrs Jackson](/teachers/past-teachers/mrs-jackson)
-- [Mrs Jenkins](/teachers/past-teachers/mrs-jenkins)
-- [Mrs King](/teachers/past-teachers/mrs-king)
-- [Mr McConvey](/teachers/past-teachers/mr-mcconvey)
-- [Miss Meredith](/teachers/past-teachers/miss-meredith)
-- [Ms Rogers](/teachers/past-teachers/ms-rogers)
-- [Mrs Sharp](/teachers/past-teachers/mrs-sharp)
-- [Mrs Stanley](/teachers/past-teachers/mrs-stanley)
-- [Miss Townsend](/teachers/past-teachers/miss-townsend)
-- [Miss Winchester](/teachers/past-teachers/miss-winchester)
-- [Mr Wyton](/teachers/past-teachers/mr-wyton)
+- [Mrs Aldred](/teachers/past/mrs-aldred)
+- [Mrs Appleton-Why](/teachers/past/mrs-appleton-why)
+- [Ms Blant](/teachers/past/ms-blant)
+- [Miss Byrne](/teachers/past/miss-byrne)
+- [Mr Bretherton](/teachers/past/mr-bretherton)
+- [Mr Cairns](/teachers/past/mr-cairns)
+- [Mrs Cassidy](/teachers/past/mrs-cassidy)
+- [Mr Duncan](/teachers/past/mr-duncan)
+- [Mr Edwards](/teachers/past/mr-edwards)
+- [Mr Fitton](/teachers/past/mr-fitton)
+- [Mrs Fowler-Gibbs](/teachers/past/mrs-fowler-gibbs)
+- [Miss Gordon](/teachers/past/miss-gordon)
+- [Mr Grundy](/teachers/past/mr-grundy)
+- [Miss Ingham](/teachers/past/miss-ingham)
+- [Mrs Jackson](/teachers/past/mrs-jackson)
+- [Mrs Jenkins](/teachers/past/mrs-jenkins)
+- [Mrs King](/teachers/past/mrs-king)
+- [Mr McConvey](/teachers/past/mr-mcconvey)
+- [Miss Meredith](/teachers/past/miss-meredith)
+- [Ms Rogers](/teachers/past/ms-rogers)
+- [Mrs Sharp](/teachers/past/mrs-sharp)
+- [Mrs Stanley](/teachers/past/mrs-stanley)
+- [Miss Townsend](/teachers/past/miss-townsend)
+- [Miss Winchester](/teachers/past/miss-winchester)
+- [Mr Wyton](/teachers/past/mr-wyton)
 {.links-list}
