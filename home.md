@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-05T15:47:03.574Z
+date: 2020-06-05T18:50:58.098Z
 tags: 
 ---
 
@@ -52,7 +52,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Flint](/teachers/miss-flint)
 - [Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
 - [Miss Foster](/teachers/miss-foster)
-- [Mrs Fowler-Gibbs *Drama teacher*](/teachers/mrs-fowler-gibbs)
+- [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
 - [Miss Gauntlett](/teachers/miss-gauntlett)
