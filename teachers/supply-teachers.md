@@ -2,7 +2,7 @@
 title: Supply Teachers
 description: External teachers BRGS has brought in to cover lessons
 published: true
-date: 2020-06-05T13:55:16.993Z
+date: 2020-06-05T15:05:08.034Z
 tags: teacher, cover teacher, supply teacher
 ---
 
@@ -12,6 +12,7 @@ Luckily many supply teachers don't understand the whole Penalty Point system, an
 
 - [Mr Cairns](/teachers/past-teachers/mr-cairns)
 - [Lemon Curd](/teachers/supply-teachers/lemon-curd)
+- [Miss Lapiza](/teachers/miss-lapiza)
 - [Miss Parkinson](/teachers/supply-teachers/miss-parkinson)
 - [Ms Rogers](/teachers/past-teachers/ms-rogers)
 - [Mrs Saunders](/teachers/mrs-saunders)
