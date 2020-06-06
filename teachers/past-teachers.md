@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-05T18:50:09.947Z
+date: 2020-06-06T11:48:26.140Z
 tags: teacher, past teachers, past
 ---
 
