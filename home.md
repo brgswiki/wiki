@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-06T14:58:39.404Z
+date: 2020-06-06T19:57:56.400Z
 tags: 
 editor: markdown
 ---
@@ -14,107 +14,105 @@ The BRGS Wiki is a student run, often satirical, archive and knowledge base abou
 
 To edit, you have to have an account. To create one, click the icon in the top right corner ↗.
 
-Please make sure you familiarise yourself with our [rules](/rules) 📋 before editing!
+Please make sure you familiarise yourself with our [rules](/rules) before editing!
 
-We're a collaborative community 👥 website that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Add or edit a page to get started!
+We're a collaborative community   website that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Add or edit a page to get started!
 
 We aim to take your privacy very seriously 🔒, and you can view our privacy policy [here](/privacy) 🔑.
 
 > Red links below are pages that don't exist yet, but feel free to click on them to create them
 {.is-info}
 
-## 👨‍🏫👩‍🏫 Teachers
-
-- [Past Teachers](/teachers/past) 🧓
-- [Supply Teachers](/teachers/supply) 📏
-- [Trainee Teachers](/teachers/trainee) 🎓
-### 📆 Current teachers
+## Teachers
+### Current teachers
 
 - [Mrs Ashworth](/teachers/mrs-ashworth)
 - [Mrs Baines](/teachers/mrs-baines)
-- [🏆 Mr Baird](/teachers/mr-baird)
-- [🎨 Mrs Bamford](/teachers/mrs-bamford)
+- [Mr Baird](/teachers/mr-baird)
+- [Mrs Bamford](/teachers/mrs-bamford)
 - [Mrs Baron](/teachers/mrs-baron)
 - [Miss Bibi](/teachers/miss-bibi)
 - [Miss Black](/teachers/miss-black)
-- [💻 Mr Brandwood](/teachers/mr-brandwood)
+- [Mr Brandwood](/teachers/mr-brandwood)
 - [Miss Bowden](/teachers/miss-bowden)
-- [💬 Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
-- [🙏 Miss Butterworth](/teachers/miss-butterworth)
-- [📚 Miss Carney](/teachers/miss-carney)
+- [Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
+- [Miss Butterworth](/teachers/miss-butterworth)
+- [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
 - [Mr Chambers](/teachers/mr-chambers)
-- [📐 Mrs Chapman](/teachers/mrs-chapman)
-- [💻 Mr Cunningham](/teachers/mr-cunningham)
-- [📐 Ms Curry](/teachers/ms-curry)
-- [🎵 Mr Davenport](/teachers/mr-davenport)
+- [Mrs Chapman](/teachers/mrs-chapman)
+- [Mr Cunningham](/teachers/mr-cunningham)
+- [Ms Curry](/teachers/ms-curry)
+- [Mr Davenport](/teachers/mr-davenport)
 - [Ms Dougherty](/teachers/ms-dougherty)
-- [📐 Mrs Easby](/teachers/mrs-easby)
-- [🎨 Miss Flint](/teachers/miss-flint)
-- [💬 Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
-- [🌍 Miss Foster](/teachers/miss-foster)
-- [🧬 Mr Flynn](/teachers/mr-flynn)
-- [💻 Miss Freeth](/teachers/miss-freeth)
+- [Mrs Easby](/teachers/mrs-easby)
+- [Miss Flint](/teachers/miss-flint)
+- [Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
+- [Miss Foster](/teachers/miss-foster)
+- [Mr Flynn](/teachers/mr-flynn)
+- [Miss Freeth](/teachers/miss-freeth)
 - [Miss Gauntlett](/teachers/miss-gauntlett)
-- [📜 Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
-- [📜 Mrs Grehan *History teacher*](/teachers/mrs-grehan)
-- [📜 Miss Gore-Ward](/teachers/miss-gore-ward)
-- [📚 Miss Harper *English teacher*](/teachers/miss-harper)
-- [🧪 Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
-- [🚀 Mr Heald *Physics teacher*](/teachers/mr-heald)
-- [🧪 Dr Heaton](/teachers/dr-heaton)
+- [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
+- [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
+- [Miss Gore-Ward](/teachers/miss-gore-ward)
+- [Miss Harper *English teacher*](/teachers/miss-harper)
+- [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
+- [Mr Heald *Physics teacher*](/teachers/mr-heald)
+- [Dr Heaton](/teachers/dr-heaton)
 - [Miss Hughes](/teachers/miss-hughes)
-- [💬 Miss Jackson](/teachers/miss-jackson)
+- [Miss Jackson](/teachers/miss-jackson)
 - [Dr Jackson](/teachers/dr-jackson)
-- [💻 Mr Jones *Computing teacher*](/teachers/mr-jones)
-- [📚 Miss Jordan](/teachers/miss-jordan)
-- [🍴 Mrs Kennedy](/teachers/mrs-kennedy)
-- [📚 Mrs Kirk](/teachers/mrs-kirk)
-- [🏆 Mrs Kolbuck](/teachers/mrs-kolbuck)
-- [🌍 Miss Leah](/teachers/miss-leah)
-- [💬 Miss Lapiza *Cover Spanish teacher*](/teachers/miss-lapiza)
-- [💬 Ms Marti *German teacher*](/teachers/ms-marti)
-- [🍴 Mrs McCaffrey](/teachers/mrs-mcCaffrey)
+- [Mr Jones *Computing teacher*](/teachers/mr-jones)
+- [Miss Jordan](/teachers/miss-jordan)
+- [Mrs Kennedy](/teachers/mrs-kennedy)
+- [Mrs Kirk](/teachers/mrs-kirk)
+- [Mrs Kolbuck](/teachers/mrs-kolbuck)
+- [Miss Leah](/teachers/miss-leah)
+- [Miss Lapiza *Cover Spanish teacher*](/teachers/miss-lapiza)
+- [Ms Marti *German teacher*](/teachers/ms-marti)
+- [Mrs McCaffrey](/teachers/mrs-mcCaffrey)
 - [Miss McGuinneas](/teachers/miss-mcGuinneas)
-- [🎵 Mr Mercer](/teachers/mr-mercer)
+- [Mr Mercer](/teachers/mr-mercer)
 - [Miss Mohammedbai](/teachers/miss-mohammedbai)
-- [🚀 Miss Morris](/teachers/miss-morris)
+- [Miss Morris](/teachers/miss-morris)
 - [Mr Morriss](/teachers/mr-morriss)
 - [Mrs Mulligan](/teachers/mrs-mulligan)
 - [Mrs Nelson](/teachers/mrs-nelson)
-- [🎭 Mr Neve](/teachers/mr-neve)
-- [💬 Mrs O'Hara](/teachers/mrs-o-hara)
-- [📐 Miss Ogle](/teachers/miss-ogle)
+- [Mr Neve](/teachers/mr-neve)
+- [Mrs O'Hara](/teachers/mrs-o-hara)
+- [Miss Ogle](/teachers/miss-ogle)
 - [Miss Pauline](/teachers/miss-pauline)
-- [🏆 Mr Pigott](/teachers/mr-pigott)
-- [👑 Mr Porteous](/teachers/mr-porteous)
-- [🧬 Mrs Porteous](/teachers/mrs-porteous)
-- [📐 Miss Powell](/teachers/miss-powell)
-- [✂ Mrs Reynard](/teachers/mrs-reynard)
+- [Mr Pigott](/teachers/mr-pigott)
+- [Mr Porteous](/teachers/mr-porteous)
+- [Mrs Porteous](/teachers/mrs-porteous)
+- [Miss Powell](/teachers/miss-powell)
+- [Mrs Reynard](/teachers/mrs-reynard)
 - [Miss Rowan](/teachers/miss-rowan)
-- [👑 Mr Reeves *Deputy Head*](/teachers/mr-reeves)
-- [😄 Mrs Richardson](/teachers/mrs-richardson)
-- [🔬 Mrs Saunders *Cover science teacher*](/teachers/mrs-saunders)
-- [📐 Mrs Sawle](/teachers/mrs-sawle)
-- [📐 Mr Seddon](/teachers/mr-seddon)
-- [🌍 Mr Spencer *Head of Geography*](/teachers/mr-spencer)
-- [🧬 Mrs Spencer](/teachers/mrs-spencer)
-- [🧪 Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
-- [🚀 Mr Stringer](/teachers/mr-stringer)
-- [📚 Mrs Szafranski](/teachers/mrs-szafranski)
-- [😄 Mrs Taylor](/teachers/mrs-taylor)
-- [🙏 Mr Vincent](/teachers/mr-vincent)
-- [🎨 Miss Watts *Art teacher*](/teachers/miss-watts)
-- [🎵 Mr Webber *Music teacher*](/teachers/mr-webber)
-- [🙏 Mr Whyte *Head of RS*](/teachers/mr-whyte)
-- [📐 Mr Wilbraham *Maths teacher*](/teachers/mr-wilbraham)
-- [🏆 Mrs Williamson](/teachers/mrs-williamson)
-- [💬 Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
-- [🚀 Mr Wilkinson](/teachers/mr-wilkinson)
-- [📐 Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
+- [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
+- [Mrs Richardson](/teachers/mrs-richardson)
+- [Mrs Saunders *Cover science teacher*](/teachers/mrs-saunders)
+- [Mrs Sawle](/teachers/mrs-sawle)
+- [Mr Seddon](/teachers/mr-seddon)
+- [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
+- [Mrs Spencer](/teachers/mrs-spencer)
+- [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
+- [Mr Stringer](/teachers/mr-stringer)
+- [Mrs Szafranski](/teachers/mrs-szafranski)
+- [Mrs Taylor](/teachers/mrs-taylor)
+- [Mr Vincent](/teachers/mr-vincent)
+- [Miss Watts *Art teacher*](/teachers/miss-watts)
+- [Mr Webber *Music teacher*](/teachers/mr-webber)
+- [Mr Whyte *Head of RS*](/teachers/mr-whyte)
+- [Mr Wilbraham *Maths teacher*](/teachers/mr-wilbraham)
+- [Mrs Williamson](/teachers/mrs-williamson)
+- [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
+- [Mr Wilkinson](/teachers/mr-wilkinson)
+- [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 {.links-list}
-
-## 👨‍🎓👩‍🎓 Students
+- [Past Teachers](/teachers/past) 
+- [Supply Teachers](/teachers/supply) 
+- [Trainee Teachers](/teachers/trainee) 
+## Students
 
 - [👶 Year 7](/students/intake19)
 - [🧒 Year 8](/students/intake18)
@@ -156,16 +154,16 @@ We aim to take your privacy very seriously 🔒, and you can view our privacy po
 {.links-list}
 
 ## 🏫 Groups
-- [🚌 School Trips](/groups/trips)
-- [📍 Places](/groups/places)
-- [🚪 Rooms](/groups/rooms)
-- [🎟️ Events](/groups/events)
+- [School Trips](/groups/trips)
+- [Places](/groups/places)
+- [Rooms](/groups/rooms)
+- [Events](/groups/events)
 {.links-list}
 
-## 😂 Other Stuff
+##  Other Stuff
 
-- [😂 Meme Pages](/other/meme-pages)
-- [📜 Old Wiki](https://old.brgswiki.org)
+- [Meme Pages](/other/meme-pages)
+- [Old Wiki](https://old.brgswiki.org)
 - [🏫 BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
 {.links-list}
 
