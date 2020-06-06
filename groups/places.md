@@ -2,13 +2,14 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-06-03T15:08:35.491Z
+date: 2020-06-06T20:10:13.351Z
 tags: places
+editor: markdown
 ---
 
 # Places
 
-There are many memorable and not-so-memorable places around BRGS, most of which are listed below. Not to be confused with Rooms which are the actual classrooms themselves.
+There are many memorable and not-so-memorable places around BRGS, most of which are listed below. Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms themselves.
 
 - [Astroturfs](/groups/places/astroturfs)
 - [Art Block](/groups/places/art-block)
