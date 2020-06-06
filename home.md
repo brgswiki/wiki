@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-06T14:11:39.791Z
+date: 2020-06-06T14:36:26.718Z
 tags: 
 editor: markdown
 ---
@@ -23,7 +23,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 > Red links below are pages that don't exist yet, but feel free to click on them to create them
 {.is-info}
 
-## Teachers
+## 👨‍🏫👩‍🏫 Teachers
 
 - [Past Teachers](/teachers/past)
 - [Supply Teachers](/teachers/supply)
@@ -114,7 +114,7 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 {.links-list}
 
-## Students
+## 👨‍🎓👩‍🎓 Students
 
 - [Year 7](/students/intake19)
 - [Year 8](/students/intake18)
@@ -126,46 +126,46 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Past Students](/students/past)
 {.links-list}
 
-## Subjects
+## 📅 Subjects
 
-- [Art](/subjects/art)
-- [Biology](/subjects/biology)
-- [Business Studies](/subjects/business-studies)
-- [Chemistry](/subjects/chemistry)
-- [Computing](/subjects/computing)
-- [Design Technology](/subjects/dt)
-- [Drama](/subjects/drama)
-- [Economics](/subjects/economics)
-- [English](/subjects/english)
-- [Food Technology](/subjects/food-tech)
-- [French](/subjects/french)
-- [Geography](/subjects/geography)
-- [German](/subjects/german)
-- [History](/subjects/maths)
-- [Modern Foreign Languages](/subjects/mfl)
-- [Music](/subjects/music)
-- [PE](/subjects/pe)
-- [Physics](/subjects/physics)
-- [Psychology](/subjects/psychology)
-- [PSHCE](/subjects/pshce)
-- [RS](/subjects/rs)
-- [Textiles](/subjects/textiles)
-- [Science](/subjects/science)
-- [Sociology](/subjects/sociology)
+- [🎨 Art](/subjects/art)
+- [🧬 Biology](/subjects/biology)
+- [💼 Business Studies](/subjects/business-studies)
+- [🧪 Chemistry](/subjects/chemistry)
+- [💻 Computing](/subjects/computing)
+- [🛠️ Design Technology](/subjects/dt)
+- [🎭 Drama](/subjects/drama)
+- [💸 Economics](/subjects/economics)
+- [📚 English](/subjects/english)
+- [🍴 Food Technology](/subjects/food-tech)
+- [🇫🇷 French](/subjects/french)
+- [🌍 Geography](/subjects/geography)
+- [🇩🇪 German](/subjects/german)
+- [📜 History](/subjects/maths)
+- [💬 Modern Foreign Languages](/subjects/mfl)
+- [🎵 Music](/subjects/music)
+- [🏆 PE](/subjects/pe)
+- [🚀 Physics](/subjects/physics)
+- [🧠 Psychology](/subjects/psychology)
+- [😄 PSHCE](/subjects/pshce)
+- [🙏 RS](/subjects/rs)
+- [✂️ Textiles](/subjects/textiles)
+- [🔬 Science](/subjects/science)
+- [👥 Sociology](/subjects/sociology)
 {.links-list}
 
-## Groups
-- [School Trips](/groups/trips)
-- [Places](/groups/places)
-- [Rooms](/groups/rooms)
-- [Events](/groups/events)
+## 🏫 Groups
+- [🚌 School Trips](/groups/trips)
+- [📍 Places](/groups/places)
+- [🚪 Rooms](/groups/rooms)
+- [🎟️ Events](/groups/events)
 {.links-list}
 
-## Other Stuff
+## 😂 Other Stuff
 
-- [Meme Pages](/other/meme-pages)
-- [Old Wiki](https://old.brgswiki.org)
-- [BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
+- [😂 Meme Pages](/other/meme-pages)
+- [📜 Old Wiki](https://old.brgswiki.org)
+- [🏫 BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
 {.links-list}
 
 > If you helped to run the old wiki and would like to help us to move this site to the old brgswiki.org domain, please get in touch by email at [admin@brgswiki.tk](mailto:admin@brgswiki.tk?subject=New%20BRGS%20Wiki%20Domain). Thanks.
