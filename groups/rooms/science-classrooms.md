@@ -2,13 +2,13 @@
 title: Science Classrooms
 description: The rooms in which biology, chemistry and physics are taught
 published: true
-date: 2020-06-06T19:02:00.047Z
+date: 2020-06-06T19:59:03.031Z
 tags: chemistry, physics, places, science, biology, rooms, classrooms
 editor: markdown
 ---
 
 # Science Classrooms
-These rooms are amongst the oldest in school, and over the past have had many forms including laundry rooms, art rooms and cookery rooms. Nowadays the balcony houses the chemistry department, biology department, and Room 7. (The other physics classrooms are found in the belfry.)
+These rooms are amongst the oldest in school, and over the past have had many forms including laundry rooms, art classrooms and cookery rooms. Nowadays the balcony houses the chemistry department, biology department, and Room 7. (The other physics classrooms are found in the belfry.)
 
 #### Chemistry Classrooms
 - [Room 1](/groups/rooms/science-rooms/room-1)
