@@ -2,7 +2,7 @@
 title: Science Rooms
 description: The rooms in which biology, chemistry and physics are taught
 published: true
-date: 2020-06-06T20:05:14.140Z
+date: 2020-06-06T20:12:21.869Z
 tags: chemistry, physics, places, science, biology, rooms, classrooms
 editor: markdown
 ---
@@ -14,7 +14,7 @@ These rooms are amongst the oldest in school, and over the past have had many fo
 - [Room 1](/groups/rooms/science-rooms/room-1)
 - [Room 3](/groups/rooms/science-rooms/room-3)
 - [Room 5](/groups/rooms/science-rooms/room-5)
-- [Room 13](/groups/rooms/science-rooms/room-13)
+- [Room 12](/groups/rooms/science-rooms/room-12)
 {.links-list}
 
 #### Physics Classrooms
@@ -27,5 +27,5 @@ These rooms are amongst the oldest in school, and over the past have had many fo
 - [Room 9](/groups/rooms/science-rooms/room-9)
 - [Room 10](/groups/rooms/science-rooms/room-10)
 - [Room 11](/groups/rooms/science-rooms/room-11)
-- [Room 12](/groups/rooms/science-rooms/room-12)
+- [Room 13](/groups/rooms/science-rooms/room-13)
 {.links-list}
