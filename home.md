@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-05T18:50:58.098Z
+date: 2020-06-06T11:52:25.858Z
 tags: 
 ---
 
@@ -26,8 +26,12 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 
 ## Teachers
 
-- [Mrs Aldred](/teachers/mrs-aldred)
-- [Mrs Appleton-Why](/teachers/mrs-appleton-why)
+- [Past Teachers](/teachers/past)
+- [Supply Teachers](/teachers/supply)
+- [Trainee Teachers](/teachers/trainee)
+{.links-list}
+#### Current teachers
+
 - [Mrs Ashworth](/teachers/mrs-ashworth)
 - [Mrs Baines](/teachers/mrs-baines)
 - [Mr Baird](/teachers/mr-baird)
@@ -39,7 +43,6 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Bowden](/teachers/miss-bowden)
 - [Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
 - [Miss Butterworth](/teachers/miss-butterworth)
-- [Miss Byrne](/teachers/miss-byrne)
 - [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
 - [Mr Chambers](/teachers/mr-chambers)
@@ -52,26 +55,22 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Flint](/teachers/miss-flint)
 - [Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
 - [Miss Foster](/teachers/miss-foster)
-- [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
 - [Miss Gauntlett](/teachers/miss-gauntlett)
 - [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
 - [Miss Gore-Ward](/teachers/miss-gore-ward)
-- [Mr Grundy](/teachers/mr-grundy)
 - [Miss Harper *English teacher*](/teachers/miss-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
 - [Dr Heaton](/teachers/dr-heaton)
 - [Miss Hughes](/teachers/miss-hughes)
 - [Miss Jackson](/teachers/miss-jackson)
-- [Mrs Jackson](/teachers/mrs-jackson)
 - [Dr Jackson](/teachers/dr-jackson)
 - [Mr Jones *Computing teacher*](/teachers/mr-jones)
 - [Miss Jordan](/teachers/miss-jordan)
 - [Mrs Kennedy](/teachers/mrs-kennedy)
-- [Mrs King](/teachers/mrs-king)
 - [Mrs Kirk](/teachers/mrs-kirk)
 - [Mrs Kolbuck](/teachers/mrs-kolbuck)
 - [Miss Leah](/teachers/miss-leah)
@@ -106,7 +105,6 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Mr Stringer](/teachers/mr-stringer)
 - [Mrs Szafranski](/teachers/mrs-szafranski)
 - [Mrs Taylor](/teachers/mrs-taylor)
-- [Mrs Townsend](/teachers/mrs-townsend)
 - [Mr Vincent](/teachers/mr-vincent)
 - [Miss Watts *Art teacher*](/teachers/miss-watts)
 - [Mr Webber *Music teacher*](/teachers/mr-webber)
@@ -116,10 +114,6 @@ We aim to take your privacy very seriously, and you can view our privacy policy 
 - [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
-- [Mr Wyton](/teachers/mr-wyton)
-- [Past Teachers](/teachers/past-teachers)
-- [Supply Teachers](/teachers/supply-teachers)
-- [Trainee Teachers](/teachers/trainee-teachers)
 {.links-list}
 
 ## Students
