@@ -2,56 +2,57 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-06-03T16:09:56.228Z
+date: 2020-06-06T14:10:44.245Z
 tags: school trips, trips, groups
+editor: markdown
 ---
 
 # School Trips
-BRGS hosts a number of school trips, patricularly for the lower years. Some of these trips do indeed include hotels although many include staying in a tent in -6 degrees being dragged through the muddy back end of nowhere with Chappers getting annoyed at everyone. Most school trips have awful food, so bring as much of your own if you can - you have been warned. However, over the years BRGS seems to be cutting down on some trips, possibly to spare some extra cash for Alan's corridor addiction, although of course we don't know for sure.
+BRGS hosts a number of school trips, patricularly for the lower years. Some of these trips do indeed include hotels although many include staying in a tent in -6°C  being dragged through the muddy back end of nowhere with [Chappers](/teachers/mrs-chapman) getting annoyed at everyone. Most school trips have awful food, so bring as much of your own if you can - you have been warned. However, over the years BRGS seems to be cutting down on some trips, possibly to spare some extra cash for [Alan's](/teachers/mr-porteous) corridor addiction, although of course we don't know for sure.
 
 #### Year 7
-- [Paris](/groups/school-trips/paris)
-- [Waterfoot](/groups/school-trips/waterfoot)
-- [Jodrell Bank](/groups/school-trips/jodrell-bank)
-- [Year 7 Activity Day](/groups/school-trips/year-7-activity-day)
+- [Paris](/groups/trips/paris)
+- [Waterfoot](/groups/trips/waterfoot)
+- [Jodrell Bank](/groups/trips/jodrell-bank)
+- [Year 7 Activity Day](/groups/trips/year-7-activity-day)
 {.links-list}
 
 #### Year 8
-- [Anglesey](/groups/school-trips/anglesey)
-- [Edale](/groups/school-trips/edale)
-- [Yorkshire Dales](/groups/school-trips/yorkshire-dales)
-- [Blackpool](/groups/school-trips/blackpool)
+- [Anglesey](/groups/trips/anglesey)
+- [Edale](/groups/trips/edale)
+- [Yorkshire Dales](/groups/trips/yorkshire-dales)
+- [Blackpool](/groups/trips/blackpool)
 {.links-list}
 
 #### Year 9
-- [Ypres](/groups/school-trips/ypres)
-- [Year 9 Camp](/groups/school-trips/year-9-camp)
+- [Ypres](/groups/trips/ypres)
+- [Year 9 Camp](/groups/trips/year-9-camp)
 {.links-list}
 
 #### Year 10
-- [Bronze DofE](/groups/school-trips/bronze-dofe)
-- [River Irwell](/groups/school-trips/river-irwell)
+- [Bronze DofE](/groups/trips/bronze-dofe)
+- [River Irwell](/groups/trips/river-irwell)
 {.links-list}
 
 #### Year 11
-- [Silver DofE](/groups/school-trips/silver-dofe)
+- [Silver DofE](/groups/trips/silver-dofe)
 {.links-list}
 
 #### Sixth Form
-- [Gold DofE](/groups/school-trips/gold-dofe)
-- [Madagascar](/groups/school-trips/madagascar)
-- [Indonesia](/groups/school-trips/indonesia)
-- [Auschwitz](/groups/school-trips/auschwitz)
-- [Geneva](/groups/school-trips/geneva)
+- [Gold DofE](/groups/trips/gold-dofe)
+- [Madagascar](/groups/trips/madagascar)
+- [Indonesia](/groups/trips/indonesia)
+- [Auschwitz](/groups/trips/auschwitz)
+- [Geneva](/groups/trips/geneva)
 {.links-list}
 
 #### Other
-- [China](/groups/school-trips/china)
-- [America](/groups/school-trips/america)
-- [Valencia](/groups/school-trips/valencia)
-- [Theatre Trips](/groups/school-trips/theatre-trips)
-- [German Exchange](/groups/school-trips/german-exchange)
-- [London Music Trip](/groups/school-trips/london-music-trip)
-- [Sports Trips](/groups/school-trips/sports-trips)
-- [Work Experience](/groups/school-trips/work-experience)
+- [China](/groups/trips/china)
+- [America](/groups/trips/america)
+- [Valencia](/groups/trips/valencia)
+- [Theatre Trips](/groups/trips/theatre-trips)
+- [German Exchange](/groups/trips/german-exchange)
+- [London Music Trip](/groups/trips/london-music-trip)
+- [Sports Trips](/groups/trips/sports-trips)
+- [Work Experience](/groups/trips/work-experience)
 {.links-list}
