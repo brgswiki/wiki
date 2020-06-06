@@ -2,7 +2,7 @@
 title: Year 9
 description: The third year of BRGS
 published: true
-date: 2020-06-06T11:50:25.808Z
+date: 2020-06-06T11:58:11.437Z
 tags: intake, year 9, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
 ---
 
@@ -13,7 +13,7 @@ In Year 9 rather than being in forms for your classes you are put in a mixed gro
 
 The current Year 9 joined in 2017, and their Head of Year is Mr Chambers.
 
-#### Year 7 Forms
+#### Year 9 Forms
 - [17B](/students/intake-17/17b)
 - [17R](/students/intake-17/17r)
 - [17G](/students/intake-17/17g)
