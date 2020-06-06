@@ -2,7 +2,7 @@
 title: Supply Teachers
 description: External teachers BRGS has brought in to cover lessons
 published: true
-date: 2020-06-06T11:54:40.037Z
+date: 2020-06-06T12:00:16.229Z
 tags: teacher, cover teacher, supply teacher
 ---
 
@@ -16,7 +16,7 @@ Luckily many supply teachers don't understand the whole Penalty Point system, an
 - [Ms Rogers](/teachers/past-teachers/ms-rogers)
 - [Mrs Saunders](/teachers/mrs-saunders)
 - [Miss Townsend](/teachers/past-teachers/miss-townsend)
-- [Terry](/teachers/supply-teachers/terry)
+- [Terry - possible a Mr Blacoe?](/teachers/supply-teachers/terry)
 {.links-list}
 
 > I'm afraid I don't know all the supply teacher's names, either because they never disclosed them or I've just forgotten - hence some of the nicknames. If you know their real name, feel free to replace it!
