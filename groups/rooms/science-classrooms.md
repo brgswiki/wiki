@@ -2,7 +2,7 @@
 title: Science Rooms
 description: The rooms in which biology, chemistry and physics are taught
 published: true
-date: 2020-06-06T20:12:21.869Z
+date: 2020-06-07T20:12:28.527Z
 tags: chemistry, physics, places, science, biology, rooms, classrooms
 editor: markdown
 ---
@@ -11,21 +11,21 @@ editor: markdown
 These rooms are amongst the oldest in school, and over the past have had many forms including laundry rooms, art classrooms and cookery rooms. Nowadays the balcony houses the chemistry department, biology department, and Room 7. (The other physics classrooms are found in the belfry.)
 
 #### Chemistry Classrooms
-- [Room 1](/groups/rooms/science-rooms/room-1)
-- [Room 3](/groups/rooms/science-rooms/room-3)
-- [Room 5](/groups/rooms/science-rooms/room-5)
-- [Room 12](/groups/rooms/science-rooms/room-12)
+- [Room 1](/groups/rooms/science/1)
+- [Room 3](/groups/rooms/science/3)
+- [Room 5](/groups/rooms/science/5)
+- [Room 12](/groups/rooms/science/12)
 {.links-list}
 
 #### Physics Classrooms
-- [Room 7](/groups/rooms/science-rooms/room-7)
-- [Room 62](/groups/rooms/science-rooms/room-62)
-- [Room 63](/groups/rooms/science-rooms/room-63)
+- [Room 7](/groups/rooms/science/7)
+- [Room 62](/groups/rooms/science/62)
+- [Room 63](/groups/rooms/science/63)
 {.links-list}
 
 #### Biology Classroom
-- [Room 9](/groups/rooms/science-rooms/room-9)
-- [Room 10](/groups/rooms/science-rooms/room-10)
-- [Room 11](/groups/rooms/science-rooms/room-11)
-- [Room 13](/groups/rooms/science-rooms/room-13)
+- [Room 9](/groups/rooms/science/9)
+- [Room 10](/groups/rooms/science/10)
+- [Room 11](/groups/rooms/science/11)
+- [Room 13](/groups/rooms/science/13)
 {.links-list}
