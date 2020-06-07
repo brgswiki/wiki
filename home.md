@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-07T19:39:44.050Z
+date: 2020-06-07T19:40:46.340Z
 tags: 
 editor: markdown
 ---
@@ -24,6 +24,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 {.is-info}
 
 ## Teachers
+
 ### Current teachers
 
 - [Mrs Ashworth](/teachers/mrs-ashworth)
@@ -109,10 +110,13 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Wilkinson](/teachers/mr-wilkinson)
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 {.links-list}
+
 ---
+
 - [Past Teachers](/teachers/past) 
 - [Supply Teachers](/teachers/supply) 
 - [Trainee Teachers](/teachers/trainee) 
+
 ## Students
 
 - [👶 Year 7](/students/intake19)
@@ -125,7 +129,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [🧓 Past Students](/students/past)
 {.links-list}
 
-## 📅 Subjects
+## Subjects
 
 - [🎨 Art](/subjects/art)
 - [🧬 Biology](/subjects/biology)
@@ -154,7 +158,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [👥 Sociology](/subjects/sociology)
 {.links-list}
 
-## 🏫 Groups
+## Groups
 - [School Trips](/groups/trips)
 - [Places](/groups/places)
 - [Rooms](/groups/rooms)
@@ -165,7 +169,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 
 - [Meme Pages](/other/meme-pages)
 - [Old Wiki](https://old.brgswiki.org)
-- [🏫 BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
+- [BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
 {.links-list}
 
 > If you helped to run the old wiki and would like to help us to move this site to the old brgswiki.org domain, please get in touch by email at [admin@brgswiki.tk](mailto:admin@brgswiki.tk?subject=New%20BRGS%20Wiki%20Domain). Thanks.
