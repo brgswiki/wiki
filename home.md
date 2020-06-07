@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-07T10:38:50.820Z
+date: 2020-06-07T19:38:48.498Z
 tags: 
 editor: markdown
 ---
@@ -90,7 +90,7 @@ We aim to take your privacy very seriously 🔒, and you can view our privacy po
 - [Miss Rowan](/teachers/miss-rowan)
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
 - [Mrs Richardson](/teachers/mrs-richardson)
-- [Mrs Saunders *Cover science teacher*](/teachers/past-teachers/mrs-saunders)
+- [Mrs Saunders *Cover science teacher*](/teachers/supply/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
 - [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
