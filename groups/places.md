@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-06-06T20:10:13.351Z
+date: 2020-06-08T17:51:59.167Z
 tags: places
 editor: markdown
 ---
@@ -37,5 +37,6 @@ There are many memorable and not-so-memorable places around BRGS, most of which 
 - [Staffroom Sr](/groups/places/staffroom-major)
 - [The Glen](/groups/places/the-glen)
 {.links-list}
+
 
 ![screen_shot_2020-06-02_at_12.14.03.png](/screen_shot_2020-06-02_at_12.14.03.png) 
