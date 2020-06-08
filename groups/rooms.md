@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-06-07T20:12:44.003Z
+date: 2020-06-08T10:52:11.124Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -18,7 +18,7 @@ Many of these rooms, depending on the building the reside in, are either miles a
 - [History Classrooms](/groups/rooms/history)
 - [PSHCE Classrooms](/groups/rooms/pshce)
 - [Technology Rooms](/groups/rooms/technology)
-- [Drama Classrooms](/groups/rooms/drama)
+- [Drama Classrooms](/groups/rooms/drama-classrooms)
 - [Geography Classrooms](/groups/rooms/geography)
 - [Psychology Classrooms](/groups/rooms/psychology)
 - [Sociology Classrooms](/groups/rooms/sociology)
