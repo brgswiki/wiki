@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-06-09T11:44:33.266Z
+date: 2020-06-09T13:02:33.036Z
 tags: rules
 editor: markdown
 ---
@@ -43,7 +43,7 @@ editor: markdown
 ### Adding images
 
 - Please upload images to the wiki directly, do not link to images on other sites because those links could expire
-- Before uploading an image, please make sure it isn't too large, around 500-800px width is great, you can resize it at https://imageresizer.com/, this helps to ensure no bandwidth is wasted.
+- Before uploading an image, please make sure it isn't too large, anywhere around 300-800px width is great, you can resize it at https://imageresizer.com/, this helps to ensure no bandwidth is wasted.
 - Even if the image is already a suitable size, please compress it either at the link above or at https://compresspng.com/ or https://compressjpeg.com/ depending on the file format.
 
 <figure class="image image-style-align-right"><img src="/ms-marti_grammar-king.jpg"><figcaption>A lovely example image</figcaption></figure>
