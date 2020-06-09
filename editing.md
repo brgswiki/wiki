@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-06-09T13:02:33.036Z
+date: 2020-06-09T13:08:30.594Z
 tags: rules
 editor: markdown
 ---
@@ -16,8 +16,8 @@ editor: markdown
 - Don't delete the work of other users without a clear justification
 - Use good English and don't use rude language (for more details on this [please see our rules](/rules))
 > **If you have *any* problems, concerns or questions *at all* just email [support@brgswiki.tk](mailto:support@brgswiki.tk) and we will be happy to help and get back to you ASAP.**
-> Don't worry, we're super friendly, and we won't get super mad if you broke something
-(its better to just let us know so we can fix it, we take backups of the site every 5 minutes so its an easy job)
+> Don't worry, we're super friendly, and we won't get mad if you broke something
+(its better to just let us know so we can fix it, we take backups of the site every 5 minutes so it's an easy job)
 {.is-success}
 
 ### Creating a new page
@@ -53,7 +53,7 @@ editor: markdown
   - Click the large `Browse or Drop files here...` button to select your files. (Or just drop them onto the button).
   - Click `Upload`.
   - Your image(s) should now appear in the library on the left, click on it and then choose `Insert`.
-    - If you cant see your image click twice on the header of the `Added` column to sort images by date added.
+    - If you can't see your image click twice on the header of the `Added` column to sort images by date added.
 - Preferably, choose `Right aligned image` from the tooltip (it looks way nicer) and if possible **do not** resize the image, so it is easier to view on mobile devices.
 
 <br>
