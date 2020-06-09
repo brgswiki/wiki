@@ -2,8 +2,9 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-05-30T11:54:14.936Z
-tags: 
+date: 2020-06-09T11:45:32.020Z
+tags: rules, privacy
+editor: markdown
 ---
 
 # Privacy Policy 🔒
