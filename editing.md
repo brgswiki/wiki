@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-06-09T11:42:45.867Z
+date: 2020-06-09T11:44:33.266Z
 tags: rules
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 ### Creating a new page
 
 - 9 times out of 10, there will already be a 'red' link to the page you want to create, for example a teacher link on the homepage. Look for a button like this: <br>
-  <ul class="links-list"><li><a href="" class="is-internal-link is-invalid-page">Name of page</a></li></ul>
+  <ul class="links-list"><li><a class="is-internal-link is-invalid-page">Name of page</a></li></ul>
 - Clicking on that will take you to a message saying `This page does not exist yet`. Simply click `Create page` to get started.
 - When asked what editor you want to use, choose `Visual Editor` - even if you are comfortable using Markdown, others who want to edit the page later might not be.
 - Set the page title to the same as the red link you clicked, and add a suitable description.
