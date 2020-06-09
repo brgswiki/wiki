@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-06-08T17:51:59.167Z
+date: 2020-06-09T10:47:11.446Z
 tags: places
 editor: markdown
 ---
@@ -14,13 +14,13 @@ There are many memorable and not-so-memorable places around BRGS, most of which 
 - [Astroturfs](/groups/places/astroturfs)
 - [Art Block](/groups/places/art-block)
 - [Bacup and Rawtenstall Grammar School](/groups/places/brgs)
-- [Balcony](/places/balcony)
+- [Balcony](/groups/places/balcony)
 - [Basement Corridor](/groups/places/basement-corridor)
 - [Belfry](/groups/places/belfry)
 - [Canopy](/groups/places/planopy)
 - [Cateen](/groups/places/canteen)
-- [Clark Building](groups//places/clark-building)
-- [Classrooms](groups//places/classrooms)
+- [Clark Building](groups/places/clark-building)
+- [Classrooms](groups/places/classrooms)
 - [Corridors](/groups/places/corridors)
 - [Cubby Hole](/groups/places/cubby-hole)
 - [English Block](/groups/places/english-block)
