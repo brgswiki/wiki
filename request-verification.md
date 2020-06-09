@@ -2,7 +2,7 @@
 title: Request Verification
 description: Get your Wiki account verified so you can edit pages
 published: true
-date: 2020-06-09T19:13:29.378Z
+date: 2020-06-09T19:27:45.915Z
 tags: verification
 editor: markdown
 ---
