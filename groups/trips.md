@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-06-06T14:10:44.245Z
+date: 2020-06-10T13:07:16.297Z
 tags: school trips, trips, groups
 editor: markdown
 ---
@@ -30,6 +30,7 @@ BRGS hosts a number of school trips, patricularly for the lower years. Some of t
 {.links-list}
 
 #### Year 10
+- [GCSE Science Live](/groups/trips/gcse-science-live)
 - [Bronze DofE](/groups/trips/bronze-dofe)
 - [River Irwell](/groups/trips/river-irwell)
 {.links-list}
