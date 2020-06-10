@@ -2,8 +2,9 @@
 title: Events
 description: BRGS Events
 published: true
-date: 2020-06-03T16:04:39.134Z
+date: 2020-06-10T13:23:54.845Z
 tags: groups, events
+editor: markdown
 ---
 
 # Events
@@ -31,7 +32,6 @@ BRGS hosts many events each year, however like many of other things, there seem 
 - [Christmas Assembly](/groups/events/christmas-assembly)
 - [End of Year Assembly](/groups/events/end-of-year-assembly)
 - [Tug-of-war](/groups/events/tug-of-war)
-- [Sixth Form Slave Auction](/groups/events/sixth-form-slave-auction)
 - [Mock Election](/groups/events/mock-election)
 - [Open Evening](/groups/events/open-evening)
 
