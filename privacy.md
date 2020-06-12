@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-06-09T11:45:32.020Z
+date: 2020-06-12T14:40:41.357Z
 tags: rules, privacy
 editor: markdown
 ---
@@ -106,13 +106,11 @@ We only share and disclose your information with the following third parties. We
 - **Content Optimization**
 	Google Fonts and Instagram embed
 - **Data Backup and Security**
-	Github repos
+	GitLab
 - **Functionality and Infrastructure Optimization**
   Google Compute Engine and Cloudflare
 - **User Account Registration and Authentication**
   Facebook, Google, GitHub, Twitter and Discord OAuth
-- **User Commenting and Forums**
-  Commento
 - **Web and Mobile Analytics**
   Google Analytics
 
