@@ -2,7 +2,7 @@
 title: Trainee Teachers
 description: Teachers who have come to train for a short while at BRGS
 published: true
-date: 2020-06-14T14:30:15.490Z
+date: 2020-06-14T14:32:16.662Z
 tags: teacher, past teachers, trainee teachers
 editor: markdown
 ---
@@ -14,7 +14,7 @@ BRGS has a couple of trainee teachers each year, across many different subjects.
 - [Miss Clapperton](/teachers/trainee-teachers/miss-clapperton)
 - [Mr Curly](/teachers/trainee-teachers/mr-curly)
 - [Miss Jones](/teachers/trainee-teachers/miss-jones)
+- [Mr Rimmer](/teachers/trainee-teachers/mr-rimmer)
 - [Miss Winchester](/teachers/past-teachers/miss-winchester)
 - (RS & PHSCE woman 2017)
-- (History guy 2019)
 {.links-list}
