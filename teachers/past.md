@@ -2,11 +2,12 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-06T11:48:26.140Z
+date: 2020-06-14T15:43:21.049Z
 tags: teacher, past teachers, past
+editor: markdown
 ---
 
-## Past Teachers
+## Past Teacher
 
 - [Mrs Aldred](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why](/teachers/past/mrs-appleton-why)
