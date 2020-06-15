@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-15T18:49:17.367Z
+date: 2020-06-15T18:50:46.260Z
 tags: home
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 # Welcome to the BRGS Wiki 🎉
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs_from-glen-road.jpg"><figcaption>The lovely view from Glen Road</figcaption></figure>
 
-The BRGS Wik is a student run, often satirical, archive and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK - that anyone can edit. ✏
+The BRGS Wiki is a student run, often satirical, archive and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK - that anyone can edit. ✏
 
 To edit, you have to have an account. To create one, click the icon in the top right corner ↗. Once you have created an account, you can [request verification here](/request-verification).
 
