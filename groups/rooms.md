@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-06-08T14:04:15.342Z
+date: 2020-06-18T14:16:37.779Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 # Rooms
 
 BRGS has many rooms, including classrooms and little storage rooms that look like someone hasn't set foot in there since the 1960s (both the classrooms and storage rooms).
-Many of these rooms, depending on the building the reside in, are either miles above or below the ideal temperature.
+Many of these rooms, depending on the building they reside in, are either miles above or below the ideal temperature.
 
 ###  Classrooms
 - [Science Classrooms](/groups/rooms/science)
