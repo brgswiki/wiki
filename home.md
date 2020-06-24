@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-24T08:18:19.734Z
+date: 2020-06-24T09:24:59.293Z
 tags: home
 editor: markdown
 ---
@@ -58,7 +58,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Gauntlett](/teachers/miss-gauntlett)
 - [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
-- [Miss Gore-Ward](/teachers/miss-gore-ward)
+- [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
 - [Miss Harper *English teacher*](/teachers/miss-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
