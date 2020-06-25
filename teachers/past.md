@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-14T15:43:39.302Z
+date: 2020-06-25T19:00:17.235Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -25,6 +25,7 @@ editor: markdown
 - [Miss Ingham](/teachers/past/miss-ingham)
 - [Mrs Jackson](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
+- [Mrs Khan](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
 - [Mr McConvey](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
