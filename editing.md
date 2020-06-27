@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-06-27T17:02:21.475Z
+date: 2020-06-27T17:45:31.508Z
 tags: rules
 editor: markdown
 ---
@@ -29,7 +29,7 @@ editor: markdown
 - Set the page title to the same as the red link you clicked, and add a suitable description.
 - Add suitable tags eg. what subject a teacher teaches, etc.
 
-> Unsure what to add to a page? Check out this page.
+> Unsure what to add? Check out [this page](/editing/helpful-tips).
 {.is-info}
 
 
