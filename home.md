@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-26T08:23:55.625Z
+date: 2020-06-28T10:48:25.441Z
 tags: home
 editor: markdown
 ---
@@ -77,7 +77,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Ms Marti *German teacher*](/teachers/ms-marti)
 - [Mrs McCaffrey](/teachers/mrs-mcCaffrey)
 - [Miss McGuinneas](/teachers/miss-mcGuinneas)
-- [Mr Mercer *Music teacher*](/teachers/mr-mercer)
+- [Mr Mercer *Head of Music*](/teachers/mr-mercer)
 - [Miss Morris *Physics teacher*](/teachers/miss-morris)
 - [Mr Morriss](/teachers/mr-morriss)
 - [Mrs Mulligan](/teachers/mrs-mulligan)
