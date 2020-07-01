@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-06-28T12:14:06.138Z
+date: 2020-07-01T22:30:29.180Z
 tags: home
 editor: markdown
 ---
@@ -106,7 +106,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Vincent](/teachers/mr-vincent)
 - [Miss Watts](/teachers/miss-watts)
 - [Mr Webber](/teachers/mr-webber)
-- [Mr Whyte](/teachers/mr-whyte)
+- [Mr Whyte *Head of RS*](/teachers/mr-whyte)
 - [Mr Wilbraham *Maths teacher*](/teachers/mr-wilbraham)
 - [Mrs Williamson *PE Teacher*](/teachers/mrs-williamson)
 - [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
