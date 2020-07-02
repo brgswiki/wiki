@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-07-02T09:59:17.755Z
+date: 2020-07-02T11:10:05.764Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -10,8 +10,8 @@ editor: markdown
 ## Past Teachers
 Teachers from years long gone...
 - [Mrs Aldred](/teachers/past/mrs-aldred)
-- [Mrs Appleton-Why](/teachers/past/mrs-appleton-why)
-- [Mrs Ashworth](/teachers/past/mrs-ashworth)
+- [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
+- [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton](/teachers/past/mr-bretherton)
@@ -20,7 +20,7 @@ Teachers from years long gone...
 - [Mr Duncan](/teachers/past/mr-duncan)
 - [Mr Edwards](/teachers/past/mr-edwards)
 - [Mr Fitton](/teachers/past/mr-fitton)
-- [Mrs Fowler-Gibbs](/teachers/past/mrs-fowler-gibbs)
+- [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy](/teachers/past/mr-grundy)
 - [Miss Ingham](/teachers/past/miss-ingham)
@@ -33,7 +33,7 @@ Teachers from years long gone...
 - [Ms Rogers](/teachers/past/ms-rogers)
 - [Mrs Sharp](/teachers/past/mrs-sharp)
 - [Mrs Stanley](/teachers/past/mrs-stanley)
-- [Miss Townsend](/teachers/past/miss-townsend)
+- [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
 - [Miss Winchester](/teachers/past/miss-winchester)
-- [Mr Wyton](/teachers/past/mr-wyton)
+- [Mr Wyton *German teacher*](/teachers/past/mr-wyton)
 {.links-list}
