@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-06-27T15:53:04.719Z
+date: 2020-07-02T09:59:17.755Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -11,6 +11,7 @@ editor: markdown
 Teachers from years long gone...
 - [Mrs Aldred](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why](/teachers/past/mrs-appleton-why)
+- [Mrs Ashworth](/teachers/past/mrs-ashworth)
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton](/teachers/past/mr-bretherton)
