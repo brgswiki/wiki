@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone. The contents of this site is not endorsed in any way by the school.
 published: true
-date: 2020-07-02T09:58:40.424Z
+date: 2020-07-02T10:41:29.943Z
 tags: home
 editor: markdown
 ---
@@ -28,11 +28,8 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 ## Teachers
 
 ### Current teachers
-
-- [Mrs Baines](/teachers/other/mrs-baines)
 - [Mr Baird](/teachers/mr-baird)
 - [Mrs Bamford *Head of Art*](/teachers/mrs-bamford)
-- [Mrs Baron](/teachers/other/mrs-baron)
 - [Mrs Berry](/teachers/mrs-berry)
 - [Miss Bibi](/teachers/past/miss-bibi)
 - [Miss Black](/teachers/miss-black)
@@ -54,7 +51,6 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Foster](/teachers/miss-foster)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
-- [Miss Gauntlett](/teachers/other/miss-gauntlett)
 - [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
 - [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
@@ -62,7 +58,6 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
 - [Dr Heaton *Chemistry teacher*](/teachers/dr-heaton)
-- [Miss Hughes](/teachers/other/miss-hughes)
 - [Miss Jackson](/teachers/miss-jackson)
 - [Dr Jackson](/teachers/dr-jackson)
 - [Mr Jackson](/teachers/mr-jackson)
@@ -70,17 +65,14 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Jordan](/teachers/miss-jordan)
 - [Mrs Kennedy](/teachers/mrs-kennedy)
 - [Mrs King](/teachers/mrs-king)
-- [Mrs Kirk](/teachers/other/mrs-kirk)
 - [Mrs Kolbuck](/teachers/mrs-kolbuck)
 - [Miss Leah](/teachers/miss-leah)
 - [Miss Lapiza *Cover Spanish teacher*](/teachers/supply/miss-lapiza)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
 - [Mrs McCaffrey](/teachers/mrs-mcCaffrey)
-- [Miss McGuinneas](/teachers/other/miss-mcGuinneas)
 - [Mr Mercer *Head of Music*](/teachers/mr-mercer)
 - [Miss Morris *Physics teacher*](/teachers/miss-morris)
 - [Mr Morriss](/teachers/mr-morriss)
-- [Mrs Mulligan](/teachers/other/mrs-mulligan)
 - [Mrs Nelson](/teachers/mrs-nelson)
 - [Mr Neve](/teachers/mr-neve)
 - [Mrs O'Hara](/teachers/mrs-o-hara)
