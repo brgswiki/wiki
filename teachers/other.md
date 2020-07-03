@@ -2,7 +2,7 @@
 title: Other Staff Members
 description: Staff members not including teaching staff
 published: true
-date: 2020-07-03T13:00:52.571Z
+date: 2020-07-03T13:01:50.150Z
 tags: teacher, staff
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 
 Staff members that are not strictly teaching staff - including office staff, technicians, dinner ladies, teaching assistants etc.
 - [Mrs Baines *School nurse*](/teachers/other/mrs-baines)
-- [Mr Bann *School electrician*](/teachers/other/mr-bann)
+- [Michael Bann *School electrician*](/teachers/other/michael-bann)
 - [Mrs Baron](/teachers/other/mrs-baron)
 - [Miss Dickinson](/teachers/other/miss-dickinson)
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
