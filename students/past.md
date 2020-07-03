@@ -2,7 +2,7 @@
 title: Past Students
 description: Students from years long gone...
 published: true
-date: 2020-06-27T16:27:38.200Z
+date: 2020-07-03T12:39:26.075Z
 tags: intake, past, past students, students
 editor: markdown
 ---
@@ -26,6 +26,7 @@ editor: markdown
  - [Intake 97](/students/past/intake-97)
  - [Intake 96](/students/past/intake-96)
  - [Intake 95](/students/past/intake-95)
+ - [Intake 94](/students/past/intake-94)
 {.links-list}
 > Feel free to add to this list if your intake year was earlier than we have gone up to automatically.
 {.is-info}
