@@ -2,13 +2,13 @@
 title: Intake 2011
 description: The intake of 2011
 published: true
-date: 2020-07-03T12:27:54.906Z
+date: 2020-07-03T12:36:20.060Z
 tags: intake, students, intake 11
 editor: markdown
 ---
 
 # Intake 2011
-This year group joined in 2011.
+This year group joined in 2011 and left in 2018.
 ### Forms
 - [11B](/students/past/intake-11/b)
 - [11R](/students/past/intake-11/r)
