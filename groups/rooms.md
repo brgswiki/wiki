@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-06-18T14:16:37.779Z
+date: 2020-07-09T10:38:10.374Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -35,6 +35,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 ### Other Rooms
 - [Storage Rooms](/groups/rooms/storage-rooms)
 - [Offices](/groups/rooms/offices)
+- [Other](/groups/rooms/other)
 
 {.links-list}
 
