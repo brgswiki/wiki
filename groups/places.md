@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-06-10T14:09:15.069Z
+date: 2020-07-09T10:38:51.422Z
 tags: places
 editor: markdown
 ---
@@ -38,6 +38,3 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Staffroom Sr](/groups/places/staffroom-major)
 - [The Glen](/groups/places/the-glen)
 {.links-list}
-
-
-![screen_shot_2020-06-02_at_12.14.03.png](/screen_shot_2020-06-02_at_12.14.03.png) 
