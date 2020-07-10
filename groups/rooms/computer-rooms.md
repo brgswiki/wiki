@@ -2,7 +2,7 @@
 title: Computer Rooms
 description: BRGS' computer labs
 published: true
-date: 2020-07-10T19:23:53.678Z
+date: 2020-07-10T19:25:57.244Z
 tags: computing, places, rooms, classrooms
 editor: markdown
 ---
