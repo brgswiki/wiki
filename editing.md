@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-06-27T17:45:31.508Z
+date: 2020-07-11T18:38:25.978Z
 tags: rules
 editor: markdown
 ---
@@ -40,7 +40,7 @@ editor: markdown
 
 > This is an example of a quote
 
-- If you mention something that is covered by another page, eg. another teacher, please link there name as following:
+- If you mention something that is covered by another page, eg. another teacher, please create a link as follows:
   - Select the text you want to link and click the `link` button (or press `ctrl` + `K`)
   - Add the relevant link (you don't need the brgswiki part of the url, for example a link could be `/teachers/mr-porteous`
   
