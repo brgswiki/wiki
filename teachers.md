@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-04T11:11:41.348Z
+date: 2020-07-11T22:24:03.822Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -28,7 +28,7 @@ editor: markdown
 - [Mr Davenport](/teachers/mr-davenport)
 - [Ms Dougherty](/teachers/ms-dougherty)
 - [Mrs Easby](/teachers/mrs-easby)
-- [Miss Flint](/teachers/miss-flint)
+- [Miss Flint *Art teacher*](/teachers/miss-flint)
 - [Miss Forrest *Spanish teacher*](/teachers/miss-forrest)
 - [Miss Foster](/teachers/miss-foster)
 - [Mr Flynn](/teachers/mr-flynn)
@@ -48,7 +48,7 @@ editor: markdown
 - [Mrs Kennedy](/teachers/mrs-kennedy)
 - [Mrs King *English teacher*](/teachers/mrs-king)
 - [Mrs Kolbuck *PE teacher*](/teachers/mrs-kolbuck)
-- [Miss Leah](/teachers/miss-leah)
+- [Miss Leah *Geography teacher*](/teachers/miss-leah)
 - [Miss Lapiza *Cover Spanish teacher*](/teachers/supply/miss-lapiza)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
 - [Mrs McCaffrey](/teachers/mrs-mcCaffrey)
@@ -57,7 +57,7 @@ editor: markdown
 - [Mr Morriss](/teachers/mr-morriss)
 - [Mrs Nelson](/teachers/mrs-nelson)
 - [Mr Neve](/teachers/mr-neve)
-- [Mrs O'Hara](/teachers/mrs-o-hara)
+- [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
 - [Miss Ogle](/teachers/miss-ogle)
 - [Miss Pauline](/teachers/miss-pauline)
 - [Mr Pigott](/teachers/mr-pigott)
@@ -69,7 +69,7 @@ editor: markdown
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
 - [Mrs Richardson *PSHCE Teacher*](/teachers/mrs-richardson)
 - [Mrs Saunders *Cover science teacher*](/teachers/supply/mrs-saunders)
-- [Mrs Sawle](/teachers/mrs-sawle)
+- [Mrs Sawle *Maths teacher*](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
 - [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
 - [Mrs Spencer](/teachers/mrs-spencer)
