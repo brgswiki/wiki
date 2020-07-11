@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-06-10T13:21:43.028Z
+date: 2020-07-11T09:23:34.804Z
 tags: school trips, trips, groups
 editor: markdown
 ---
@@ -22,6 +22,7 @@ BRGS hosts a number of school trips, particularly for the lower years. Some of t
 - [Edale](/groups/trips/edale)
 - [Yorkshire Dales](/groups/trips/yorkshire-dales)
 - [Blackpool](/groups/trips/blackpool)
+- [Careers Event](/groups/trips/careers-event)
 {.links-list}
 
 #### Year 9
