@@ -2,13 +2,13 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-07-01T13:15:00.077Z
+date: 2020-07-11T18:44:07.027Z
 tags: 
 editor: markdown
 ---
 
 # Privacy Policy 🔒
-*Last updated 30th May 2020*
+*Last updated 11th July 2020*
 
 Thank you for choosing to be part of our community at BRGS Wiki (“**Company**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@brgswiki.tk.
 
@@ -189,24 +189,16 @@ A privacy breach occurs when there is unauthorized access to or collection, use,
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy.
 
-## 🏡 13. Do California residents have specific privacy rights?
-
-***In Short**:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
-
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.
-
-## ✨ 14. Do we make updates to this policy?
+## ✨ 13. Do we make updates to this policy?
 
 ***In Short**:  Yes, we will update this policy as necessary to stay compliant with relevant laws.*
 
 We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
 
-## 💬 15. How can you contact us about this policy?
+## 💬 14. How can you contact us about this policy?
 
 If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), by email at privacy@brgsmail.tk.
 
-## 🔎 16. How can you review, update or delete the data we collect from you?
+## 🔎 15. How can you review, update or delete the data we collect from you?
 
 Based on the laws in some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please login to your account settings to delete it, or contact us at support@brgswiki.tk. We will respond to your request within 30 days.
