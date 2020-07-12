@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-11T22:24:03.822Z
+date: 2020-07-12T10:23:18.463Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -75,7 +75,7 @@ editor: markdown
 - [Mrs Spencer](/teachers/mrs-spencer)
 - [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
 - [Mr Stringer](/teachers/mr-stringer)
-- [Mrs Szafranski](/teachers/mrs-szafranski)
+- [Mrs Szafranski *English teacher*](/teachers/mrs-szafranski)
 - [Mrs Taylor](/teachers/mrs-taylor)
 - [Mr Vincent](/teachers/mr-vincent)
 - [Miss Watts](/teachers/miss-watts)
