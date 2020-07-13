@@ -2,13 +2,13 @@
 title: RS Classrooms
 description: The rooms in which Religious Studies is taught
 published: true
-date: 2020-07-13T18:27:50.670Z
+date: 2020-07-13T18:28:08.420Z
 tags: places, rooms, classrooms, rs
 editor: markdown
 ---
 
 # RS Classrooms
-All of the RS classrooms are off the hall and therefore unfortunately, are also very cramped and usually too hot. These classrooms were revamped over the 2018 summer holidays which meant a new lick of prison-cell grey paint, a lowered ceiling, and an interactive whiteboard with some IKEA-esque standard shelves and cupboards.
+All of the RS classrooms are off the hall and therefore unfortunately, are also very cramped and usually too hot. These classrooms were revamped over the 2018 summer holidays which meant a new lick of prison-cell grey paint, a lowered ceiling, and an interactive whiteboard with some IKEA-esque shelves and cupboards.
 
 ### Rooms
 
