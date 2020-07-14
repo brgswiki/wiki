@@ -2,7 +2,7 @@
 title: Other Staff Members
 description: Staff members not including teaching staff
 published: true
-date: 2020-07-14T20:14:56.841Z
+date: 2020-07-14T20:16:36.175Z
 tags: teacher, staff
 editor: markdown
 ---
@@ -13,8 +13,8 @@ editor: markdown
 Staff members that are not strictly teaching staff - including office staff, technicians, dinner ladies, teaching assistants etc.
 - [Mrs Baines *School nurse*](/teachers/other/mrs-baines)
 - [Michael Bann *School electrician*](/teachers/other/michael-bann)
-- [Mrs Baron](/teachers/other/mrs-baron)
-- [Miss Dickinson](/teachers/other/miss-dickinson)
+- [Mrs Baron *Teaching assistant*](/teachers/other/mrs-baron)
+- [Miss Dickinson *Teaching assistant*](/teachers/other/miss-dickinson)
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
 - [Miss Gauntlett *SENCo leader*](/teachers/other/miss-gauntlett)
 - [Mrs Grenaghan *Careers advisor*](/teachers/other/mrs-grenaghan)
@@ -23,8 +23,8 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Mrs Kirk *Librarian*](/teachers/other/mrs-kirk)
 - [Louise *Lab technician*](teachers/other/louise)
 - [Mrs Mulligan *DT technician*](/teachers/other/mrs-mulligan)
-- [Miss McGuinneas](/teachers/other/miss-mcGuinneas)
-- [Mrs Perry](/teachers/other/mrs-perry)
+- [Miss McGuinneas *Teaching assistant*](/teachers/other/miss-mcGuinneas)
+- [Mrs Perry *Sixth form admin*](/teachers/other/mrs-perry)
 - [Sandra *Lab technician*](teachers/other/sandra)
 - [Peter Scholes *Site technician*](teachers/other/peter-scholes)
 - [Craig Scott *IT technician*](/teachers/other/craig-scott)
