@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-14T20:27:57.569Z
+date: 2020-07-14T20:28:31.717Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -30,7 +30,7 @@ editor: markdown
 - [Mrs Easby](/teachers/mrs-easby)
 - [Miss Flint](/teachers/miss-flint)
 - [Miss Forrest](/teachers/miss-forrest)
-- [Miss Foster](/teachers/miss-foster)
+- [Mrs Foster](/teachers/mrs-foster)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
 - [Mr Grehan](/teachers/mr-grehan)
