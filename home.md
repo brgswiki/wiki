@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-07-15T10:25:39.007Z
+date: 2020-07-15T10:56:25.832Z
 tags: home
 editor: markdown
 ---
@@ -40,7 +40,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Butterworth *RS & PSHCE teacher*](/teachers/miss-butterworth)
 - [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
-- [Mr Chambers](/teachers/mr-chambers)
+- [Mr Chambers *Chemistry teacher, Head of Year 9*](/teachers/mr-chambers)
 - [Mrs Chapman *Maths teacher*](/teachers/mrs-chapman)
 - [Mr Cunningham](/teachers/mr-cunningham)
 - [Ms Curry *Maths teacher*](/teachers/ms-curry)
@@ -67,7 +67,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Jordan](/teachers/miss-jordan)
 - [Mrs Kennedy *Food tech teacher*](/teachers/mrs-kennedy)
 - [Mrs King *English teacher*](/teachers/mrs-king)
-- [Mrs Kolbuck *PE teacher*](/teachers/mrs-kolbuck)
+- [Mrs Kolbuck *PE teacher, Head of Year 7*](/teachers/mrs-kolbuck)
 - [Miss Leah *Geography teacher*](/teachers/miss-leah)
 - [Miss Lapiza *Cover Spanish teacher*](/teachers/supply/miss-lapiza)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
