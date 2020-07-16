@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-07-02T11:10:05.764Z
+date: 2020-07-16T14:40:10.905Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -35,5 +35,4 @@ Teachers from years long gone...
 - [Mrs Stanley](/teachers/past/mrs-stanley)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
 - [Miss Winchester](/teachers/past/miss-winchester)
-- [Mr Wyton *German teacher*](/teachers/past/mr-wyton)
 {.links-list}
