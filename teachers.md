@@ -2,13 +2,12 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-16T14:38:21.480Z
+date: 2020-07-16T14:38:29.597Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
 
 # Teachers
-...
 ## Current teachers
 - [Mr Baird](/teachers/mr-baird)
 - [Mrs Bamford](/teachers/mrs-bamford)
