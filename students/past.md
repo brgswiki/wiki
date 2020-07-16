@@ -2,7 +2,7 @@
 title: Past Students
 description: Students from years long gone...
 published: true
-date: 2020-07-03T12:39:26.075Z
+date: 2020-07-16T13:09:44.724Z
 tags: intake, past, past students, students
 editor: markdown
 ---
@@ -27,6 +27,27 @@ editor: markdown
  - [Intake 96](/students/past/intake-96)
  - [Intake 95](/students/past/intake-95)
  - [Intake 94](/students/past/intake-94)
+ - [Intake 93](/students/past/intake-93)
+ - [Intake 92](/students/past/intake-92)
+ - [Intake 91](/students/past/intake-91)
+ - [Intake 90](/students/past/intake-90)
+ - [Intake 89](/students/past/intake-89)
+ - [Intake 88](/students/past/intake-88)
+ - [Intake 87](/students/past/intake-87)
+ - [Intake 86](/students/past/intake-86)
+ - [Intake 85](/students/past/intake-85)
+ - [Intake 84](/students/past/intake-84)
+ - [Intake 83](/students/past/intake-83)
+ - [Intake 82](/students/past/intake-82)
+ - [Intake 81](/students/past/intake-81)
+ - [Intake 80](/students/past/intake-80)
+ - [Intake 79](/students/past/intake-79)
+ - [Intake 78](/students/past/intake-78)
+ - [Intake 77](/students/past/intake-77)
+ - [Intake 76](/students/past/intake-76)
+ - [Intake 75](/students/past/intake-75)
+ - [Intake 74](/students/past/intake-74)
+ 
 {.links-list}
 > Feel free to add to this list if your intake year was earlier than we have gone up to automatically.
 {.is-info}
