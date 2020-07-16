@@ -2,7 +2,7 @@
 title: Year 10
 description: The fourth year at BRGS
 published: true
-date: 2020-06-28T11:42:43.559Z
+date: 2020-07-16T13:56:22.001Z
 tags: intake, intake 16, year 10, 16b, 16r, 16g, 16s, 16w, 16n
 editor: markdown
 ---
@@ -13,7 +13,7 @@ In Year 10 you are setted for all core subjects, and you have the same teachers 
 
 The current Year 10 joined in 2016, and their Head of Year is [Mrs Bowdler](/teachers/mrs-bowdler).
 
-#### Year 10 Forms
+### Year 10 Forms
 - [16B](/students/intake16/b)
 - [16R](/students/intake16/r)
 - [16G](/students/intake16/g)
@@ -22,7 +22,7 @@ The current Year 10 joined in 2016, and their Head of Year is [Mrs Bowdler](/tea
 - [16W](/students/intake16/w)
 {.links-list}
 
-#### Other
+### Other
 - [Intake 16 Events](/students/intake16/events)
 {.links-list}
 
