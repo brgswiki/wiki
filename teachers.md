@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-16T19:48:44.400Z
+date: 2020-07-16T19:49:26.525Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -119,7 +119,6 @@ Teachers from years long gone...
 
 - [Mr Ahmed](/teachers/supply/lemon-curd)
 - [Mr Blacoe](/teachers/supply/mr-blacoe)
-- [Mr Cairns](/teachers/past/mr-cairns)
 - [Miss Lapiza](/teachers/supply/miss-lapiza)
 - [Miss Parkinson](/teachers/supply/miss-parkinson)
 - [Ms Rogers](/teachers/past/ms-rogers)
