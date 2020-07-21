@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-07-21T19:01:40.331Z
+date: 2020-07-21T19:16:13.092Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -86,10 +86,10 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room 63](/groups/rooms/science/63)
 {.links-list}
 ### Outdoor Storage Rooms
-- [64 *Tech Store*](/groups/places/tech-store)
-- [65 *Boiler House*](/groups/places/boiler-house)
-- [67 *Site Workshop*](/groups/places/site-workshop)
-- [68 *Estate Office*](/groups/places/estate-office)
+- [64 *Estate Office*](/groups/places/estate-office)
+- [65 *Tech Store*](/groups/places/tech-store)
+- [67 *Boiler House*](/groups/places/boiler-house)
+- [68 *Site Workshop*](/groups/places/site-workshop)
 - [Room 69](groups/rooms/art/69)
 {.links-list}
 ### Newchurch Wing
