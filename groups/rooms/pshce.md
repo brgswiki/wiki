@@ -2,7 +2,7 @@
 title: PSHCE Classrooms
 description: Rooms in which PSHCE is taught
 published: true
-date: 2020-07-03T10:21:20.317Z
+date: 2020-07-21T13:30:32.104Z
 tags: places, room, pshce
 editor: markdown
 ---
@@ -15,6 +15,6 @@ PSHCE rooms are scattered all throughout school, and fit in where ever space can
 - [Room 32](/groups/rooms/history/32)
 - [Room 94](/groups/rooms/drama/94)
 - [Room 96](/groups/rooms/pshce/96)
-- [CB01](/groups/rooms/pshce/cb01)
+- [CB03](/groups/rooms/pshce/cb03)
 
 {.links-list}
