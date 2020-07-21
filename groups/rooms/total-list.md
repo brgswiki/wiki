@@ -2,12 +2,12 @@
 title: All Rooms
 description: A list of all numbered rooms
 published: true
-date: 2020-07-21T14:23:30.944Z
+date: 2020-07-21T14:58:39.242Z
 tags: places, rooms, classrooms, room
 editor: markdown
 ---
 
-# List of Rooms
+## List of Rooms
 ### Balcony
 - [Room 1](/groups/rooms/science/1)
 - [Room 2](/groups/rooms/office/2)
@@ -137,4 +137,24 @@ editor: markdown
 - [Room C116](/groups/rooms/maths/c116)
 - [Room C117](/groups/rooms/maths/c117)
 - [Room C118](/groups/rooms/office/c118)
+{.links-list}
+### English Block
+- [Room E01](/groups/rooms/other/e01)
+- [Room E02](/groups/rooms/english/e02)
+- [Lower Staffroom](/groups/places/lower-english-staff-room)
+- [Room E04](/groups/rooms/english/e04)
+- [Room E07](/groups/rooms/english/e07)
+- [Room E08](/groups/rooms/english/e08)
+- [Room E101](/groups/rooms/office/e101)
+- [Book Store](/groups/places/book-store)
+- [Upper Staffroom](/groups/places/upper-english-staff-room)
+- [Room E107](/groups/rooms/english/e107)
+- [Room E109](/groups/rooms/english/e109)
+- [Room E110](/groups/rooms/english/e110)
+{.links-list}
+### Sports Hall
+- [Sports Hall](/groups/rooms/pe/hall)
+- [Room S105](/groups/rooms/pe/s105)
+- [Storage Room](/groups/rooms/pe/s103)
+- [Lift](/groups/rooms/other/pe-lift)
 {.links-list}
