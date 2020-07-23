@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-07-16T19:58:10.324Z
+date: 2020-07-23T14:35:59.220Z
 tags: home
 editor: markdown
 ---
@@ -78,7 +78,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mrs Nelson *Sociology teacher*](/teachers/mrs-nelson)
 - [Mr Neve *Head of Drama*](/teachers/mr-neve)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
-- [Miss Ogle](/teachers/miss-ogle)
+- [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
 - [Mrs Pauline](/teachers/mrs-pauline)
 - [Mr Pigott *PE teacher*](/teachers/mr-pigott)
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
