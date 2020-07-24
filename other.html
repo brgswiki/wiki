@@ -1,0 +1,34 @@
+<!--
+title: Other
+description: An odd bundle of pages...
+published: true
+date: 2020-07-24T20:22:29.352Z
+tags: other
+editor: code
+-->
+
+<h1>Other</h1>
+
+<p>Random pages</p>
+
+<script type="text/javascript">
+function randomlinks(){
+    var myrandom=Math.round(Math.random()*9)
+    var links=new Array()
+    links[0]="https://brgswiki.tk/en/teachers/mrs-bamford"
+    links[1]="https://brgswiki.tk/teachers/mr-baird"
+    links[2]="https://brgswiki.tk/teachers/miss-bowden"
+    links[3]="https://brgswiki.tk/teachers/mr-reeves"
+    links[4]="https://brgswiki.tk/teachers/mr-porteous"
+    links[5]="https://brgswiki.tk/teachers/mrs-porteous"
+    links[6]="https://brgswiki.tk/teachers/mr-heald"
+    links[7]="https://brgswiki.tk/teachers/mr-wilkinson"
+    links[8]="https://brgswiki.tk/teachers/mr-stringer"
+    links[9]="https://brgswiki.tk/teachers/mrs-stevenson-jones"
+ 
+    window.location=links[myrandom]
+}
+</script>
+<form>
+<input type="button" value="random link!" onClick="randomlinks()">
+</form>
