@@ -2,7 +2,7 @@
 title: HTML Sandbox
 description: Sandbox for HTML
 published: true
-date: 2020-07-24T20:01:22.843Z
+date: 2020-07-24T20:05:18.608Z
 tags: sandbox
 editor: code
 -->
@@ -55,3 +55,32 @@ div.desc {
 
 </body>
 </html>
+___
+<!-- The grid: four columns -->
+<div class="row">
+  <div class="column">
+    <img src="brgs.png" alt="BRGS" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="wiki.jpg" alt="wiki" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="brgs.png" alt="brgs2" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="wiki.jpg" alt="wiki2" onclick="myFunction(this);">
+  </div>
+</div>
+
+<!-- The expanding image container -->
+<div class="container">
+  <!-- Close the image -->
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
+  <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
+  <div id="imgtext"></div>
+</div>
+
