@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-25T15:31:52.840Z
+date: 2020-07-25T15:54:37.978Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -57,7 +57,7 @@ editor: markdown
 - [Mr Neve](/teachers/mr-neve)
 - [Mrs O'Hara](/teachers/mrs-o-hara)
 - [Miss Ogle](/teachers/miss-ogle)
-- [Miss Pauline](/teachers/miss-pauline)
+- [Mrs Pauline](/teachers/mrs-pauline)
 - [Mr Pigott](/teachers/mr-pigott)
 - [Mr Porteous](/teachers/mr-porteous)
 - [Mrs Porteous](/teachers/mrs-porteous)
