@@ -2,7 +2,7 @@
 title: Request Verification
 description: Get your Wiki account verified so you can edit pages
 published: true
-date: 2020-07-09T10:37:20.814Z
+date: 2020-07-25T14:59:41.418Z
 tags: verification
 editor: markdown
 ---
@@ -19,6 +19,7 @@ All good? Excellent. To get verified as a Wiki editor, just comment `'Verify me'
 {.is-info}
 
 <br>
+<figure class="image image_resized image-style-align-centre" style="width:100%;"><img src="/wikiwelcome.png"><figcaption></figcaption></figure>
 
 ##### *Thank you for helping us to keep the Wiki a safe and fun community* 🙌🐿
 
