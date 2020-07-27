@@ -2,7 +2,7 @@
 title: Other Staff Members
 description: Staff members not including teaching staff
 published: true
-date: 2020-07-23T15:37:57.017Z
+date: 2020-07-27T13:50:37.750Z
 tags: teacher, staff
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Mrs Hughes *Headmaster's PA*](/teachers/other/mrs-hughes)
 - [Mrs Kirk *Librarian*](/teachers/other/mrs-kirk)
 - [Louise *Lab technician*](teachers/other/louise)
-- [Mrs Mulligan *DT technician*](/teachers/other/mrs-mulligan)
+- [Mrs Milligan *DT technician*](/teachers/other/mrs-milligan)
 - [Miss McGuinness *Teaching assistant*](/teachers/other/miss-mcguinness)
 - [Mrs Perry *Sixth form admin*](/teachers/other/mrs-perry)
 - [Sandra *Lab technician*](teachers/other/sandra)
