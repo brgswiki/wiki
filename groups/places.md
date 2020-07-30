@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-07-21T19:14:19.188Z
+date: 2020-07-30T19:34:17.214Z
 tags: places
 editor: markdown
 ---
@@ -19,7 +19,7 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Basement Corridor](/groups/places/basement-corridor)
 - [Belfry](/groups/places/belfry)
 - [Canopy](/groups/places/planopy)
-- [Cateen](/groups/places/canteen)
+- [Canteen](/groups/places/canteen)
 - [Clark Building](/groups/places/clark-building)
 - [Classrooms](/groups/places/classrooms)
 - [Corridors](/groups/places/corridors)
