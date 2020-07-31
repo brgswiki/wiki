@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-07-21T19:16:13.092Z
+date: 2020-07-31T19:38:33.191Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -162,6 +162,8 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Storage Room](/groups/rooms/pe/s103)
 - [Lift](/groups/rooms/other/pe-lift)
 {.links-list}
+
+![rooms_map.png](/rooms_map.png)
 
 > Can't find the room you're looking for? Try our [places](/groups/places) page instead!
 {.is-info}
