@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-07-25T18:56:17.426Z
+date: 2020-08-01T18:30:53.563Z
 tags: home
 editor: markdown
 ---
@@ -53,7 +53,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Flynn *Biology teacher*](/teachers/mr-flynn)
 - [Miss Freeth *Business studies teacher*](/teachers/miss-freeth)
 - [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
-- [Mrs Grehan *History teacher*](/teachers/mrs-grehan)
+- [Mrs Grehan *Head of History*](/teachers/mrs-grehan)
 - [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
 - [Mrs Harper *English teacher*](/teachers/mrs-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
@@ -75,7 +75,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Mercer *Head of Music*](/teachers/mr-mercer)
 - [Miss Morris *Physics teacher*](/teachers/miss-morris)
 - [Mr Morriss](/teachers/mr-morriss)
-- [Mrs Nelson *Sociology teacher*](/teachers/mrs-nelson)
+- [Mrs Nelson *Head of PSHCE*](/teachers/mrs-nelson)
 - [Mr Neve *Head of Drama*](/teachers/mr-neve)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
 - [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
@@ -105,7 +105,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Wilbraham *Maths teacher*](/teachers/mr-wilbraham)
 - [Mrs Williamson *PE Teacher*](/teachers/mrs-williamson)
 - [Miss Wilkes *MFL teacher*](/teachers/miss-wilkes)
-- [Mr Wilkinson *Head of Physics*](/teachers/mr-wilkinson)
+- [Mr Wilkinson *Head of Science*](/teachers/mr-wilkinson)
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 - [Mr Wyton *Head of MFL*](/teachers/past/mr-wyton)
 {.links-list}
