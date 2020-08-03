@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-07-30T19:34:17.214Z
+date: 2020-08-03T19:27:55.425Z
 tags: places
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Cubby Hole](/groups/places/cubby-hole)
 - [English Block](/groups/places/english-block)
 - [Estate Office](/groups/places/estate-office)
-- [General Office](/groups/places/general-office)
+- [General Office](/groups/groups/rooms/other/17)
 - [Glen Road](/groups/places/glen-road)
 - [Gym](/groups/places/gym)
 - [Hall](/groups/places/hall)
@@ -35,7 +35,7 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Music Department](/groups/places/music-department)
 - [Newchurch Wing](/groups/places/newchurch-wing)
 - [PE Block](/groups/places/pe-block)
-- [Staffroom Jr](/groups/places/staffroom-minor)
-- [Staffroom Sr](/groups/places/staffroom-major)
+- [Staffroom Jr](/groups/places/small-staffroom)
+- [Staffroom Sr](/groups/places/large-staffroom)
 - [The Glen](/groups/places/the-glen)
 {.links-list}
