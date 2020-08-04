@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-08-04T09:40:17.326Z
+date: 2020-08-04T10:30:12.564Z
 tags: school trips, trips, groups
 editor: markdown
 ---
