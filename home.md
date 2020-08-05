@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-08-01T18:30:53.563Z
+date: 2020-08-05T13:28:01.878Z
 tags: home
 editor: markdown
 ---
@@ -13,11 +13,7 @@ editor: markdown
 
 The BRGS Wiki is a student run, often satirical, archive and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK - that anyone can edit. ✏
 
-To edit, you have to have an account. To create one, click the icon in the top right corner ↗. Once you have created an account, you can [request verification here](/request-verification).
-
-Please make sure you familiarise yourself with our [rules](/rules) before editing!
-
-Also, please thoroughly read our [editing guidelines](/editing) before you touch any content so we can keep content standards as high as possible (all our important pages to be read before starting to edit can be read [here](/rules/all-important-info)!)
+To edit, you have to have an account. To create one, click the icon in the top right corner ↗. Once you have created an account, head over to our [getting started page](/getting-started), which will walk you through everything that you need to do to get editing.
 
 We're a collaborative community   website that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Add or edit a page to get started!
 
@@ -173,9 +169,14 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Meme Pages](/other/meme-pages)
 - [Teacher Memes](/other/teacher-memes)
 - [Old Wiki](https://old.brgswiki.org)
-- [BRGS Website *The content of this site is not endorsed by the school*](https://www.brgs.org.uk)
+- [Official BRGS Website](https://www.brgs.org.uk)
 {.links-list}
 
 
 > If you helped to run the old wiki and would like to help us to move this site to the old brgswiki.org domain, please get in touch by email at [admin@brgswiki.tk](mailto:admin@brgswiki.tk?subject=New%20BRGS%20Wiki%20Domain).
+{.is-info}
+
+---
+
+> *The content of this site is not endorsed in any way by the school.*
 {.is-warning}
