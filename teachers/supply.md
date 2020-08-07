@@ -2,11 +2,12 @@
 title: Supply Teachers
 description: External teachers BRGS has brought in to cover lessons
 published: true
-date: 2020-07-30T21:38:52.926Z
+date: 2020-08-07T10:48:56.835Z
 tags: teacher, cover teacher, supply teacher
 editor: markdown
 ---
 
+## Past Teachers
 BRGS has brought in a couple of supply teachers, either on days when a lot of teachers are on a trip or when a teacher is ill and they cover their lessons for a few months.
 Luckily many supply teachers don't understand the whole Penalty Point system, and therefore cover lessons with them are usually a doss. If you do anything wrong then it is usually followed up with a menacing "do you want me to sign your planner?!" and then wondering why this has no effect.
 ___
