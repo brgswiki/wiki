@@ -2,7 +2,7 @@
 title: Maths Rooms
 description: The rooms in which maths is taught
 published: true
-date: 2020-07-10T19:36:40.894Z
+date: 2020-08-07T10:42:46.353Z
 tags: maths, places, rooms, classrooms
 editor: markdown
 ---
