@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-08-05T18:19:49.043Z
+date: 2020-08-07T16:50:19.946Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -28,7 +28,7 @@ Teachers from years long gone...
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
-- [Mr McConvey](/teachers/past/mr-mcconvey)
+- [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
 - [Mrs Sharp](/teachers/past/mrs-sharp)
