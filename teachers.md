@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-08-11T19:42:40.671Z
+date: 2020-08-11T21:09:00.678Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -108,9 +108,9 @@ Teachers from years long gone...
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
 - [Miss Ingham](/teachers/past/miss-ingham)
-- [Mrs Jackson](/teachers/past/mrs-jackson)
+- [Mrs Jackson *Food tech teacher*](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
-- [Mrs Khan](/teachers/past/mrs-khan)
+- [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
@@ -120,7 +120,7 @@ Teachers from years long gone...
 - [Mrs Stanley](/teachers/past/mrs-stanley)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
 - [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
-- [Miss Winchester](/teachers/past/miss-winchester)
+- [Miss Winchester *MFL teacher*](/teachers/past/miss-winchester)
 {.links-list}
 
 {.links-list}
