@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-08-11T19:38:53.666Z
+date: 2020-08-11T21:07:49.028Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -27,17 +27,17 @@ Teachers from years long gone...
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
 - [Miss Ingham](/teachers/past/miss-ingham)
-- [Mrs Jackson](/teachers/past/mrs-jackson)
+- [Mrs Jackson *Food tech teacher*](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
-- [Mrs Khan](/teachers/past/mrs-khan)
+- [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
-- [Mrs Sharp](/teachers/past/mrs-sharp)
+- [Mrs Sharp *Computing teacher*](/teachers/past/mrs-sharp)
 - [Mrs Stanley](/teachers/past/mrs-stanley)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
-- [Mr Ventress](/teachers/past/mr-ventress)
-- [Miss Winchester](/teachers/past/miss-winchester)
+- [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
+- [Miss Winchester *MFL teacher*](/teachers/past/miss-winchester)
 {.links-list}
