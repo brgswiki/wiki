@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-08-11T13:17:21.673Z
+date: 2020-08-11T13:18:18.111Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -136,6 +136,7 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Miss Dickinson](/teachers/other/miss-dickinson)
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
 - [Miss Gauntlett *SENCo leader*](/teachers/other/miss-gauntlett)
+- [Mrs Hester](/teachers/mrs-hester)
 - [Miss Hughes *Supply teacher*](/teachers/other/miss-hughes)
 - [Mrs Hughes *Headmaster's PA*](/teachers/other/mrs-hughes)
 - [Mrs Kirk *Librarian*](/teachers/other/mrs-kirk)
