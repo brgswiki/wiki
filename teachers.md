@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-08-11T19:11:52.146Z
+date: 2020-08-11T19:41:29.682Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -12,7 +12,6 @@ editor: markdown
 - [Mr Baird *Head of PE*](/teachers/mr-baird)
 - [Mrs Bamford *Head of Art*](/teachers/mrs-bamford)
 - [Mrs Berry](/teachers/mrs-berry)
-- [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
 - [Mrs Black](/teachers/mrs-black)
 - [Mr Brandwood *Computing teacher*](/teachers/mr-brandwood)
 - [Miss Bowden *Head of Chemistry*](/teachers/miss-bowden)
@@ -59,11 +58,10 @@ editor: markdown
 - [Mr Neve *Head of Drama*](/teachers/mr-neve)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
 - [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
-- [Mrs Pauline *English teacher*](/teachers/mrs-pauline)
 - [Mr Pigott *PE teacher*](/teachers/mr-pigott)
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
 - [Mrs Porteous *Head of Year 11, Biology teacher*](/teachers/mrs-porteous)
-- [Miss Powell *Maths teacher*](/teachers/miss-powell)
+- [Miss Powell *Head of Maths*](/teachers/miss-powell)
 - [Mrs Reynard *Law & Textiles teacher*](/teachers/mrs-reynard)
 - [Miss Rowan *French teacher*](/teachers/miss-rowan)
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
@@ -95,30 +93,36 @@ Teachers from years long gone...
 - [Mrs Aldred](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
 - [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
+- [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
 - [Ms Blant](/teachers/past/ms-blant)
+- [Miss Bowden *Chemistry teacher*](/teachers/past/miss-bowden)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
-- [Mrs Cassidy](/teachers/past/mrs-cassidy)
+- [Mrs Cassidy *Deputy head*](/teachers/past/mrs-cassidy)
 - [Mr Duncan](/teachers/past/mr-duncan)
 - [Mr Edwards](/teachers/past/mr-edwards)
-- [Mr Fitton](/teachers/past/mr-fitton)
+- [Mr Fitton *DT teacher*](/teachers/past/mr-fitton)
+- [Miss Forrest *Spanish teacher*](/teachers/past/miss-forrest)
 - [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past/miss-gordon)
-- [Mr Grundy](/teachers/past/mr-grundy)
+- [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
 - [Miss Ingham](/teachers/past/miss-ingham)
 - [Mrs Jackson](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
-- [Mr McConvey](/teachers/past/mr-mcconvey)
+- [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
-- [Ms Rogers](/teachers/past/ms-rogers)
-- [Mrs Sharp](/teachers/past/mrs-sharp)
+- [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
+- [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
+- [Mrs Sharp *Computing teacher*](/teachers/past/mrs-sharp)
 - [Mrs Stanley](/teachers/past/mrs-stanley)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
+- [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
 - [Miss Winchester](/teachers/past/miss-winchester)
-- [Mr Wyton *German teacher*](/teachers/past/mr-wyton)
+{.links-list}
+
 {.links-list}
 ## Supply Teachers
 
