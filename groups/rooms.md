@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-08-05T17:58:11.878Z
+date: 2020-08-11T19:45:34.600Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -101,7 +101,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room N91](/groups/rooms/psychology/n91)
 - [Room N92](/groups/rooms/psychology/n92)
 - [Room N93](/groups/rooms/other/n93)
-- [Room N94](/groups/rooms/drama/n94)
+- [Room N94](/groups/rooms/drama/94)
 - [Room N95](/groups/rooms/other/n95)
 - [Room N96](/groups/rooms/pshce/n96)
 - [Room N99](/groups/rooms/computing/n99)
