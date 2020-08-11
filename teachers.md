@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-07-25T15:54:37.978Z
+date: 2020-08-11T13:17:21.673Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -83,6 +83,7 @@ editor: markdown
 - [Miss Wilkes](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
 - [Miss Whitaker](/teachers/miss-whitaker)
+- [Mrs Workman](/teachers/mrs-workman)
 - [Mr Wyton](/teachers/past/mr-wyton)
 {.links-list}
 ## Past Teachers
