@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-08-12T21:05:35.740Z
+date: 2020-08-12T21:54:13.756Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
