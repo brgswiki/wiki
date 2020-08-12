@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-08-11T21:07:49.028Z
+date: 2020-08-12T21:05:35.740Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -41,3 +41,15 @@ Teachers from years long gone...
 - [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
 - [Miss Winchester *MFL teacher*](/teachers/past/miss-winchester)
 {.links-list}
+
+## Very Past Teachers
+Teachers that any current students probably won't have known
+- [Mr Brackstone](/teachers/past/mr-brackstone)
+- [Mr Chadwick](/teachers/past/mr-chadwick)
+- [Dr Edwards](/teachers/past/dr-edwards)
+- [Mrs Holt](/teachers/past/mrs-holt)
+- [Mr Howarth](/teachers/past/mr-howarth)
+- [Mr Manning](/teachers/past/mr-manning)
+- [Dr Robinson](/teachers/past/dr-robinson)
+{.links-list}
+
