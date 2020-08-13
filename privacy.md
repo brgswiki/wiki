@@ -2,12 +2,15 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-07-11T18:44:07.027Z
+date: 2020-08-13T21:07:16.036Z
 tags: 
 editor: markdown
 ---
 
 # Privacy Policy 🔒
+> If you are looking for our rules on privacy rather than the privacy policy, you can find them [here](/editing/privacy).
+{.is-info}
+
 *Last updated 11th July 2020*
 
 Thank you for choosing to be part of our community at BRGS Wiki (“**Company**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@brgswiki.tk.
