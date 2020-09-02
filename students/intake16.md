@@ -2,7 +2,7 @@
 title: Year 10
 description: The fourth year at BRGS
 published: true
-date: 2020-09-02T13:28:33.163Z
+date: 2020-09-02T13:28:41.795Z
 tags: 
 editor: markdown
 ---
@@ -27,5 +27,5 @@ The current Year 10 joined in 2016, and their Head of Year is [Mrs Bowdler](/tea
 - [Intake 16 Events](/students/intake16/events)
 {.links-list}
 
-> Note:  Rather than saying "10S" for example, we use "16S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "11S" for example, we use "16S" so that we don't need to update the year group each new school year
 {.is-info}
