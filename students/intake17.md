@@ -1,9 +1,9 @@
 ---
-title: Year 9
-description: The third year of BRGS
+title: Year 10
+description: The fourth year of BRGS
 published: true
-date: 2020-09-02T13:33:25.605Z
-tags: intake, year 9, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
+date: 2020-09-02T14:07:09.507Z
+tags: intake, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
 editor: markdown
 ---
 
