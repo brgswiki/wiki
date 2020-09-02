@@ -2,19 +2,19 @@
 title: Year 10
 description: The fourth year at BRGS
 published: true
-date: 2020-09-02T13:27:31.042Z
+date: 2020-09-02T13:28:33.163Z
 tags: 
 editor: markdown
 ---
 
-## Year 10
-In Year 10 most people are stressing about their GCSEs and then half way through the year you just give up worrying and have decided come what may, and then rather than putting effort in you'll just live life to the fullest. This high only lasts a week or so before you come back to reality as all teachers talk about is GCSEs or how much they hate their kids.
+## Year 11
+Year 11 is the year in which you take your GCSEs (unless of course a deadly disease sweeping the world results in them getting cancelled).
 
-In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
+In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 148x more stressful.
 
 The current Year 10 joined in 2016, and their Head of Year is [Mrs Bowdler](/teachers/mrs-bowdler).
 
-### Year 10 Forms
+### Year 11 Forms
 - [16B](/students/intake16/b)
 - [16R](/students/intake16/r)
 - [16G](/students/intake16/g)
