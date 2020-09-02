@@ -2,8 +2,8 @@
 title: Year 10
 description: The fourth year at BRGS
 published: true
-date: 2020-09-02T13:24:38.464Z
-tags: intake, intake 16, year 10, 16b, 16r, 16g, 16s, 16w, 16n
+date: 2020-09-02T13:27:31.042Z
+tags: 
 editor: markdown
 ---
 
@@ -12,19 +12,19 @@ In Year 10 most people are stressing about their GCSEs and then half way through
 
 In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
 
-The current Year 10 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
+The current Year 10 joined in 2016, and their Head of Year is [Mrs Bowdler](/teachers/mrs-bowdler).
 
-#### Year 10 Forms
-- [17B](/students/intake17/b)
-- [17R](/students/intake17/r)
-- [17G](/students/intake17/g)
-- [17S](/students/intake17/s)
-- [17N](/students/intake17/n)
-- [17W](/students/intake17/w)
+### Year 10 Forms
+- [16B](/students/intake16/b)
+- [16R](/students/intake16/r)
+- [16G](/students/intake16/g)
+- [16S](/students/intake16/s)
+- [16N](/students/intake16/n)
+- [16W](/students/intake16/w)
 {.links-list}
 
-#### Other
-- [Intake 17 Events](/students/intake17/events)
+### Other
+- [Intake 16 Events](/students/intake16/events)
 {.links-list}
 
 > Note:  Rather than saying "10S" for example, we use "16S" so that we don't need to update the year group each new school year
