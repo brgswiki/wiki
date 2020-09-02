@@ -2,7 +2,7 @@
 title: Year 9
 description: The third year of BRGS
 published: true
-date: 2020-08-06T21:55:02.378Z
+date: 2020-09-02T13:23:55.478Z
 tags: intake, year 9, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
 editor: markdown
 ---
@@ -11,19 +11,19 @@ Year 9s are on the whole less cocky than both years before them. This is also th
 
 In Year 9 rather than being in forms for your classes you are put in a mixed group, with roughly 5 people from each form. You are in these classes for every subject apart from the language you chose in Year 8 and one drama lesson a fortnight.
 
-The current Year 9 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
+The current Year 9 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
 
-#### Year 9 Forms
-- [17B](/students/intake17/b)
-- [17R](/students/intake17/r)
-- [17G](/students/intake17/g)
-- [17S](/students/intake17/s)
-- [17N](/students/intake17/n)
-- [17W](/students/intake17/w)
+### Year 9 Forms
+- [18B](/students/intake18/b)
+- [18R](/students/intake18/r)
+- [18G](/students/intake18/g)
+- [18S](/students/intake18/s)
+- [18N](/students/intake18/n)
+- [18W](/students/intake18/w)
 {.links-list}
 
-#### Other
-- [Intake 17 Events](/students/intake17/events)
+### Other
+- [Intake 18 Events](/students/intake18/events)
 {.links-list}
 
 > Note:  Rather than saying "9S" for example, we use "17S" so that we don't need to update the year group each new school year
