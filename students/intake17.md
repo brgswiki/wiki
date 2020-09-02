@@ -2,7 +2,7 @@
 title: Year 10
 description: The fourth year of BRGS
 published: true
-date: 2020-09-02T14:07:09.507Z
+date: 2020-09-02T14:07:25.153Z
 tags: intake, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
 editor: markdown
 ---
@@ -27,5 +27,5 @@ The current Year 10 joined in 2018, and their Head of Year is [Mr Chambers](/tea
 - [Intake 17 Events](/students/intake17/events)
 {.links-list}
 
-> Note:  Rather than saying "9S" for example, we use "17S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "10S" for example, we use "17S" so that we don't need to update the year group each new school year
 {.is-info}
