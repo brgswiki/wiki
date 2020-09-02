@@ -1,9 +1,9 @@
 ---
-title: Year 8
-description: The second year at BRGS
+title: Year 9
+description: The third year at BRGS
 published: true
-date: 2020-09-02T13:36:14.915Z
-tags: intake, intake 18, year 8, 8b, 8w, 8n, 8s, 8r, 8g
+date: 2020-09-02T13:36:50.142Z
+tags: intake, intake 18, year 8, 8b, 8w, 8n, 8s, 8r, 8g, year 9, intake 18 events
 editor: markdown
 ---
 
