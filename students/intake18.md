@@ -2,31 +2,29 @@
 title: Year 8
 description: The second year at BRGS
 published: true
-date: 2020-09-02T13:22:31.542Z
+date: 2020-09-02T13:36:14.915Z
 tags: intake, intake 18, year 8, 8b, 8w, 8n, 8s, 8r, 8g
 editor: markdown
 ---
 
-## Year 8
-Year 8s are possibly even cockier than Year 7s, because they are no longer the youngest year in school. None of the other years really pay much attention to year 8s depite their best efforts for attention.
+## Year 9
+Year 9s are on the whole less cocky than both years before them. This is also the year you choose your GCSE options, although most people regret these by Year 10 and change them to another subject they regret just as much.
 
-In Year 8 you begin to branch out a bit more and make more friends from other forms.
+In Year 9 rather than being in forms for your classes you are put in a mixed group, with roughly 5 people from each form. You are in these classes for every subject apart from the language you chose in Year 8 and one drama lesson a fortnight.
 
-The current Year 8 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck).
+The current Year 9 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
+ 
+ ### Year 9 Forms
+ - [18B](/students/intake18/b)
+ - [18R](/students/intake18/r)
+ - [18G](/students/intake18/g)
+ - [18S](/students/intake18/s)
+ - [18N](/students/intake18/n)
+ - [18W](/students/intake18/w)
+ {.links-list}
 
-#### Year 8 Forms
-- [19B](/students/intake19/b)
-- [19R](/students/intake19/r)
-- [19G](/students/intake19/g)
-- [19S](/students/intake19/s)
-- [19N](/students/intake19/n)
-- [19W](/students/intake19/w)
-{.links-list}
-
-#### Other
-- [Intake 19 Events](/students/intake19/events)
-{.links-list}
-
-
-> Note:  Rather than saying "8S" for example, we use "18S" so that we don't need to update the year group each new school year
-{.is-info}
+ ### Other
+ - [Intake 18 Events](/students/intake18/events)
+ {.links-list}
+ 
+ > Note:  Rather than saying "9S" for example, we use "18S" so that we don't need to update the year group each new school year
