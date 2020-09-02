@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-02T13:51:38.105Z
+date: 2020-09-02T14:03:11.716Z
 tags: home
 editor: markdown
 ---
@@ -36,10 +36,13 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mr Brandwood](/teachers/mr-brandwood)
 - [Miss Bowden](/teachers/miss-bowden)
 - [Mrs Bowdler](/teachers/mrs-bowdler)
+- [Mr Bowley](/teachers/mr-bowley)
+- [Miss Buckley](/teachers/miss-buckley)
 - [Miss Butterworth](/teachers/miss-butterworth)
 - [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
 - [Mr Chambers](/teachers/mr-chambers)
+- [Mrs Chambers](/teachers/mrs-chambers)
 - [Mrs Chapman](/teachers/mrs-chapman)
 - [Mr Cunningham](/teachers/mr-cunningham)
 - [Ms Curry](/teachers/ms-curry)
@@ -48,7 +51,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mrs Easby](/teachers/mrs-easby)
 - [Miss Flint](/teachers/miss-flint)
 - [Miss Forrest](/teachers/miss-forrest)
-- [Mrs Foster](/teachers/mrs-foster)
+- [Miss Foster](/teachers/miss-foster)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
 - [Mr Grehan](/teachers/mr-grehan)
@@ -87,6 +90,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Miss Rowan](/teachers/miss-rowan)
 - [Mr Reeves](/teachers/mr-reeves)
 - [Mrs Richardson](/teachers/mrs-richardson)
+- [Miss Ridings](/teachers/miss-ridings)
 - [Mrs Saunders](/teachers/supply/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
@@ -100,6 +104,7 @@ We aim to take your privacy very seriously, and you can [view our privacy policy
 - [Mrs Walsh](/teachers/mrs-walsh)
 - [Miss Watts](/teachers/miss-watts)
 - [Mr Webber](/teachers/mr-webber)
+- [Mrs Wharmby](/teachers/mrs-wharmby)
 - [Mr Whyte](/teachers/mr-whyte)
 - [Mr Wilbraham](/teachers/mr-wilbraham)
 - [Mrs Williamson](/teachers/mrs-williamson)
