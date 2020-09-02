@@ -2,19 +2,15 @@
 title: Year 11
 description: The fifth year of BRGS
 published: true
-date: 2020-09-02T13:29:54.164Z
+date: 2020-09-02T13:30:40.784Z
 tags: 
 editor: markdown
 ---
 
-## Year 11
-Year 11 is the year in which you take your GCSEs (unless of course a deadly disease sweeping the world results in them getting cancelled).
+## Intake 15
+This year group joined in 2015, and their Head of Year was [Mrs Porteous](/teachers/mrs-porteous).
 
-In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 148x more stressful.
-
-The current Year 11 joined in 2015, and their Head of Year is [Mrs Porteous](/teachers/mrs-porteous).
-
-#### Year 11 Forms
+#### Intake 15 Forms
 - [15B](/students/intake15/b)
 - [15R](/students/intake15/r)
 - [15G](/students/intake15/g)
