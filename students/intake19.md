@@ -1,9 +1,9 @@
 ---
-title: Year 7
-description: The first year of BRGS
+title: Year 8
+description: The second year of BRGS
 published: true
-date: 2020-09-02T13:45:20.570Z
-tags: 
+date: 2020-09-02T13:46:18.967Z
+tags: intake, intake 19, year 8, intake 19 events
 editor: markdown
 ---
 
