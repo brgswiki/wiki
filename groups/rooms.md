@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-08-11T19:45:34.600Z
+date: 2020-09-03T10:43:37.579Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -163,7 +163,9 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Lift](/groups/rooms/other/pe-lift)
 {.links-list}
 ### Map
-![rooms_map.png](/rooms_map.png)
+Our super high resolution map of BRGS that you won't find anywhere else.
+(*Click to enlarge*)
+[![brgs_map.png](/brgs_map.png)](/brgs_map.png)
 
 
 > Can't find the room you're looking for? Try our [places](/groups/places) page instead!
