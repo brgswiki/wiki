@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-08-12T21:54:13.756Z
+date: 2020-09-03T16:01:22.255Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Teachers from years long gone...
 - [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
-- [Miss Ingham](/teachers/past/miss-ingham)
+- [Miss Ingham](/teachers/miss-ingham)
 - [Mrs Jackson *Food tech teacher*](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
