@@ -2,7 +2,7 @@
 title: Year 8
 description: The second year of BRGS
 published: true
-date: 2020-09-02T13:46:18.967Z
+date: 2020-09-03T15:50:44.828Z
 tags: intake, intake 19, year 8, intake 19 events
 editor: markdown
 ---
@@ -13,7 +13,7 @@ editor: markdown
  In Year 8 you begin to branch out a bit more and make more friends from other forms.
 The current Year 8 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck).
 
-#### Year 7 Forms
+#### Year 8 Forms
 - [19B](/students/intake19/b)
 - [19R](/students/intake19/r)
 - [19G](/students/intake19/g)
