@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-09-02T23:13:27.220Z
+date: 2020-09-03T06:53:07.095Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 # Privacy Policy 🔒
 
 
-> This is our privacy policy, *i.e.* all the legal jargon that we have to give you. **If you are looking for our rules on privacy instead, you can find them [here](/editing/privacy).**
+> This is our privacy policy, (*i.e.* all the legal jargon that we have to give you). **If you are looking for our rules on privacy instead, you can find them [here](/editing/privacy).**
 {.is-info}
 
 *Last updated 3rd September 2020*
