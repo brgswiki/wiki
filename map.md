@@ -2,7 +2,7 @@
 title: School Map
 description: Our interactive map of BRGS
 published: true
-date: 2020-09-04T22:59:56.913Z
+date: 2020-09-04T23:25:42.334Z
 tags: map
 editor: markdown
 ---
