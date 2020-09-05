@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-05T15:07:34.626Z
+date: 2020-09-05T18:18:12.150Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -11,6 +11,17 @@ editor: markdown
 
 BRGS has many rooms, including classrooms and little storage rooms that look like someone hasn't set foot in there since the 1960s (both the storage rooms and the classrooms).
 Many of these rooms, depending on the building they reside in, are either miles above or below the ideal temperature.
+
+---
+> Try our new interactive map, an even easier way to find the room you're looking for.
+> - [📌 School Map](/map){.links-list}
+{.is-info}
+
+
+- 
+
+
+<br>
 
 ### Balcony
 - [Room 1](/groups/rooms/science/1)
@@ -162,10 +173,6 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Storage Room](/groups/rooms/pe/s103)
 - [Lift](/groups/rooms/pe/lift)
 {.links-list}
-### Map
-Our super high resolution map of BRGS that you won't find anywhere else.
-(*Click to enlarge*)
-[![brgs_map.png](/brgs_map.png)](/brgs_map.png)
 
 
 > Can't find the room you're looking for? Try our [places](/groups/places) page instead!
