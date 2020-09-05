@@ -2,7 +2,7 @@
 title: Year Events
 description: All events & trips organised per school year
 published: true
-date: 2020-09-05T11:57:39.477Z
+date: 2020-09-05T12:00:40.547Z
 tags: events, intake
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 - [Senior Speech Night](/other/year-events/2019-20/senior-speech-night)
 - [Junior Speech Night](/other/year-events/2019-20/junior-speech-night)
 - [Mock Election](/other/year-events/2019-20/mock-election)
-- [GCSE Science Live](/groups/events/gcse-science-live)
+- [GCSE Science Live](/groups/trips/gcse-science-live)
 - [Young Musician](/other/year-events/2019-20/young-musician)
 - [Quiz Night](/other/year-events/2019-20/quiz-night)
 - [Biobakes](/other/year-events/2019-20/biobakes)
@@ -37,6 +37,7 @@ editor: markdown
 - [Paris](/other/year-events/2018-19/paris)
 - [Year 11 Leavers' Day](/other/year-events/2018-19/year-11-leavers-day)
 - [Anglesey](/other/year-events/2018-19/anglesey)
+- [Melvin Burgess Visit](/students/intake16/events/melvin-burgess-2019)
 - [Ypres](/other/year-events/2018-19/ypres)
 - [YPI](/other/year-events/2018-19/ypi)
 - [German Exchange](/other/year-events/2018-19/german-exchange)
