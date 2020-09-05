@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-08-11T21:09:00.678Z
+date: 2020-09-05T16:45:07.502Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 ---
@@ -11,8 +11,8 @@ editor: markdown
 ## Current teachers
 - [Mr Baird *Head of PE*](/teachers/mr-baird)
 - [Mrs Bamford *Head of Art*](/teachers/mrs-bamford)
-- [Mrs Berry](/teachers/mrs-berry)
-- [Mrs Black](/teachers/mrs-black)
+- [Mrs Berry *Deputy Director of Sixth Form*](/teachers/mrs-berry)
+- [Mrs Black *Head of Biology*](/teachers/mrs-black)
 - [Mr Brandwood *Computing teacher*](/teachers/mr-brandwood)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
 - [Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
@@ -53,7 +53,7 @@ editor: markdown
 - [Mrs McCaffrey *Food tech teacher*](/teachers/mrs-mcCaffrey)
 - [Mr Mercer *Head of Music*](/teachers/mr-mercer)
 - [Miss Morris *Physics teacher*](/teachers/miss-morris)
-- [Mr Morriss](/teachers/mr-morriss)
+- [Mr Morriss *Director of Sixth Form*](/teachers/mr-morriss)
 - [Mrs Nelson *Head of PSHCE*](/teachers/mrs-nelson)
 - [Mr Neve *Head of Drama*](/teachers/mr-neve)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
@@ -76,7 +76,7 @@ editor: markdown
 - [Mrs Szafranski *English teacher*](/teachers/mrs-szafranski)
 - [Mrs Taylor *Law & PSHCE teacher*](/teachers/mrs-taylor)
 - [Mr Vincent *RS teacher*](/teachers/mr-vincent)
-- [Mrs Walsh](/teachers/mrs-walsh)
+- [Mrs Walsh *Deputy Director of Sixth Form*](/teachers/mrs-walsh)
 - [Miss Watts *Art teacher*](/teachers/miss-watts)
 - [Mr Webber *Music teacher*](/teachers/mr-webber)
 - [Mr Whyte *Head of RS*](/teachers/mr-whyte)
