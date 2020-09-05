@@ -2,7 +2,7 @@
 title: Events
 description: BRGS Events
 published: true
-date: 2020-06-10T13:23:54.845Z
+date: 2020-09-05T11:58:33.362Z
 tags: groups, events
 editor: markdown
 ---
@@ -25,7 +25,7 @@ BRGS hosts many events each year, however like many of other things, there seem 
 - [Translatathon](/groups/events/translatathon)
 - [Christmas Quiz](/groups/events/christmas-quiz)
 - [Speech Night](/groups/events/speech-night)
-- [Harry Potter Night](/groups/events/harry-potter-night)
+- [Harry Potter Night](/other/year-events/2018-19/harry-potter-night)
 - [Library Competitions](/groups/events/library-competitions)
 - [The Big Sing](/groups/events/the-big-sing)
 - [Rememberance Assembly](/groups/events/rememberance-assembly)
