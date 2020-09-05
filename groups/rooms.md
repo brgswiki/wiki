@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-03T10:43:37.579Z
+date: 2020-09-05T14:29:29.868Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -20,7 +20,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room 5](/groups/rooms/science/5)
 - [Room 6](/groups/rooms/other/6)
 - [Room 7](/groups/rooms/science/7)
-- [Room 8](/groups/rooms/office/8)
+- [Room 8 *Mrs Porteous' Office*](/groups/rooms/office/8)
 - [Room 9](/groups/rooms/science/9)
 - [Room 10](/groups/rooms/science/10)
 - [Room 11](/groups/rooms/science/11)
