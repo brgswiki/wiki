@@ -2,7 +2,7 @@
 title: School Map
 description: Our interactive map of BRGS - never get lost again!
 published: true
-date: 2020-09-05T17:16:59.493Z
+date: 2020-09-05T17:17:55.330Z
 tags: map
 editor: markdown
 ---
@@ -13,4 +13,4 @@ You can click on any room that is tinted blue to learn more about it. Switch to 
 
 Original map [(enhanced version here)](/brgs_map.png) is from the BRGS website.
 
-This version is Copyright © BRGS Wiki, any unauthorised reproduction is prohibited.
+This version is Copyright © BRGS Wiki, *any unauthorised reproduction is prohibited.*
