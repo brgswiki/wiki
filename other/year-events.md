@@ -2,7 +2,7 @@
 title: Year Events
 description: All events & trips organised per school year
 published: true
-date: 2020-08-16T20:10:17.881Z
+date: 2020-09-05T11:57:39.477Z
 tags: events, intake
 editor: markdown
 ---
@@ -134,4 +134,4 @@ editor: markdown
 - [Grandparents' Day](/other/year-events/2014-15/grandparents-day)
 - [Halloween Disco](/other/year-events/2014-15/halloween-disco)
 {.links-list}
-### 2013-14
+### 2013-2014
