@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-05T18:18:12.150Z
+date: 2020-09-05T18:20:02.691Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -14,14 +14,9 @@ Many of these rooms, depending on the building they reside in, are either miles 
 
 ---
 > Try our new interactive map, an even easier way to find the room you're looking for.
-> - [📌 School Map](/map){.links-list}
+> [📌 School Map](/map)
 {.is-info}
 
-
-- 
-
-
-<br>
 
 ### Balcony
 - [Room 1](/groups/rooms/science/1)
