@@ -2,7 +2,7 @@
 title: Year 7
 description: Intake 2020
 published: true
-date: 2020-09-02T13:49:42.519Z
+date: 2020-09-06T20:26:22.803Z
 tags: intake, year 7, intake 20
 editor: markdown
 ---
@@ -13,6 +13,8 @@ editor: markdown
  In Year 7 you are likely to just know the people in your form, and the first few weeks are always pretty awkward but you soon settle into the swing of things.
 
  The current Year 7 joined in 2020, and their Head of Year is [Mrs Porteous](/teachers/mrs-porteous).
+ 
+ In the past, older students would wrap newer students in rugs and then put them down the coal shute from [Room 7](/groups/rooms/science/7) to the boilerhouse...
  
  #### Year 7 Forms
  - [20B](/students/intake20/b)
