@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-06T11:20:47.165Z
+date: 2020-09-06T16:34:48.052Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
@@ -163,7 +163,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room E110](/groups/rooms/english/e110)
 {.links-list}
 ### Sports Hall
-- [Sports Hall](/groups/rooms/pe/hall)
+- [Sports Hall (S104)](/groups/rooms/pe/hall)
 - [Room S105](/groups/rooms/pe/s105)
 - [Storage Room](/groups/rooms/pe/s103)
 - [Lift](/groups/rooms/pe/lift)
