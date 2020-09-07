@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-09-03T16:01:22.255Z
+date: 2020-09-07T13:01:09.938Z
 tags: teacher, past teachers, past
 editor: markdown
 ---
@@ -51,5 +51,6 @@ Teachers that any current students probably won't have known
 - [Mr Howarth](/teachers/past/mr-howarth)
 - [Mr Manning](/teachers/past/mr-manning)
 - [Dr Robinson](/teachers/past/dr-robinson)
+- [Mr Skit](/teachers/past/mr-skit)
 {.links-list}
 
