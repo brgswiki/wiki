@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-07T17:38:15.551Z
+date: 2020-09-08T19:28:22.912Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 ---
