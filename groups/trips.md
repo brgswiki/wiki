@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-08-04T10:30:12.564Z
+date: 2020-09-08T19:44:13.858Z
 tags: school trips, trips, groups
 editor: markdown
 ---
@@ -35,6 +35,7 @@ BRGS hosts a number of school trips, particularly for the lower years. Some of t
 - [GCSE Science Live](/groups/trips/gcse-science-live)
 - [Bronze DofE](/groups/trips/bronze-dofe)
 - [Whitewell Brook](/groups/trips/whitewell-brook)
+- [Salford Quays](/groups/trips/salford-quays)
 {.links-list}
 
 #### Year 11
