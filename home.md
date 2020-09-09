@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-07T18:13:27.299Z
+date: 2020-09-09T16:03:50.874Z
 tags: home
 editor: markdown
 ---
@@ -75,7 +75,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs King](/teachers/mrs-king)
 - [Mrs Kolbuck](/teachers/mrs-kolbuck)
 - [Miss Leah](/teachers/miss-leah)
-- [Miss Lapiza](/teachers/supply/miss-lapiza)
+- [Miss Lopizzo](/teachers/supply/miss-lapiza)
 - [Ms Marti](/teachers/ms-marti)
 - [Mrs McCaffrey](/teachers/mrs-mcCaffrey)
 - [Mr Mercer](/teachers/mr-mercer)
