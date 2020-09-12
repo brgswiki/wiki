@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-09T16:05:05.944Z
+date: 2020-09-12T12:13:07.166Z
 tags: home
 editor: markdown
 ---
@@ -10,26 +10,23 @@ editor: markdown
 # Welcome to the BRGS Wiki 🎉
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs_from-glen-road.jpg"><figcaption>The lovely view from Glen Road</figcaption></figure>
 
-The BRGS Wiki is a student run, often satirical, archive, yearbook, and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK - that anyone can edit. ✏ 
+The BRGS Wiki is a student run archive, yearbook, and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK. 
 
 This site is for facts, memories, events, quotes - anything pleasant and polite - as a record of your schooldays.
 
-To edit, you have to have an account. To create one, click the icon in the top right corner ↗. Once you have created an account, head over to our [getting started page](/getting-started), which will walk you through everything that you need to do to get editing.
+To start editing, sign up for an account (click the icon in the top right corner ↗), and head over to our [getting started page](/getting-started).
 
-We're a collaborative community website that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Add or edit a page to get started!
+We're a collaborative community website that anyone, including you, can build and expand. Add or edit a page to get started!
 
 We aim to take your privacy very seriously, you can [view our privacy policy here](/privacy). 🔒
-
-> Welcome to the 2020/21 school year everybody, we hope you had a good break!
-{.is-success}
-
-> Red links below are pages that don't exist yet, but feel free to click on them to create them.
-{.is-info}
 
 - 🎲 Go to a random page
 {.random-button}
 - [📌 School Map ^NEW!^](/map)
 {.links-list}
+
+> Red links below are pages that don't exist yet, but feel free to click on them to create them.
+{.is-info}
 
 ## Teachers
 ### Current teachers
