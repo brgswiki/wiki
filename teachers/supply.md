@@ -2,7 +2,7 @@
 title: Supply Teachers
 description: External teachers BRGS has brought in to cover lessons
 published: true
-date: 2020-08-07T10:49:06.985Z
+date: 2020-09-12T16:18:03.830Z
 tags: teacher, cover teacher, supply teacher
 editor: markdown
 ---
@@ -14,7 +14,7 @@ ___
 
 - [Mr Ahmed](/teachers/supply/lemon-curd)
 - [Mr Cairns](/teachers/past/mr-cairns)
-- [Miss Lapiza](/teachers/supply/miss-lapiza)
+- [Miss Lopizzo](/teachers/supply/miss-lopizzo)
 - [Miss Parkinson](/teachers/supply/miss-parkinson)
 - [Ms Rogers](/teachers/past/ms-rogers)
 - [Mrs Saunders](/teachers/supply/mrs-saunders)
