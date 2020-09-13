@@ -2,9 +2,10 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-08T19:28:22.912Z
+date: 2020-09-13T21:42:49.871Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
+dateCreated: 2020-06-03T16:39:23.683Z
 ---
 
 ## List of Rooms
@@ -120,13 +121,13 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room CB01](/groups/rooms/other/cb01)
 - [Room CB02](/groups/rooms/other/cb02)
 - [Room CB03](/groups/rooms/pshce/cb03)
-- [Room C001](/groups/rooms/office/c001)
-- [Room C002](/groups/rooms/computing/c002)
-- [Room C003 *Library*](/groups/places/library)
-- [Room C004](/groups/rooms/mfl/c004)
-- [Room C005](/groups/rooms/other/c005)
-- [Room C006](/groups/rooms/other/c006)
-- [Room C009](/groups/rooms/drama/c009)
+- [Room C001](/groups/rooms/office/c01)
+- [Room C002](/groups/rooms/computing/c02)
+- [Room C03 *Library*](/groups/places/library)
+- [Room C04](/groups/rooms/mfl/c04)
+- [Room C05](/groups/rooms/other/c05)
+- [Room C06](/groups/rooms/other/c06)
+- [Room C09](/groups/rooms/drama/c09)
 - [Room C010](/groups/rooms/other/c010)
 - [Room C012](/groups/rooms/maths/c012)
 - [Room C013](/groups/rooms/maths/c013)
@@ -160,7 +161,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Upper Staffroom](/groups/places/upper-english-staff-room)
 - [Room E107](/groups/rooms/english/e107)
 - [Room E109](/groups/rooms/english/e109)
-- [Room E110](/groups/rooms/english/e110)
+- [Room E110](/groups/rooms/computing/e110)
 {.links-list}
 ### Sports Hall
 - [Sports Hall (S104)](/groups/rooms/pe/hall)
