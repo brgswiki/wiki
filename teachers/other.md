@@ -2,15 +2,16 @@
 title: Other Staff Members
 description: Staff members not including teaching staff
 published: true
-date: 2020-08-11T22:39:43.867Z
+date: 2020-09-13T15:58:18.716Z
 tags: teacher, staff
 editor: markdown
+dateCreated: 2020-07-02T10:39:45.059Z
 ---
 
 
 ### Other Staff Members
 
-Staff members that are not strictly teaching staff - including office staff, technicians, dinner ladies, teaching assistants etc.
+Staff members that are not strictly teaching staff - including office staff, technicians, welfare staff, teaching assistants etc.
 - [Mrs Baines *School nurse*](/teachers/other/mrs-baines)
 - [Michael Bann *School electrician*](/teachers/other/michael-bann)
 - [Mrs Baron *Teaching assistant*](/teachers/other/mrs-baron)
