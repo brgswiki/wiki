@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-14T22:31:34.946Z
+date: 2020-09-15T07:23:02.328Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -14,8 +14,8 @@ dateCreated: 2020-06-01T11:22:59.481Z
 The BRGS Wiki is a student run archive, yearbook, and knowledge base about BRGS 🐿 - [located in Waterfoot](https://goo.gl/maps/HuUTupt5ZHzZE5UZ8), Lancashire, UK. 
 
 This site is for facts, memories, events, quotes - anything pleasant and polite - as a record of your schooldays.
-
-To start editing, sign up for an account (click the icon in the top right corner ↗), and head over to our [getting started page](/getting-started).
+~~
+To start editing, sign up for an account (click the icon in the top right corner ↗), and head over to our [getting started page](/getting-started).~~ We have disabled signups until this weekend, come back then if you want to join us!
 
 We're a collaborative community website that anyone, including you, can build and expand. Add or edit a page to get started!
 
