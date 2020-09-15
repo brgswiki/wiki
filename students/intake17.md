@@ -2,9 +2,10 @@
 title: Year 10
 description: The fourth year of BRGS
 published: true
-date: 2020-09-02T14:07:25.153Z
+date: 2020-09-15T20:28:08.450Z
 tags: intake, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
 editor: markdown
+dateCreated: 2020-06-06T11:50:25.808Z
 ---
 
 ## Year 10
@@ -12,7 +13,7 @@ editor: markdown
  
  In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
  
-The current Year 10 joined in 2018, and their Head of Year is [Mr Chambers](/teachers/mr-chambers) (who doesn't like them much because they keep starting fights).
+The current Year 10 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
 
 ### Year 10 Forms
 - [17B](/students/intake17/b)
