@@ -2,7 +2,7 @@
 title: Soon™
 description: 
 published: true
-date: 2020-09-15T21:59:44.984Z
+date: 2020-09-15T22:02:35.662Z
 tags: soon
 editor: markdown
 dateCreated: 2020-09-15T21:42:08.285Z
