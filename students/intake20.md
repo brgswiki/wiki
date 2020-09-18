@@ -2,9 +2,10 @@
 title: Year 7
 description: Intake 2020
 published: true
-date: 2020-09-06T20:27:18.867Z
+date: 2020-09-18T22:15:15.759Z
 tags: intake, year 7, intake 20
 editor: markdown
+dateCreated: 2020-09-02T13:49:42.519Z
 ---
 
 ## Year 7
