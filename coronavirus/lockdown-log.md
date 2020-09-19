@@ -2,14 +2,14 @@
 title: Coronavirus Lockdown 2020 Memories
 description: A place to write down our memories/stories of and during the Lockdown.
 published: true
-date: 2020-09-19T16:12:54.370Z
+date: 2020-09-19T16:13:45.545Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:12:54.370Z
 ---
 
 ## Coronavirus Lockdown 2020 Memories and Stories
-> Due to concerns over spam and breaches of our private policy, this Wiki page can only be edited by Moderators and Admins. To send in your memories of Lockdown, please put it in the comments box below or send us a DM on our Instagram page (BRGSMemes123).
+> Due to concerns over spam and breaches of our private policy, this Wiki page can only be edited by Moderators and Admins. To send in your memories of Lockdown, please put it in the comments box below or send us a DM on our Instagram page (BRGSMemes123). We will sort it from there.
 {.is-info}
 
 ### Memories
