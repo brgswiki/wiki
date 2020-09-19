@@ -2,9 +2,10 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-09-08T19:42:59.060Z
+date: 2020-09-19T10:19:12.730Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
+dateCreated: 2020-07-04T11:11:41.348Z
 ---
 
 # Teachers
@@ -20,6 +21,7 @@ editor: markdown
 - [Miss Carney *English teacher*](/teachers/miss-carney)
 - [Miss Caton *Psychology teacher*](/teachers/miss-caton)
 - [Mr Chambers *Chemistry teacher, Head of Year 9*](/teachers/mr-chambers)
+- [Mrs Chambers *Geography Teacher*](/teachers/mrs-chambers)
 - [Mrs Chapman *Maths teacher*](/teachers/mrs-chapman)
 - [Mr Cunningham *Head of Computing*](/teachers/mr-cunningham)
 - [Ms Curry *Maths teacher*](/teachers/ms-curry)
@@ -28,6 +30,7 @@ editor: markdown
 - [Mrs Easby *Maths teacher*](/teachers/mrs-easby)
 - [Miss Flint *Art teacher*](/teachers/miss-flint)
 - [Miss Forrest *Spanish teacher*](/teachers/past/miss-forrest)
+- [Mr Foster *English teacher*](/teachers/mr-foster)
 - [Miss Foster *Geography teacher*](/teachers/miss-foster)
 - [Mr Flynn *Biology teacher*](/teachers/mr-flynn)
 - [Miss Freeth *Business studies teacher*](/teachers/miss-freeth)
