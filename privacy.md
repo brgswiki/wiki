@@ -35,7 +35,7 @@ This privacy notice applies to all information collected through our Services (w
 
 	- **Personal Information Provided by You.** We collect app usage; passwords; usernames; email addresses; and other similar information.
 
-	- **Social Media Login Data.** We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[How do we handle your social logins?](https://brgswiki.tk/privacy#h-6-how-do-we-handle-your-social-logins)" below.
+	- **Social Media Login Data.** We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[How do we handle your social logins?](/privacy#h-6-how-do-we-handle-your-social-logins)" below.
 
 	All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
@@ -61,7 +61,7 @@ We use personal information collected via our Services for a variety of business
 
 We use the information we collect or receive:
 
-- **To facilitate account creation and logon process.** If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "[How do we handle your social logins?](https://brgswiki.tk/privacy#h-6-how-do-we-handle-your-social-logins)" for further information.
+- **To facilitate account creation and logon process.** If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed "[How do we handle your social logins?](/privacy#h-6-how-do-we-handle-your-social-logins)" for further information.
 
 
 - **Request feedback.** We may use your information to request feedback and to contact you about your use of our Website.
@@ -143,7 +143,7 @@ We will use the information we receive only for the purposes that are described 
 
 ***In Short**:  We may transfer, store, and process your information in countries other than your own.*
 
-Our servers are located in the United Kingdom. If you are accessing our Services from outside the United Kingdom, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[Will your information be shared with anyone?](https://brgswiki.tk/privacy#h-3-will-your-information-be-shared-with-anyone)" above), in the United States, and other countries.
+Our servers are located in the United Kingdom. If you are accessing our Services from outside the United Kingdom, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[Will your information be shared with anyone?](/privacy#h-3-will-your-information-be-shared-with-anyone)" above), in the United States, and other countries.
 
 If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law.
 
@@ -173,7 +173,7 @@ We have implemented appropriate technical and organizational security measures d
 
 ***In Short**:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
 
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](https://brgswiki.tk/privacy#h-15-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](/privacy#h-15-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 

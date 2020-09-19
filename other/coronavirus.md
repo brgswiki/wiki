@@ -10,9 +10,9 @@ dateCreated: 2020-09-19T16:31:58.950Z
 
 ## Coronavirus Outbreak 2020
 
-- [Coronavirus Infomation/Status](https://brgswiki.tk/coronavirus)
-- [Coronavirus Lockdown Memories Log](https://brgswiki.tk/en/coronavirus/lockdown-log)
-- [Coronavirus Isolation Memories Log (September Onwards)](https://brgswiki.tk/en/coronavirus/isolation-log)
+- [Coronavirus Infomation/Status](/coronavirus)
+- [Coronavirus Lockdown Memories Log](/coronavirus/lockdown-log)
+- [Coronavirus Isolation Memories Log (September Onwards)](/coronavirus/isolation-log)
 {.links-list}
 > Note this page is updated frequently.
 {.is-warning}

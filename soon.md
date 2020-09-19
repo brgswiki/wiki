@@ -13,4 +13,4 @@ dateCreated: 2020-09-15T21:42:08.285Z
 
 
 Want early access? [Drop us an email 💌](mailto:support@brgswiki.tk?subject=BRGS%20Wiki%20Early%20Access&body=Hi%20there!%0D%0A%0D%0A%0D%0A)
-Already have an account? [Login here 🔑](https://brgswiki.tk/login) {.soon-header}
+Already have an account? [Login here 🔑](/login) {.soon-header}
