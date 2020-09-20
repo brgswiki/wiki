@@ -2,7 +2,7 @@
 title: Coronavirus
 description: Probably one of the biggest events in BRGS's history during peacetime.
 published: true
-date: 2020-09-19T17:51:47.953Z
+date: 2020-09-20T09:31:23.098Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:31:58.950Z
@@ -15,4 +15,5 @@ dateCreated: 2020-09-19T16:31:58.950Z
 - [Isolation Memories Log (September Onwards)](/coronavirus/isolation-log)
 {.links-list}
 > These pages are updated frequently.
-{.is-warning}
+{.is-info}
+
