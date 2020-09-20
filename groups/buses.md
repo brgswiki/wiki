@@ -1,8 +1,8 @@
 ---
 title: Buses
-description: The main bus routes people would get to school
+description: The main bus routes people would use to get to school.
 published: true
-date: 2020-09-20T08:54:05.431Z
+date: 2020-09-20T08:54:37.212Z
 tags: buses, school
 editor: markdown
 dateCreated: 2020-09-20T08:54:05.431Z
