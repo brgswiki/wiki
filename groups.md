@@ -2,9 +2,10 @@
 title: Groups
 description: School trips, events, places & rooms
 published: true
-date: 2020-07-11T19:00:42.288Z
+date: 2020-09-20T09:10:17.395Z
 tags: groups
 editor: markdown
+dateCreated: 2020-07-11T19:00:42.288Z
 ---
 
 ## Groups
@@ -13,4 +14,5 @@ Anything that doesn't really fall into the category of students or staff.
 - [Places](/groups/places)
 - [Rooms](/groups/rooms)
 - [Events](/groups/events)
+- [Buses](/groups/buses)
 {.links-list}
