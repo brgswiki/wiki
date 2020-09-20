@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-09-20T10:52:02.857Z
+date: 2020-09-20T10:56:17.001Z
 tags: places
 editor: markdown
 dateCreated: 2020-06-02T11:13:36.374Z
