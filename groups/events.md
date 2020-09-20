@@ -2,7 +2,7 @@
 title: Events
 description: BRGS Events
 published: true
-date: 2020-09-20T10:13:40.242Z
+date: 2020-09-20T10:15:11.022Z
 tags: groups, events
 editor: markdown
 dateCreated: 2020-06-03T16:04:39.134Z
@@ -10,6 +10,9 @@ dateCreated: 2020-06-03T16:04:39.134Z
 
 # Events
 BRGS hosts many events each year, however like many of other things, there seem to be less and less, and the once well-liked plethora of activities has been replaced with what feels like a daily bake sale and the occasional non-uniform day.
+> If you are looking for one event in particular rather than its general page, head [here](/other/year-events)!
+{.is-info}
+
 
 - [Enrichment Week](/groups/events/enrichment-week)
 - [Sports Day](/groups/events/sports-day)
