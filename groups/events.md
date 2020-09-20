@@ -2,7 +2,7 @@
 title: Events
 description: BRGS Events
 published: true
-date: 2020-09-20T10:02:59.158Z
+date: 2020-09-20T10:13:40.242Z
 tags: groups, events
 editor: markdown
 dateCreated: 2020-06-03T16:04:39.134Z
