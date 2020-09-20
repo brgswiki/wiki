@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-20T08:48:32.890Z
+date: 2020-09-20T10:50:46.824Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -31,6 +31,18 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 
 > [**Click here**](/coronavirus/status) to go to our **COVID-19 Status/information** page 🦠
 {.is-success}
+
+## Students
+
+- [👶 Year 7](/students/intake20)
+- [🧒 Year 8](/students/intake19)
+- [🧒 Year 9](/students/intake18)
+- [🧑 Year 10](/students/intake17)
+- [🧓 Year 11](/students/intake16)
+- [🧑 Year 12](/students/intake15)
+- [🧓 Year 13](/students/intake14)
+- [🧓 Past Students](/students/past)
+{.links-list}
 
 ## Teachers
 ### Current teachers
@@ -126,17 +138,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Supply Teachers](/teachers/supply) 
 - [Trainee Teachers](/teachers/trainee) 
 - [Other Staff Members](/teachers/other)
-## Students
-
-- [👶 Year 7](/students/intake20)
-- [🧒 Year 8](/students/intake19)
-- [🧒 Year 9](/students/intake18)
-- [🧑 Year 10](/students/intake17)
-- [🧓 Year 11](/students/intake16)
-- [🧑 Year 12](/students/intake15)
-- [🧓 Year 13](/students/intake14)
-- [🧓 Past Students](/students/past)
-{.links-list}
 
 ## Subjects
 
@@ -185,9 +186,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Caption Competition](/other/caption-competition)
 - [Old Wiki](https://old.brgswiki.org)
 - [Official BRGS Website](https://www.brgs.org.uk)
-{.links-list}
-
-&nbsp;
 - [🦠 Coronavirus](/coronavirus)
 {.links-list}
 
