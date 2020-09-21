@@ -2,14 +2,15 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-09-07T13:01:09.938Z
+date: 2020-09-21T19:33:06.866Z
 tags: teacher, past teachers, past
 editor: markdown
+dateCreated: 2020-06-05T11:42:16.609Z
 ---
 
 ## Past Teachers
 Teachers from years long gone...
-- [Mrs Aldred](/teachers/past/mrs-aldred)
+- [Mrs Aldred *PE teacher*](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
 - [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
 - [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
