@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-09-21T17:47:33.110Z
+date: 2020-09-21T21:00:59.133Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -52,7 +52,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs King *English teacher*](/teachers/mrs-king)
 - [Mrs Kolbuck *PE teacher, Head of Year 8*](/teachers/mrs-kolbuck)
 - [Miss Leah *Geography teacher*](/teachers/miss-leah)
-- [Miss Lapiza *Cover Spanish teacher*](/teachers/supply/miss-lapiza)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
 - [Mrs McCaffrey *Food tech teacher*](/teachers/mrs-mcCaffrey)
 - [Mr Mercer *Head of Music*](/teachers/mr-mercer)
@@ -94,7 +93,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 {.links-list}
 ## Past Teachers
 Teachers from years long gone...
-- [Mrs Aldred](/teachers/past/mrs-aldred)
+- [Mrs Aldred *PE teacher*](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
 - [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
 - [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
@@ -111,7 +110,6 @@ Teachers from years long gone...
 - [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
-- [Miss Ingham](/teachers/past/miss-ingham)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
@@ -147,7 +145,7 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Miss Dickinson](/teachers/other/miss-dickinson)
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
 - [Miss Gauntlett *SENCo leader*](/teachers/other/miss-gauntlett)
-- [Mrs Hester](/teachers/mrs-hester)
+- [Mrs Fletcher](/teachers/mrs-fletcher)
 - [Miss Hughes *Supply teacher*](/teachers/other/miss-hughes)
 - [Mrs Hughes *Headmaster's PA*](/teachers/other/mrs-hughes)
 - [Mrs Kirk *Librarian*](/teachers/other/mrs-kirk)
