@@ -2,7 +2,7 @@
 title: Home
 description: 🐿️ The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Filled with stories, quotes, and all sorts of funnies, there's laughs to be had for everyone.
 published: true
-date: 2020-09-21T17:44:46.616Z
+date: 2020-09-21T18:35:54.219Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -128,7 +128,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Williamson](/teachers/mrs-williamson)
 - [Miss Wilkes](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
-- [Ms Wilmslow ](/teachers/ms-wilmsow)
+- [Ms Wilmslow](/teachers/ms-wilmsow)
 - [Miss Whitaker](/teachers/miss-whitaker)
 - [Mrs Workman](/teachers/mrs-workman)
 - [Mr Wyton](/teachers/past/mr-wyton)
@@ -175,21 +175,22 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs.png"><figcaption>BRGS on a typically sunny day in July</figcaption></figure>
 
 ## Groups
-- [School Trips](/groups/trips)
-- [Places](/groups/places)
-- [Rooms](/groups/rooms)
-- [Events](/groups/events)
-- [Buses](/groups/buses)
+- [🗺 School Trips](/groups/trips)
+- [🏫 Places](/groups/places)
+- [🚪 Rooms](/groups/rooms)
+- [📆 Events](/groups/events)
+- [🚌 Buses](/groups/buses)
 {.links-list}
 ##  Other Stuff
 
 - [Meme Pages](/other/meme-pages)
 - [Teacher Memes](/other/teacher-memes)
 - [Caption Competition](/other/caption-competition)
+- [History](/history)
 - [Old Wiki](https://old.brgswiki.org)
 - [Official BRGS Website](https://www.brgs.org.uk)
 - [🦠 Coronavirus](/coronavirus)
-- [📔 History](/history)
+
 {.links-list}
 
 ---
