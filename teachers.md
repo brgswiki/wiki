@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-09-19T11:19:12.755Z
+date: 2020-09-21T17:46:18.109Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -42,6 +42,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
 - [Dr Heaton *Chemistry teacher*](/teachers/dr-heaton)
 - [Miss Hughes *Cover teacher*](/teachers/miss-hughes)
+- [Mrs Jackson *Food tech teacher*](/teachers/mrs-jackson)
 - [Miss Jackson *Spanish teacher*](/teachers/miss-jackson)
 - [Dr Jackson *Biology teacher*](/teachers/dr-jackson)
 - [Mr Jackson *Econimics teacher*](/teachers/mr-jackson)
@@ -111,7 +112,6 @@ Teachers from years long gone...
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
 - [Miss Ingham](/teachers/past/miss-ingham)
-- [Mrs Jackson *Food tech teacher*](/teachers/past/mrs-jackson)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
