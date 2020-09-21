@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-09-21T17:46:18.109Z
+date: 2020-09-21T17:47:33.110Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -16,11 +16,11 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Black *Head of Biology*](/teachers/mrs-black)
 - [Mr Brandwood *Computing teacher*](/teachers/mr-brandwood)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
-- [Mrs Bowdler *Head of Year 10, Spanish & German teacher*](/teachers/mrs-bowdler)
+- [Mrs Bowdler *Head of Year 11, Spanish & German teacher*](/teachers/mrs-bowdler)
 - [Miss Butterworth *RS & PSHCE teacher*](/teachers/miss-butterworth)
 - [Miss Carney *English teacher*](/teachers/miss-carney)
 - [Miss Caton *Psychology teacher*](/teachers/miss-caton)
-- [Mr Chambers *Chemistry teacher, Head of Year 9*](/teachers/mr-chambers)
+- [Mr Chambers *Chemistry teacher, Head of Year 10*](/teachers/mr-chambers)
 - [Mrs Chambers *Geography Teacher*](/teachers/mrs-chambers)
 - [Mrs Chapman *Maths teacher*](/teachers/mrs-chapman)
 - [Mr Cunningham *Head of Computing*](/teachers/mr-cunningham)
@@ -34,7 +34,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss Foster *Geography teacher*](/teachers/miss-foster)
 - [Mr Flynn *Biology teacher*](/teachers/mr-flynn)
 - [Miss Freeth *Business studies teacher*](/teachers/miss-freeth)
-- [Mr Grehan *Head of Year 8, History teacher*](/teachers/mr-grehan)
+- [Mr Grehan *Head of Year 9, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *Head of History*](/teachers/mrs-grehan)
 - [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
 - [Mrs Harper *English teacher*](/teachers/mrs-harper)
@@ -50,7 +50,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss Jordan *Head of English*](/teachers/miss-jordan)
 - [Mrs Kennedy *Food tech teacher*](/teachers/mrs-kennedy)
 - [Mrs King *English teacher*](/teachers/mrs-king)
-- [Mrs Kolbuck *PE teacher, Head of Year 7*](/teachers/mrs-kolbuck)
+- [Mrs Kolbuck *PE teacher, Head of Year 8*](/teachers/mrs-kolbuck)
 - [Miss Leah *Geography teacher*](/teachers/miss-leah)
 - [Miss Lapiza *Cover Spanish teacher*](/teachers/supply/miss-lapiza)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
@@ -64,7 +64,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
 - [Mr Pigott *PE teacher*](/teachers/mr-pigott)
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
-- [Mrs Porteous *Head of Year 11, Biology teacher*](/teachers/mrs-porteous)
+- [Mrs Porteous *Head of Year 7, Biology teacher*](/teachers/mrs-porteous)
 - [Miss Powell *Head of Maths*](/teachers/miss-powell)
 - [Mrs Reynard *Law & Textiles teacher*](/teachers/mrs-reynard)
 - [Miss Rowan *French teacher*](/teachers/miss-rowan)
