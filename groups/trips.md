@@ -2,13 +2,18 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2020-09-08T19:58:58.403Z
+date: 2020-09-21T19:54:38.396Z
 tags: school trips, trips, groups
 editor: markdown
+dateCreated: 2020-06-03T15:06:13.173Z
 ---
 
 # School Trips
 BRGS hosts a number of school trips, particularly for the lower years. Some of these trips do indeed include hotels although many include staying in a tent in -6°C  being dragged through the muddy back end of nowhere with [Chappers](/teachers/mrs-chapman) getting annoyed at everyone. Most school trips have awful food, so bring as much of your own if you can - you have been warned. However, over the years BRGS seems to be cutting down on some trips, possibly to spare some extra cash for [Alan's](/teachers/mr-porteous) corridor addiction, although of course we don't know for sure.
+
+> Looking for one school trip in particular rather than its general page? Head [here](/other/year-events)!
+{.is-info}
+
 
 #### Year 7
 - [Paris](/groups/trips/paris)
