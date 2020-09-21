@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2020-09-21T18:36:40.410Z
+date: 2020-09-21T22:27:38.083Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -27,6 +27,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - 🎲 Go to a random page
 {.random-button}
 - [📌 School Map ^NEW!^](/map)
+- Black Lives Matter ✊🏿
 {.links-list}
 
 > [**Click here**](/coronavirus/status) to go to our **COVID-19 Status/information** page 🦠
@@ -134,12 +135,13 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mr Wyton](/teachers/past/mr-wyton)
 {.links-list}
 
----
+#### Other Teachers
 
 - [Past Teachers](/teachers/past) 
 - [Supply Teachers](/teachers/supply) 
 - [Trainee Teachers](/teachers/trainee) 
 - [Other Staff Members](/teachers/other)
+{.links-list}
 
 ## Subjects
 
@@ -180,17 +182,31 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [🚪 Rooms](/groups/rooms)
 - [📆 Events](/groups/events)
 - [🚌 Buses](/groups/buses)
+- [📋 Other](/#other-stuff)
 {.links-list}
-##  Other Stuff
+## Other Stuff
 
+- [🦠 <i>Coronavirus</i>](/coronavirus)
 - [Meme Pages](/other/meme-pages)
 - [Teacher Memes](/other/teacher-memes)
 - [Caption Competition](/other/caption-competition)
-- [History](/history)
+- [Community Portal](/other/community-portal)
+- [Physics Cat](/subjects/physics/physics-cat)
+- [Headmasters](/other/headmasters)
+- [Squirrel Magazines](/other/squirrel-magazines)
+- [Class from Hell videos](/other/class-from-hell)
+- [Behaviour for Learning Policy](/other/behaviour-for-learning-policy)
+- [Caption Competition](/other/caption-competition)
+- [Form Captain](/other/form-captain)
+- [Homework](/other/homework)
+- [Mat Rounders](/other/mat-rounders)
+- [MyMaths](/other/mymaths)
+- [Welfare Staff](/other/welfare-staff)
+- [Whiteboard Pens](/other/whiteboard-pens)
+- [School History](/other/history)
+- [Year Events](other/year-events)
 - [Old Wiki](https://old.brgswiki.org)
 - [Official BRGS Website](https://www.brgs.org.uk)
-- [🦠 Coronavirus](/coronavirus)
-
 {.links-list}
 
 ---
