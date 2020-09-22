@@ -2,7 +2,7 @@
 title: Year Events
 description: All events & trips organised per school year
 published: true
-date: 2020-09-22T18:43:28.371Z
+date: 2020-09-22T18:44:57.135Z
 tags: events, intake
 editor: markdown
 dateCreated: 2020-08-15T20:25:10.948Z
@@ -84,10 +84,11 @@ dateCreated: 2020-08-15T20:25:10.948Z
 - [Paris](/other/year-events/2016-17/paris)
 - [Leavers' Week](/other/year-events/2016-17/leavers-week)
 - [Year 11 Leavers' Day](/other/year-events/2016-17/year-11-leavers-day)
-- [Angelsey](/other/year-events/2016-17/anglesey)
+- [Anglesey](/other/year-events/2016-17/anglesey)
 - [Ypres](/other/year-events/2016-17/ypres)
 - [YPI](/other/year-events/2016-17/ypi)
 - [Tug-of-war](/other/year-events/2016-17/tug-of-war)
+- [Grandparents Day](/other/year-events/2016-17/grandparents-day)
 - [Senior Speech Night](/other/year-events/2016-17/senior-speech-night)
 - [Senior Citizens' Party](/other/year-events/2016-17/senior-citizens-party)
 - [Quiz Night](/other/year-events/2016-17/)
