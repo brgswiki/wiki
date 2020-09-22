@@ -2,7 +2,7 @@
 title: Year Events
 description: All events & trips organised per school year
 published: true
-date: 2020-09-22T18:44:57.135Z
+date: 2020-09-22T19:24:28.167Z
 tags: events, intake
 editor: markdown
 dateCreated: 2020-08-15T20:25:10.948Z
