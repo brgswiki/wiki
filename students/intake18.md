@@ -2,7 +2,7 @@
 title: Year 9
 description: The third year at BRGS
 published: true
-date: 2020-09-24T14:58:05.412Z
+date: 2020-09-24T14:58:21.601Z
 tags: intake, intake 18, year 9, intake 18 events
 editor: markdown
 dateCreated: 2020-06-06T11:43:36.738Z
@@ -18,7 +18,7 @@ The current Year 9 joined in 2018, and their Head of Year is [Mr Grehan](/teache
 The current Year 9s are not actually in forms this year, but instead their teaching groups to 'reduce the spread of coronavirus' although if one gets covid-19 they're all off anyway.
 
 9X1 - [Miss Gore-Ward](/teachers/miss-gore-ward)
-9X2 - [Miss McCaffrey](/teachers/miss-mcCaffrey) & [Mrs Jackson](/teachers/mrs-jackson)
+9X2 - [Miss McCaffrey](/teachers/miss-mccaffrey) & [Mrs Jackson](/teachers/mrs-jackson)
 9X3 - [Mrs Kennedy](/teachers/mrs-kennedy)
 9Y1 - [Mr Brandwood](/teachers/mr-brandwood)
 9Y2 - [Mr Neve](/teachers/mr-neve)
