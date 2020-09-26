@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-26T15:26:23.367Z
+date: 2020-09-26T15:28:51.060Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -162,6 +162,12 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room E107](/groups/rooms/english/e107)
 - [Room E109](/groups/rooms/english/e109)
 - [Room E110](/groups/rooms/computing/e110)
+{.links-list}
+### Art Block
+- [A01](/groups/rooms/art/a01)
+- [A02](/groups/rooms/art/a02)
+- [A101](/groups/rooms/art/a101)
+- [A102](/groups/rooms/art/a102)
 {.links-list}
 ### Sports Hall
 - [Sports Hall (S104)](/groups/rooms/pe/hall)
