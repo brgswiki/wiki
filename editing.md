@@ -2,9 +2,10 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-07-11T18:46:41.943Z
+date: 2020-09-26T16:10:26.331Z
 tags: rules
 editor: markdown
+dateCreated: 2020-06-09T11:42:45.867Z
 ---
 
 > Editing content on the Wiki might seem daunting at first, but its actually really easy! Just follow these guidelines and you'll be helping the Wiki grow in no time.
@@ -45,7 +46,7 @@ editor: markdown
   - Add the relevant link (you don't need the brgswiki part of the url, for example a link could be `/teachers/mr-porteous`
   
 ### Adding images
-
+If you wish, you can add an image to your page - after all, a picture speaks a thousand words!
 - Please upload images to the wiki directly, do not link to images on other sites because those links could expire
 - Before uploading an image, please make sure it isn't too large, anywhere around 300-800px width is great, you can resize it at https://imageresizer.com/, this helps to ensure no bandwidth is wasted.
 - Even if the image is already a suitable size, please compress it either at the link above or at https://compresspng.com/ or https://compressjpeg.com/ depending on the file format.
