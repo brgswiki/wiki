@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-09-20T10:56:17.001Z
+date: 2020-09-28T12:52:53.062Z
 tags: places
 editor: markdown
 dateCreated: 2020-06-02T11:13:36.374Z
@@ -28,7 +28,7 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Cubby Hole](/groups/places/cubby-hole)
 - [English Block](/groups/places/english-block)
 - [Estate Office](/groups/places/estate-office)
-- [General Office](/groups/groups/rooms/other/17)
+- [General Office](/groups/rooms/other/17)
 - [Glen Road](/groups/places/glen-road)
 - [Gym](/groups/places/gym)
 - [Hall](/groups/places/hall)
