@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-09-29T17:54:02.385Z
+date: 2020-09-29T18:10:06.145Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -102,7 +102,6 @@ Many of these rooms, depending on the building they reside in, are either miles 
 ### Newchurch Wing
 - [Room N86](/groups/rooms/other/n86)
 - [Room N88](/groups/rooms/computing/n88)
-- [Room 88](/groups/rooms/other/n88)
 - [Room N89](/groups/rooms/psychology/n89)
 - [Room N90](/groups/rooms/psychology/n90)
 - [Room N91](/groups/rooms/psychology/n91)
