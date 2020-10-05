@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2020-09-26T18:40:59.550Z
+date: 2020-10-05T06:55:44.595Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -129,7 +129,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Williamson](/teachers/mrs-williamson)
 - [Miss Wilkes](/teachers/miss-wilkes)
 - [Mr Wilkinson](/teachers/mr-wilkinson)
-- [Ms Wilmslow](/teachers/ms-wilmsow)
 - [Miss Whitaker](/teachers/miss-whitaker)
 - [Mrs Workman](/teachers/mrs-workman)
 - [Mr Wyton](/teachers/past/mr-wyton)
