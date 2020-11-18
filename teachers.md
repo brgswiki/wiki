@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-09-21T21:00:59.133Z
+date: 2020-11-18T18:33:51.740Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -15,8 +15,10 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Berry *Deputy Director of Sixth Form*](/teachers/mrs-berry)
 - [Mrs Black *Head of Biology*](/teachers/mrs-black)
 - [Mr Brandwood *Computing teacher*](/teachers/mr-brandwood)
+- [Mr Brown *Brass teacher*](/teachers/music/mr-brown)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
 - [Mrs Bowdler *Head of Year 11, Spanish & German teacher*](/teachers/mrs-bowdler)
+- [Miss Burkhart *Woodwind Teacher*](/teachers/music/miss-burkhart)
 - [Miss Butterworth *RS & PSHCE teacher*](/teachers/miss-butterworth)
 - [Miss Carney *English teacher*](/teachers/miss-carney)
 - [Miss Caton *Psychology teacher*](/teachers/miss-caton)
@@ -41,6 +43,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
 - [Dr Heaton *Chemistry teacher*](/teachers/dr-heaton)
+- [Mr Hoyle *Strings teacher*](/teachers/music/mr-hoyle)
 - [Miss Hughes *Cover teacher*](/teachers/miss-hughes)
 - [Mrs Jackson *Food tech teacher*](/teachers/mrs-jackson)
 - [Miss Jackson *Spanish teacher*](/teachers/miss-jackson)
@@ -65,6 +68,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
 - [Mrs Porteous *Head of Year 7, Biology teacher*](/teachers/mrs-porteous)
 - [Miss Powell *Head of Maths*](/teachers/miss-powell)
+- [Mr Proudman *Guitar teacher*](/teachers/music/mr-proudman)
 - [Mrs Reynard *Law & Textiles teacher*](/teachers/mrs-reynard)
 - [Miss Rowan *French teacher*](/teachers/miss-rowan)
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
@@ -72,6 +76,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Saunders *Cover science teacher*](/teachers/supply/mrs-saunders)
 - [Mrs Sawle *Maths teacher*](/teachers/mrs-sawle)
 - [Mr Seddon *Head of Maths*](/teachers/mr-seddon)
+- [Mrs Spall *Piano & Woodwind Teacher*](/teachers/music/mrs-spall)
 - [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
 - [Mrs Spencer *Biology teacher*](/teachers/mrs-spencer)
 - [Mrs Stevenson-Jones *Chemistry teacher*](/teachers/mrs-stevenson-jones)
@@ -142,6 +147,7 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Mrs Baines *School nurse*](/teachers/other/mrs-baines)
 - [Michael Bann *School electrician*](/teachers/other/michael-bann)
 - [Mrs Baron](/teachers/other/mrs-baron)
+- [Mrs Byfield *Music Admin*](/teachers/music/mrs-blyfield)
 - [Miss Dickinson](/teachers/other/miss-dickinson)
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
 - [Miss Gauntlett *SENCo leader*](/teachers/other/miss-gauntlett)
