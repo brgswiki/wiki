@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2020-11-15T16:08:04.838Z
+date: 2020-11-18T18:38:41.491Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -56,7 +56,9 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Berry](/teachers/mrs-berry)
 - [Mrs Black](/teachers/mrs-black)
 - [Mr Brandwood](/teachers/mr-brandwood)
+- [Mr Brown](/teachers/music/mr-brown)
 - [Mrs Bowdler](/teachers/mrs-bowdler)
+- [Miss Burkhart](/teachers/music/miss-burkhart)
 - [Mr Bowley](/teachers/mr-bowley)
 - [Mrs Buckley](/teachers/mrs-buckley)
 - [Miss Butterworth](/teachers/miss-butterworth)
@@ -82,6 +84,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Miss Hartley](/teachers/miss-hartley)
 - [Mr Heald](/teachers/mr-heald)
 - [Dr Heaton](/teachers/dr-heaton)
+- [Mr Hoyle](/teachers/music/mr-hoyle)
 - [Miss Ingham](/teachers/miss-ingham)
 - [Miss Hughes](/teachers/miss-hughes)
 - [Mrs Jackson](/teachers/mrs-jackson)
@@ -108,6 +111,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mr Porteous](/teachers/mr-porteous)
 - [Mrs Porteous](/teachers/mrs-porteous)
 - [Miss Powell](/teachers/miss-powell)
+- [Mr Proudman](/teachers/music/mr-proudman)
 - [Mrs Reynard](/teachers/mrs-reynard)
 - [Miss Rowan](/teachers/miss-rowan)
 - [Mr Reeves](/teachers/mr-reeves)
@@ -116,6 +120,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Saunders](/teachers/supply/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
+- [Mrs Spall](/teachers/music/mrs-spall)
 - [Mr Spencer](/teachers/mr-spencer)
 - [Mrs Spencer](/teachers/mrs-spencer)
 - [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
