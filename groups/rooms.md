@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-11-22T10:26:26.770Z
+date: 2020-11-22T10:50:15.174Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -169,16 +169,16 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [A102](/groups/rooms/art/a102)
 {.links-list}
 ### Practise Rooms (Music)
-- [Practice Room 1](/groups/rooms/practise/1)
-- [Practice Room 2](/groups/rooms/practise/2)
-- [Practice Room 3](/groups/rooms/practise/3)
-- [Practice Room 4](/groups/rooms/practise/4)
-- [Practice Room 5](/groups/rooms/practise/5)
-- [Practice Room 6](/groups/rooms/practise/6)
-- [Practice Room 7](/groups/rooms/practise/7)
-- [Practice Room 8](/groups/rooms/practise/8)
-- [Practice Room 9](/groups/rooms/practise/9)
-- [Practice Room 10](/groups/rooms/practise/10)
+- [Practice Room 1](/groups/rooms/practise-room/P1)
+- [Practice Room 2](/groups/rooms/practise-room/P2)
+- [Practice Room 3](/groups/rooms/practise-room/P3)
+- [Practice Room 4](/groups/rooms/practise-room/P4)
+- [Practice Room 5](/groups/rooms/practise-room/P5)
+- [Practice Room 6](/groups/rooms/practise-room/P6)
+- [Practice Room 7](/groups/rooms/practise-room/P7)
+- [Practice Room 8](/groups/rooms/practise-room/P8)
+- [Practice Room 9](/groups/rooms/practise-room/P9)
+- [Practice Room 10](/groups/rooms/practise-room/P10)
 {.links-list}
 ### Sports Hall
 - [Sports Hall (S104)](/groups/rooms/pe/hall)
