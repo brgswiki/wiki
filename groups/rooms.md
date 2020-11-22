@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-11-21T13:03:15.319Z
+date: 2020-11-22T10:16:04.183Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -167,6 +167,18 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [A02](/groups/rooms/art/a02)
 - [A101](/groups/rooms/art/a101)
 - [A102](/groups/rooms/art/a102)
+{.links-list}
+### Practise Rooms (Music)
+- [Practise Room 1](/groups/rooms/practise/1)
+- [Practise Room 2](/groups/rooms/practise/2)
+- [Practise Room 3](/groups/rooms/practise/3)
+- [Practise Room 4](/groups/rooms/practise/4)
+- [Practise Room 5](/groups/rooms/practise/5)
+- [Practise Room 6](/groups/rooms/practise/6)
+- [Practise Room 7](/groups/rooms/practise/7)
+- [Practise Room 8](/groups/rooms/practise/8)
+- [Practise Room 9](/groups/rooms/practise/9)
+- [Practise Room 10](/groups/rooms/practise/10)
 {.links-list}
 ### Sports Hall
 - [Sports Hall (S104)](/groups/rooms/pe/hall)
