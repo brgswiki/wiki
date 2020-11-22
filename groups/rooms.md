@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2020-11-22T11:15:56.592Z
+date: 2020-11-22T11:18:05.875Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -156,6 +156,7 @@ Many of these rooms, depending on the building they reside in, are either miles 
 - [Room E07](/groups/rooms/english/e07)
 - [Room E08](/groups/rooms/english/e08)
 - [Room E101](/groups/rooms/office/e101)
+- [Staff Kitchen](/groups/places/staff-kitchen)
 - [Book Store](/groups/places/book-store)
 - [Upper Staffroom](/groups/places/upper-english-staff-room)
 - [Room E107](/groups/rooms/english/e107)
