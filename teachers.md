@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2020-11-21T11:37:06.711Z
+date: 2020-11-25T19:32:18.161Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -41,6 +41,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
 - [Mrs Harper *English teacher*](/teachers/mrs-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
+- [Mrs Howard *Singing Teacher*](teachers/music/mrs-howard)
 - [Mr Heald *Physics teacher*](/teachers/mr-heald)
 - [Dr Heaton *Chemistry teacher*](/teachers/dr-heaton)
 - [Mr Hoyle *Strings teacher*](/teachers/music/mr-hoyle)
