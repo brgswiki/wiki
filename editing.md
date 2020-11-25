@@ -2,7 +2,7 @@
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
 published: true
-date: 2020-09-26T16:10:26.331Z
+date: 2020-11-25T08:32:20.418Z
 tags: rules
 editor: markdown
 dateCreated: 2020-06-09T11:42:45.867Z
@@ -16,7 +16,7 @@ dateCreated: 2020-06-09T11:42:45.867Z
 - Always edit the Wiki from a desktop/laptop, don't use your phone because it won't format things properly
 - Don't delete the work of other users without a clear justification
 - Use good English and don't use rude language (for more details on this [please see our rules](/rules))
-> **If you have *any* problems, concerns or questions *at all* just email [support@brgswiki.tk](mailto:support@brgswiki.tk) and we will be happy to help and get back to you ASAP.**
+> **If you have *any* problems, concerns or questions *at all* just email [support@brgswiki.tk](mailto:support@brgswiki.tk) or DM us on our Instagram account (brgswiki) and we will be happy to help and get back to you ASAP.**
 > Don't worry, we're super friendly, and we won't get mad if you broke something
 (it's better to just let us know so we can fix it, we take backups of the site every 5 minutes so it's an easy job)
 {.is-success}
