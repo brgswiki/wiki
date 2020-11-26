@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-11-25T21:01:35.964Z
+date: 2020-11-26T17:16:31.708Z
 tags: teacher, past teachers, past
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -53,3 +53,4 @@ Teachers that any current students probably won't have known
 - [Mr Skit](/teachers/past/mr-skit)
 {.links-list}
 
+If an old teacher is missing here and they have a page on the [old wiki](https://old.brgswiki.org), please **do not** add a page for them.
