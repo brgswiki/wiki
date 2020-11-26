@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-11-26T19:25:56.161Z
+date: 2020-11-26T19:27:30.997Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -10,7 +10,7 @@ dateCreated: 2020-11-25T23:31:24.988Z
 
 ## About the Meme Pages
 As of 2020 there are 3 relevant pages regarding BRGS Meme Pages. they consist of brgssixthformemes, brgsmemes and brgsmemes123. The owners are anonymous to avoid any issues with teachers and students. Usually they are ran by at least 1 student in Year 13 though sometimes they have 2 owners. Towards the end of the owners final year in Sixth Form they run a competition of their own choosing to pick their successor. This is usually a meme making competition. 
-Although initially they were secretive, most teachers appear to be aware of the pages now, with Mr Reeves even making reference to them in an assembly. Some teachers even follow them so shout out to those legends!
+Although initially they were secretive, most teachers appear to be aware of the pages now, with Mr Reeves even making reference to them in an assembly. Some teachers even follow them so shout out to those utter legends
 Sixth form teacher Mrs Berry was shown a meme about Mr Morriss and made the class promise not to tell that she had laughed at it.
 
 ## BRGSsixthformmemes
@@ -43,7 +43,7 @@ Some examples are:
 - **brgs.mp4** 62 followers. First post 17th september 2019
 - **brgsmemes1** 105 followers. First post 26 june 2019.
 ## BRGS WIKI
-The official Instagram account of this Wiki. This has only recently been created and as such only has 53 followers at the moment. They post updates on the wiki.
+The official Instagram account of this Wiki. This has only recently been created and as such only has 53 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
 ## Other pages
 There are also a number of other BRGS Related instagram pages created by students.
 They include:
