@@ -2,14 +2,15 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2020-11-25T19:29:32.669Z
+date: 2020-11-29T18:05:59.187Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
 ---
 
-> Yes, Instagram compressed our promo video. It looks horrible. You can [watch the full-res verion here](/brgswiki-promo_final.mp4). 🤗
-{.is-info}
+> **We are moving the site from brgswiki.tk to brgswiki.org.**
+Things might break during the transition — we'd like to thank you for your patience and continued support as we undergo this move.
+{.is-success}
 
 # Welcome to the BRGS Wiki 🎉
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs_from-glen-road.jpg"><figcaption>The lovely view from Glen Road</figcaption></figure>
@@ -34,10 +35,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [**COVID-19 Status/information page** 🦠](/coronavirus/status)
 {.links-list}
 
-> Follow us on our Instagram account at ['brgswiki'](https://www.instagram.com/brgswiki/)
-{.is-success}
-
-
 
 ## Students
 
@@ -51,8 +48,8 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [🧓 Past Students](/students/past)
 {.links-list}
 
-
-
+> Follow us on Instagram [@brgswiki](https://instagram.com/brgswiki/).
+{.is-info}
 
 ## Teachers
 
