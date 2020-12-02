@@ -2,9 +2,10 @@
 title: Privacy Policy
 description: Get the facts about what we do with your data
 published: true
-date: 2020-09-03T06:53:07.095Z
+date: 2020-12-02T21:29:21.584Z
 tags: 
 editor: markdown
+dateCreated: 2020-05-30T10:24:22.673Z
 ---
 
 # Privacy Policy 🔒
@@ -13,11 +14,11 @@ editor: markdown
 > This is our privacy policy, (*i.e.* all the legal jargon that we have to give you). **If you are looking for our rules on privacy instead, you can find them [here](/editing/privacy).**
 {.is-info}
 
-*Last updated 3rd September 2020*
+*Last updated 2nd December 2020*
 
-Thank you for choosing to be part of our community at BRGS Wiki (“**Company**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@brgswiki.tk.
+Thank you for choosing to be part of our community at BRGS Wiki (“**Company**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@brgswiki.org.
 
-When you visit our website https://brgswiki.tk (the "**Website**"), and more generally, use any of our services (the "**Services**", which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
+When you visit our website https://brgswiki.org (the "**Website**"), and more generally, use any of our services (the "**Services**", which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
 This privacy notice applies to all information collected through our Services (which, as described above, includes our Website), as well as any related services, sales, marketing or events.
 
@@ -181,7 +182,7 @@ If you are resident in the European Economic Area and you believe we are unlawfu
 
 If you are resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
-If you have questions or comments about your privacy rights, you may email us at privacy@brgswiki.tk.
+If you have questions or comments about your privacy rights, you may email us at privacy@brgswiki.org.
 
 ### Account Information
 If you would at any time like to review or change the information in your account or terminate your account, you can log into your account settings and update your user account, or contact us using the contact information provided.
@@ -209,8 +210,8 @@ We may update this privacy policy from time to time. The updated version will be
 
 ## 💬 14. How can you contact us about this policy?
 
-If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), by email at privacy@brgsmail.tk.
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), by email at privacy@brgsmail.org.
 
 ## 🔎 15. How can you review, update or delete the data we collect from you?
 
-Based on the laws in some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, either login to your account settings to delete it, or contact us at support@brgswiki.tk. We will respond to your request within 30 days.
+Based on the laws in some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, either login to your account settings to delete it, or contact us at support@brgswiki.org. We will respond to your request within 30 days.
