@@ -2,7 +2,7 @@
 title: Coronavirus Isolation Memories Log (September Onwards)
 description: A place to write down our memories of the our time in isolation
 published: true
-date: 2020-11-24T10:49:14.914Z
+date: 2020-12-05T16:51:35.371Z
 tags: coronavirus, isolation
 editor: markdown
 dateCreated: 2020-09-19T16:36:27.215Z
@@ -17,5 +17,4 @@ dateCreated: 2020-09-19T16:36:27.215Z
 
 > "The teachers actually expect us to take the full hour to do the work, but in reality, we've finished after 15 minutes"
 
-> Be the one of the first to submit a memory!
-{.is-success}
+> "We all were talking on the WhatsApp group chat and giving each other the answers so no one had to do the full day's work."
