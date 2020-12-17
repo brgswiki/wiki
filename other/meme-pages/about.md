@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-11-26T19:27:30.997Z
+date: 2020-12-17T15:01:08.962Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -43,7 +43,7 @@ Some examples are:
 - **brgs.mp4** 62 followers. First post 17th september 2019
 - **brgsmemes1** 105 followers. First post 26 june 2019.
 ## BRGS WIKI
-The official Instagram account of this Wiki. This has only recently been created and as such only has 53 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
+The official Instagram account of this Wiki. This has only recently been created and as such only has 167 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
 ## Other pages
 There are also a number of other BRGS Related instagram pages created by students.
 They include:
