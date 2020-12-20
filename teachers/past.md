@@ -2,8 +2,8 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-11-26T17:16:31.708Z
-tags: teacher, past teachers, past
+date: 2020-12-20T16:40:03.535Z
+tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
 ---
@@ -30,6 +30,7 @@ Teachers from years long gone...
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
+- [Dr Kirk] (/teachers/past/dr-kirk)
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
@@ -53,4 +54,3 @@ Teachers that any current students probably won't have known
 - [Mr Skit](/teachers/past/mr-skit)
 {.links-list}
 
-If an old teacher is missing here and they have a page on the [old wiki](https://old.brgswiki.org), please **do not** add a page for them.
