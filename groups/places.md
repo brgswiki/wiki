@@ -2,7 +2,7 @@
 title: Places
 description: Places in and around BRGS
 published: true
-date: 2020-09-28T12:52:53.062Z
+date: 2020-12-20T18:44:42.202Z
 tags: places
 editor: markdown
 dateCreated: 2020-06-02T11:13:36.374Z
@@ -34,6 +34,7 @@ Not to be confused with [Rooms](/groups/rooms) which are the actual classrooms t
 - [Hall](/groups/places/hall)
 - [Library](/groups/places/library)
 - [Main Building](/groups/places/main-building)
+- [MUGA](/groups/places/muga)
 - [Music Department](/groups/places/music-department)
 - [Newchurch Wing](/groups/places/newchurch-wing)
 - [PE Block](/groups/places/pe-block)
