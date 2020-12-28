@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-12-18T23:29:35.098Z
+date: 2020-12-28T14:18:23.012Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -15,7 +15,7 @@ As of 2020 there are three relevant pages regarding BRGS Meme Pages. they consis
 
 Although initially they were secretive, most teachers appear to be aware of the pages now, with even Mr Reeves making reference to them in an assembly, and the 2020 Christmas assembly, which was streamed over Google Meet to the whole school with a framerate of two, included the advent calandars from the BRGSmemes123 page and a whole TikTok segment.
 
-I'm not supposed to give my opinion, but I think these meme pages hold too much power over the school, and also they distract the teachers and cause them to create an endless stream of TikToks.
+I'm not supposed to give my opinion, but I think these meme pages hold too much power over the school, and also they distract the teachers and cause them to create an endless stream of TikToks. (Not a bad thing per se...)
 
 Some teachers even follow these meme pages, so shout out to these utter legends!
 
