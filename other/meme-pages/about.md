@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-12-28T14:18:23.012Z
+date: 2020-12-28T14:21:09.167Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -27,14 +27,14 @@ BRGSSixthformmemes was the first meme page to be created by a BRGS student. It w
 ![brgs6formfirstmeme.png](/brgs6formfirstmeme.png)
 
 The account was taken over by Lewis Barron in Late 2019.
-The account currently has 978 followers as of 26/11/2020.
+The account currently has 1,007 followers as of 28/12/2020.
 
 ## BRGSmemes
 BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme depicting a scene from Avengers Endgame where Thanos about to punch a character. It was captioned "Nobody: Not a Single Soul: Mr Seddon on a Monday period 1 maths lesson:"
 
 ![brgsmemesfirstpost.png](/brgsmemesfirstpost.png)
 
-The account currently has 996 followers as of 26/11/2020.
+The account currently has 1,010 followers as of 28/12/2020.
 
 ## BRGSmemes123
 BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of Mr Reeves in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
@@ -44,7 +44,7 @@ BRGSmemes123 was the last of the three main memepages and was be created on the 
 This is the account most teachers mean when they refer to the 'meme pages' as it was the most active over lockdown and uses almost entirely staff memes.
 
 This account is credited with creating the new BRGS Wiki.
-As of 26/11/2020 it has 805 followers.
+As of 28/12/2020 it has 858 followers.
 
 ## Variations
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
@@ -57,9 +57,9 @@ Some examples are:
 - **brgsdramamemes** A private account. Only has 11 followers Origin date unknown.
 - **brgsmemezz** 87 followers. Only post 14th September 2019
 - **brgsy7memes** 49 followers. 0 posts.
-- **brgs_memes_8s** Private account focusing on 'strange pics of people in 8s'. 51 followers.
+- **brgs_memes_8s** Private account focusing on 'strange pics of people in 8s'. 50 followers.
 - **brgs.mp4** 62 followers. First post 17th september 2019
-- **brgsmemes1** 105 followers. First post 26 june 2019.
+- **brgsmemes1** 103 followers. First post 26 june 2019.
 ## BRGS WIKI
 The official Instagram account of this Wiki. This has only recently been created and as such only has 167 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
 ## Other pages
