@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-12-28T14:21:09.167Z
+date: 2020-12-29T13:07:30.695Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -50,18 +50,17 @@ As of 28/12/2020 it has 858 followers.
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
 All followers are accurate as of 25/11/2020
 Some examples are:
-- **MemesofBRGS**- First post 10th September 2019, currently has 501 followers.
+- **MemesofBRGS**- First post 10th September 2019, currently has 490 followers.
 - **brgsbikelife**- This page is mostly poking fun at students with mopeds and only has 20 followers.
-- **brgs_science_memes**- A still active page apparently devoted entirely to memes about the BRGS science department. First post 5th November 2019. It has 134 followers.
-- **yr7brgsmemes**- This account appears to be dedicated just to year 7s. First post 22 June 2019, only has 86 followers.
+- **brgs_science_memes**- A still active page apparently devoted entirely to memes about the BRGS science department. First post 5th November 2019. It has 203 followers.
+- **yr7brgsmemes**- This account appears to be dedicated just to year 7s. First post 22 June 2019, only has 84 followers.
 - **brgsdramamemes** A private account. Only has 11 followers Origin date unknown.
 - **brgsmemezz** 87 followers. Only post 14th September 2019
-- **brgsy7memes** 49 followers. 0 posts.
 - **brgs_memes_8s** Private account focusing on 'strange pics of people in 8s'. 50 followers.
 - **brgs.mp4** 62 followers. First post 17th september 2019
 - **brgsmemes1** 103 followers. First post 26 june 2019.
 ## BRGS WIKI
-The official Instagram account of this Wiki. This has only recently been created and as such only has 167 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
+The official Instagram account of this Wiki. This has only recently been created and as such only has 178 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
 ## Other pages
 There are also a number of other BRGS Related instagram pages created by students.
 They include:
