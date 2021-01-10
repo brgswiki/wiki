@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2020-12-20T16:50:48.171Z
+date: 2021-01-10T19:33:47.477Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -20,7 +20,7 @@ Teachers from years long gone...
 - [Mr Bretherton](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
 - [Mrs Cassidy *Deputy head*](/teachers/past/mrs-cassidy)
-- [Mr Duncan](/teachers/past/mr-duncan)
+- [Mr Duncan *Maths teacher*](/teachers/past/mr-duncan)
 - [Mr Edwards](/teachers/past/mr-edwards)
 - [Mr Fitton *DT teacher*](/teachers/past/mr-fitton)
 - [Miss Forrest *Spanish teacher*](/teachers/past/miss-forrest)
@@ -37,7 +37,7 @@ Teachers from years long gone...
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
 - [Mrs Sharp *Computing teacher*](/teachers/past/mrs-sharp)
-- [Mrs Stanley](/teachers/past/mrs-stanley)
+- [Mrs Stanley *History teacher*](/teachers/past/mrs-stanley)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
 - [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
 - [Miss Winchester *MFL teacher*](/teachers/past/miss-winchester)
