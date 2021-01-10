@@ -2,14 +2,13 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2020-12-31T19:56:04.738Z
+date: 2021-01-10T19:58:48.504Z
 tags: home
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
 ---
 
 <div id="2020-recap"></div>
-
 # Welcome to the BRGS Wiki 🎉
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs_from-glen-road.jpg"><figcaption>The lovely view from Glen Road</figcaption></figure>
 
