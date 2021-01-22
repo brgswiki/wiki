@@ -2,14 +2,14 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2020-12-29T13:07:30.695Z
+date: 2021-01-22T15:29:53.350Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
 ---
 
 ## About the Meme Pages
-As of 2020 there are three relevant pages regarding BRGS Meme Pages. they consist of BRGSsixthformemes, BRGSmemes and BRGSmemes123. The owners are usually anonymous to avoid any issues with teachers and students. Often, they are ran by at least one student in Year 13 although sometimes they have two owners. Towards the end of the owners' final year in Sixth Form, they run a competition of their own choosing to pick their successor. This is usually a meme making competition. 
+As of 2020 there are three relevant pages regarding BRGS Meme Pages. they consist of BRGSsixthformemes, BRGSmemes and BRGSmemes123. The owners are usually anonymous to avoid any issues with teachers and students. Often, they are ran by at least one student in [Year 13](/students/intake14) although sometimes they have two owners. Towards the end of the owners' final year in Sixth Form, they run a competition of their own choosing to pick their successor. This is usually a meme making competition. 
 
 ### Staff recognition
 
@@ -19,7 +19,7 @@ I'm not supposed to give my opinion, but I think these meme pages hold too much 
 
 Some teachers even follow these meme pages, so shout out to these utter legends!
 
-Sixth form teacher Mrs Berry was shown a meme about Mr Morriss and made the class promise not to tell that she had laughed at it.
+Sixth form teacher [Mrs Berry](/teachers/mrs-berry) was shown a meme about [Mr Morriss](/teachers/mr-morriss) and made the class promise not to tell that she had laughed at it.
 
 ## BRGSsixthformmemes
 BRGSSixthformmemes was the first meme page to be created by a BRGS student. It was created on the 14th March 2019 by Year 13 Nathan Scheider. The first meme posted to the account consists of an image of a blue and red pill labelled "Accepting that students can still learn no matter what they wear" and "yelling at students for wearing trainers" respectively. This is then followed by a hand labelled BRGS Sixth Form reaching into a pile of red pills.
@@ -30,21 +30,21 @@ The account was taken over by Lewis Barron in Late 2019.
 The account currently has 1,007 followers as of 28/12/2020.
 
 ## BRGSmemes
-BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme depicting a scene from Avengers Endgame where Thanos about to punch a character. It was captioned "Nobody: Not a Single Soul: Mr Seddon on a Monday period 1 maths lesson:"
+BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme depicting a scene from Avengers Endgame where Thanos about to punch a character. It was captioned "Nobody: Not a Single Soul: [Mr Seddon](/teachers/mr-seddon) on a Monday period 1 maths lesson:"
 
 ![brgsmemesfirstpost.png](/brgsmemesfirstpost.png)
 
 The account currently has 1,010 followers as of 28/12/2020.
 
 ## BRGSmemes123
-BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of Mr Reeves in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
+BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of [Mr Reeves](/teachers/mr-reeves) in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
 
 ![brgsmemes123firstpost.png](/brgsmemes123firstpost.png)
 
 This is the account most teachers mean when they refer to the 'meme pages' as it was the most active over lockdown and uses almost entirely staff memes.
 
 This account is credited with creating the new BRGS Wiki.
-As of 28/12/2020 it has 858 followers.
+As of 22/01/2021 it has 872 followers.
 
 ## Variations
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
@@ -52,7 +52,7 @@ All followers are accurate as of 25/11/2020
 Some examples are:
 - **MemesofBRGS**- First post 10th September 2019, currently has 490 followers.
 - **brgsbikelife**- This page is mostly poking fun at students with mopeds and only has 20 followers.
-- **brgs_science_memes**- A still active page apparently devoted entirely to memes about the BRGS science department. First post 5th November 2019. It has 203 followers.
+- **brgs_science_memes**- A still active page apparently devoted entirely to memes about the BRGS [science](/subjects/science) department. First post 5th November 2019. It has 203 followers.
 - **yr7brgsmemes**- This account appears to be dedicated just to year 7s. First post 22 June 2019, only has 84 followers.
 - **brgsdramamemes** A private account. Only has 11 followers Origin date unknown.
 - **brgsmemezz** 87 followers. Only post 14th September 2019
