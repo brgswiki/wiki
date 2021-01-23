@@ -2,7 +2,7 @@
 title: Year Events
 description: All events & trips organised per school year
 published: true
-date: 2020-09-22T19:24:28.167Z
+date: 2021-01-23T15:01:43.107Z
 tags: events, intake
 editor: markdown
 dateCreated: 2020-08-15T20:25:10.948Z
@@ -49,6 +49,7 @@ dateCreated: 2020-08-15T20:25:10.948Z
 - [Jodrell Bank](/other/year-events/2018-19/jodrell-bank)
 {.links-list}
 ### 2017-2018
+- [Yorkshire Dales](/other/year-events/2017-18/yorkshire-dales)
 - [Enrichment Week](/other/year-events/2017-18/enrichment-week)
 - [Blackpool](/other/year-events/2017-18/blackpool)
 - [Year 9 Camp](/other/year-events/2017-18/year-9-camp)
