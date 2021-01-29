@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-01-29T09:16:39.272Z
+date: 2021-01-29T09:18:01.758Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -57,7 +57,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Kolbuck *PE teacher, Head of Year 8*](/teachers/mrs-kolbuck)
 - [Miss Leah *Geography teacher*](/teachers/miss-leah)
 - [Ms Marti *German teacher*](/teachers/ms-marti)
-- [Mrs McCaffrey *Food tech teacher*](/teachers/mrs-mccaffrey)
+- [Miss McCaffrey *Food tech teacher*](/teachers/miss-mccaffrey)
 - [Mr Mercer *Head of Music*](/teachers/mr-mercer)
 - [Miss Morris *Physics teacher*](/teachers/miss-morris)
 - [Mr Morriss *Director of Sixth Form*](/teachers/mr-morriss)
