@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-02-10T13:07:51.349Z
+date: 2021-02-10T13:09:54.910Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -47,7 +47,7 @@ This is the account most teachers mean when they refer to the 'meme pages' as it
 
 This account is credited with creating the new BRGS Wiki.
 As of 22/01/2021 it has 872 followers.
-BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since they started the page over a year ago.
+BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since we started the page over a year ago (at at this rate we are likely to keep it on for at least another two years!)
 
 ## Variations
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
