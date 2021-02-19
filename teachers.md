@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-01-29T09:18:01.758Z
+date: 2021-02-19T14:39:23.012Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -85,7 +85,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Stringer *Physics teacher*](/teachers/mr-stringer)
 - [Mrs Szafranski *English teacher*](/teachers/mrs-szafranski)
 - [Mrs Taylor *Law & PSHCE teacher*](/teachers/mrs-taylor)
-- [Mr Vincent *RS teacher*](/teachers/mr-vincent)
 - [Mrs Walsh *Deputy Director of Sixth Form*](/teachers/mrs-walsh)
 - [Miss Watts *Art teacher*](/teachers/miss-watts)
 - [Mr Webber *Music teacher*](/teachers/mr-webber)
