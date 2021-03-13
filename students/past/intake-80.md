@@ -2,7 +2,7 @@
 title: Intake 80
 description: Intake of 1980
 published: true
-date: 2021-03-13T17:05:19.955Z
+date: 2021-03-13T20:08:25.142Z
 tags: intake, past students, students, 1980, intake 80
 editor: markdown
 dateCreated: 2021-03-13T17:05:19.955Z
