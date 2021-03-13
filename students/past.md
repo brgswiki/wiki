@@ -2,7 +2,7 @@
 title: Past Students
 description: Students from years long gone...
 published: true
-date: 2021-01-25T14:57:55.908Z
+date: 2021-03-13T16:59:18.844Z
 tags: intake, past, past students, students
 editor: markdown
 dateCreated: 2020-06-14T14:44:51.437Z
@@ -51,7 +51,66 @@ dateCreated: 2020-06-14T14:44:51.437Z
  - [Intake 76](/students/past/intake-76)
  - [Intake 75](/students/past/intake-75)
  - [Intake 74](/students/past/intake-74)
- 
+ - [Intake 73](/students/past/intake-73)
+ - [Intake 72](/students/past/intake-72)
+ - [Intake 71](/students/past/intake-71)
+ - [Intake 70](/students/past/intake-70)
+ - [Intake 69](/students/past/intake-69)
+ - [Intake 68](/students/past/intake-68)
+ - [Intake 67](/students/past/intake-67)
+ - [Intake 66](/students/past/intake-66)
+ - [Intake 65](/students/past/intake-65)
+ - [Intake 64](/students/past/intake-64)
+ - [Intake 63](/students/past/intake-63)
+ - [Intake 62](/students/past/intake-62)
+ - [Intake 61](/students/past/intake-61)
+ - [Intake 60](/students/past/intake-60)
+ - [Intake 59](/students/past/intake-59)
+ - [Intake 58](/students/past/intake-58)
+ - [Intake 57](/students/past/intake-57)
+ - [Intake 56](/students/past/intake-56)
+ - [Intake 55](/students/past/intake-55)
+ - [Intake 54](/students/past/intake-54)
+ - [Intake 53](/students/past/intake-53)
+ - [Intake 52](/students/past/intake-52)
+ - [Intake 51](/students/past/intake-51)
+ - [Intake 50](/students/past/intake-50)
+ - [Intake 49](/students/past/intake-49)
+ - [Intake 48](/students/past/intake-48)
+ - [Intake 47](/students/past/intake-47)
+ - [Intake 46](/students/past/intake-46)
+ - [Intake 45](/students/past/intake-45)
+ - [Intake 44](/students/past/intake-44)
+ - [Intake 43](/students/past/intake-43)
+ - [Intake 42](/students/past/intake-42)
+ - [Intake 41](/students/past/intake-41)
+ - [Intake 40](/students/past/intake-40)
+ - [Intake 39](/students/past/intake-39)
+ - [Intake 38](/students/past/intake-38)
+ - [Intake 37](/students/past/intake-37)
+ - [Intake 36](/students/past/intake-36)
+ - [Intake 35](/students/past/intake-35)
+ - [Intake 34](/students/past/intake-34)
+ - [Intake 33](/students/past/intake-33)
+ - [Intake 32](/students/past/intake-32)
+ - [Intake 31](/students/past/intake-31)
+ - [Intake 30](/students/past/intake-30)
+ - [Intake 29](/students/past/intake-29)
+ - [Intake 28](/students/past/intake-28)
+ - [Intake 27](/students/past/intake-27)
+ - [Intake 26](/students/past/intake-26)
+ - [Intake 1925](/students/past/intake-1925)
+ - [Intake 1924](/students/past/intake-1924)
+ - [Intake 1923](/students/past/intake-1923)
+ - [Intake 1922](/students/past/intake-1922)
+ - [Intake 1921](/students/past/intake-1921)
+ - [Intake 1920](/students/past/intake-1920)
+ - [Intake 1919](/students/past/intake-1919)
+ - [Intake 1918](/students/past/intake-1918)
+ - [Intake 1917](/students/past/intake-1917)
+ - [Intake 1916](/students/past/intake-1916)
+ - [Intake 1915](/students/past/intake-1915)
+ - [Intake 1914](/students/past/intake-1914)
+ - [Intake 1913](/students/past/intake-1913)
 {.links-list}
-> Feel free to add to this list if your intake year was earlier than we have gone up to automatically.
-{.is-info}
+
