@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-03-21T16:41:56.755Z
+date: 2021-03-21T16:46:19.506Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -17,7 +17,7 @@ Although initially they were secretive, most teachers appear to be aware of the 
 
 I'm not supposed to give my opinion, but I think these meme pages hold too much power over the school, and also they distract the teachers and cause them to create an endless stream of TikToks. (Not a bad thing per se...)
 
-Some teachers even follow these meme pages, so shout out to these utter legends!
+Some teachers even follow these meme pages, so shout out to those legends
 
 Sixth form teacher [Mrs Berry](/teachers/mrs-berry) was shown a meme about [Mr Morriss](/teachers/mr-morriss) and made the class promise not to tell that she had laughed at it.
 
@@ -36,7 +36,7 @@ BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme
 ![brgsmemesfirstpost.png](/brgsmemesfirstpost.png)
 
 The account currently has 1,000 followers as of 22/03/2021.
-It isn't known which year BRGSmemes are currently in but likely Year 11.
+It isn't known which year BRGSmemes are currently in but it seems like Year 11 or Year 12.
 
 ## BRGSmemes123
 BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of [Mr Reeves](/teachers/mr-reeves) in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
@@ -47,7 +47,7 @@ This is the account most teachers mean when they refer to the 'meme pages' as it
 
 This account is credited with creating the new BRGS Wiki.
 As of 22/03/2021 it has 885 followers.
-BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since we started the page over a year ago (at at this rate we are likely to keep it on for at least another two years!)
+BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since they started the page over a year ago (and hope to continue it for another two years)
 
 ## Variations
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
@@ -63,7 +63,7 @@ Some examples are:
 - **brgs.mp4** 62 followers. First post 17th september 2019
 - **brgsmemes1** 103 followers. First post 26 june 2019.
 ## BRGS WIKI
-The official Instagram account of this Wiki. This has only recently been created and as such only has 178 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already!
+The official Instagram account of this Wiki. This has only recently been created and as such has 200 followers at the moment. They post updates on the wiki. They are ran by one of the other moderators on the wiki rather than Le Admin or BRGSmemes123 as we have a lot to juggle already! Have also recently taken over the wiki's old Twitter account too.
 ## Other pages
 There are also a number of other BRGS Related instagram pages created by students.
 They include:
