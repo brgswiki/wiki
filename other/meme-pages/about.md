@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-02-10T13:09:54.910Z
+date: 2021-03-21T16:41:56.755Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -27,7 +27,7 @@ BRGSSixthformmemes was the first meme page to be created by a BRGS student. It w
 ![brgs6formfirstmeme.png](/brgs6formfirstmeme.png)
 
 The account was taken over by Lewis Barron in Late 2019.
-The account currently has 1,007 followers as of 28/12/2020.
+The account currently has 998 followers as of 21/03/2021.
 The current owners are sixth formers (unsurprisingly).
 
 ## BRGSmemes
@@ -35,7 +35,7 @@ BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme
 
 ![brgsmemesfirstpost.png](/brgsmemesfirstpost.png)
 
-The account currently has 1,010 followers as of 28/12/2020.
+The account currently has 1,000 followers as of 22/03/2021.
 It isn't known which year BRGSmemes are currently in but likely Year 11.
 
 ## BRGSmemes123
@@ -46,7 +46,7 @@ BRGSmemes123 was the last of the three main memepages and was be created on the 
 This is the account most teachers mean when they refer to the 'meme pages' as it was the most active over lockdown and uses almost entirely staff memes.
 
 This account is credited with creating the new BRGS Wiki.
-As of 22/01/2021 it has 872 followers.
+As of 22/03/2021 it has 885 followers.
 BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since we started the page over a year ago (at at this rate we are likely to keep it on for at least another two years!)
 
 ## Variations
