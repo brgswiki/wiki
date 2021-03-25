@@ -2,7 +2,7 @@
 title: Supply Teachers
 description: External teachers BRGS has brought in to cover lessons
 published: true
-date: 2021-02-20T15:50:16.452Z
+date: 2021-03-25T18:41:41.805Z
 tags: teacher, cover teacher, supply teacher
 editor: markdown
 dateCreated: 2020-06-05T13:55:16.993Z
@@ -22,5 +22,6 @@ ___
 - [Miss Townsend](/teachers/past/miss-townsend)
 - [Mr Blacoe](/teachers/supply/mr-blacoe)
 - [Mrs Culshaw](/teachers/supply/mrs-culshaw)
+- [Ms Lewis](/teachers/supply/ms-lewis)
 {.links-list}
 
