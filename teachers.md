@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-02-23T21:01:08.773Z
+date: 2021-03-25T19:05:03.618Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -75,7 +75,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Porteous *Head of Year 7, Biology teacher*](/teachers/mrs-porteous)
 - [Miss Powell *Head of Maths*](/teachers/miss-powell)
 - [Mr Proudman *Guitar teacher*](/teachers/music/mr-proudman)
-- [Mrs Reynard *Law & Textiles teacher*](/teachers/mrs-reynard)
 - [Miss Rowan *French teacher*](/teachers/miss-rowan)
 - [Mr Reeves *Deputy Head*](/teachers/mr-reeves)
 - [Mrs Richardson *PSHCE Teacher*](/teachers/mrs-richardson)
@@ -130,6 +129,7 @@ Teachers from years long gone...
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith *English teacher*](/teachers/past/miss-meredith)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
+- [Mrs Reynard *Head of Law and Textiles teacher*](/teachers/mrs-reynard)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
 - [Mrs Sharp *Computing teacher*](/teachers/past/mrs-sharp)
 - [Mrs Stanley *Head of History*](/teachers/past/mrs-stanley)
