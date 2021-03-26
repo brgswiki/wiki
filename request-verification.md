@@ -2,9 +2,10 @@
 title: Request Verification
 description: Get your Wiki account verified so you can edit pages
 published: true
-date: 2020-08-11T14:10:52.691Z
+date: 2021-03-26T19:08:03.341Z
 tags: verification
 editor: markdown
+dateCreated: 2020-06-09T12:45:40.283Z
 ---
 
 <figure class="image image_resized image-style-align-centre" style="width:100%;"><img src="/wikiwelcome.png"><figcaption></figcaption></figure>
@@ -14,7 +15,7 @@ Before we get you editing, please make sure that:
 - Your account does **NOT** use your real name (we [care about your privacy](/privacy)).
 - You have entered and verified a valid email address with your account.
 - Your account's email is **NOT** a brgsmail.org.uk address (this could potentially be traced).
-- Your username isn't offensive/inappropriate, or too similar to a moderator's username.
+- Your username isn't offensive/inappropriate, or too similar to a moderator's username (Le Admin, BRGSmemes123, and Moderator 123).
 
 All good? Excellent. To get verified as a Wiki editor, just comment `'Verify me'` in the comments section below and we will get back to you ASAP to get your account up and running properly. Once verified, your comment will be deleted.
 
