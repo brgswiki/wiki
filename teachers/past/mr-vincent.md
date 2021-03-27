@@ -2,14 +2,14 @@
 title: Mr Vincent
 description: RS teacher
 published: true
-date: 2021-03-04T14:15:34.377Z
+date: 2021-03-27T19:52:46.314Z
 tags: past teachers, rs
 editor: markdown
 dateCreated: 2021-03-04T14:11:27.800Z
 ---
 
 ## Mr Vincent
-Mr Vincent is an RS teacher, who sometimes teaches history to Year 7.
+Mr Vincent was an RS teacher, who sometimes taught history to Year 7.
 
 <br><br>
 
