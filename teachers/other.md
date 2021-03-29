@@ -2,7 +2,7 @@
 title: Other Staff Members
 description: Staff members not including teaching staff
 published: true
-date: 2021-01-25T14:56:57.835Z
+date: 2021-03-29T13:43:03.634Z
 tags: teacher, staff
 editor: markdown
 dateCreated: 2020-07-02T10:39:45.059Z
@@ -18,7 +18,6 @@ Staff members that are not strictly teaching staff - including office staff, tec
 - [Frank Doolin *Site Manager*](/teachers/other/frank-doolin)
 - [Miss Gauntlett *SENCo leader*](/teachers/other/miss-gauntlett)
 - [Mrs Grenaghan *Careers advisor*](/teachers/other/mrs-grenaghan)
-- [Miss Hughes *Supply teacher*](/teachers/other/miss-hughes)
 - [Mrs Hughes *Headmaster's PA*](/teachers/other/mrs-hughes)
 - [Mrs Kirk *Librarian*](/teachers/other/mrs-kirk)
 - [Louise *Lab technician*](teachers/other/louise)
