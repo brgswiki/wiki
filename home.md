@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2021-03-31T15:56:33.510Z
+date: 2021-03-31T16:00:24.108Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -10,7 +10,8 @@ dateCreated: 2020-06-01T11:22:59.481Z
 
 > [New to editing? Find out how to join in](https://brgswiki.org/getting-started/new-to-editing)
 {.is-info}
-(April version 1 - External links & photo)
+
+(April version 1 - External links & photos)
 # Welcome to the BRGS Wiki 🎉 
 <figure class="image image_resized image-style-align-right" style="width:60%;"><img src="/brgsapril.png"><figcaption>The lovely view from Glen Road</figcaption></figure>
 
@@ -191,7 +192,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [✂️ Textiles](/subjects/textiles)
 {.links-list}
 
-<figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs.png"><figcaption>BRGS on a typically sunny day in July</figcaption></figure>
+<figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgsapril2.png"><figcaption>BRGS on a typically sunny day in July</figcaption></figure>
 
 ## Groups
 - [🗺 School Trips](/groups/trips)
