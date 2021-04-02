@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2021-04-02T08:58:49.985Z
+date: 2021-04-02T09:07:13.495Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -57,6 +57,19 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 <div id="top-teachers-chart">Loading chart...</div>
 
 *Teachers highlighted in gold are from the 2020 Top 10.*
+
+(Apologies! Undergoing temporary repairs - for now updated manually)
+
+1. Miss Morris
+2. Miss Rowan
+3. Mrs Bowdler
+4. Mr Grehan
+5. Mrs Grehan
+6. Mrs Wharmby
+7. Miss Butterworth
+8. Miss Jackson
+9. Mr Porteous
+10. Mrs Stevenson-Jones
 
 ### Current teachers
 - [Mr Baird](/teachers/mr-baird)
@@ -158,7 +171,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Trainee Teachers](/teachers/trainee) 
 - [Other Staff Members](/teachers/other)
 {.links-list}
-
 
 ## Subjects
 
