@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-04-14T19:30:07.027Z
+date: 2021-04-16T13:01:27.735Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -16,6 +16,7 @@ Teachers from years long gone...
 - [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
+- [Mr Bowley *Head of DT*](/teachers/mr-bowley)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton *Chemistry teacher*](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
