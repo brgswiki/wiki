@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-03-26T19:15:25.378Z
+date: 2021-04-16T13:00:23.249Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -18,7 +18,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Brown *Brass teacher*](/teachers/music/mr-brown)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
 - [Mrs Bowdler *Head of Year 11, Spanish & German teacher*](/teachers/mrs-bowdler)
-- [Mr Bowley *Head of DT*](/teachers/mr-bowley)
 - [Mrs Buckley *Head of MFL*](/teachers/mrs-buckley)
 - [Miss Burkhart *Woodwind Teacher*](/teachers/music/miss-burkhart)
 - [Miss Butterworth *RS & PSHCE teacher*](/teachers/miss-butterworth)
