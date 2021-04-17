@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-04-16T13:00:23.249Z
+date: 2021-04-17T18:36:37.582Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -68,6 +68,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Noone *Drums teacher*](/teachers/music/mr-noone)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
 - [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
+- [Mr Patrick *Head of DT*](/teachers/mr-patrick)
 - [Mr Peat *History teacher*](/teachers/mr-peat)
 - [Mr Pigott *PE teacher*](/teachers/mr-pigott)
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
