@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2021-04-17T18:44:46.429Z
+date: 2021-05-15T10:12:27.319Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -99,6 +99,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Miss Jackson](/teachers/miss-jackson)
 - [Dr Jackson](/teachers/dr-jackson)
 - [Mr Jackson](/teachers/mr-jackson)
+- [Ms James](/teachers/ms-james)
 - [Mr Jones](/teachers/mr-jones)
 - [Miss Jordan](/teachers/miss-jordan)
 - [Mrs Kennedy](/teachers/mrs-kennedy)
