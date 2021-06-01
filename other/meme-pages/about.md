@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-03-21T16:46:19.506Z
+date: 2021-06-01T11:34:28.216Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -27,7 +27,7 @@ BRGSSixthformmemes was the first meme page to be created by a BRGS student. It w
 ![brgs6formfirstmeme.png](/brgs6formfirstmeme.png)
 
 The account was taken over by Lewis Barron in Late 2019.
-The account currently has 998 followers as of 21/03/2021.
+The account currently has 996 followers as of 01/06/2021.
 The current owners are sixth formers (unsurprisingly).
 
 ## BRGSmemes
@@ -35,8 +35,8 @@ BRGSmemes was the second account to be made, on the 13th May 2019 posting a meme
 
 ![brgsmemesfirstpost.png](/brgsmemesfirstpost.png)
 
-The account currently has 1,000 followers as of 22/03/2021.
-It isn't known which year BRGSmemes are currently in but it seems like Year 11 or Year 12.
+The account currently has 1,012 followers as of 01/06/2021.
+BRGSmemes are likely Yr 11s.
 
 ## BRGSmemes123
 BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of [Mr Reeves](/teachers/mr-reeves) in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
@@ -46,8 +46,10 @@ BRGSmemes123 was the last of the three main memepages and was be created on the 
 This is the account most teachers mean when they refer to the 'meme pages' as it was the most active over lockdown and uses almost entirely staff memes.
 
 This account is credited with creating the new BRGS Wiki.
-As of 22/03/2021 it has 885 followers.
-BRGSmemes123's owners are currently in Year 11 and have had no switches in owner since they started the page over a year ago (and hope to continue it for another two years)
+As of 01/06/2021 it has 926 followers.
+BRGSmemes123's owners are currently in Year 11 and have had no switches in owner yet (and hope to continue it for another two years ;) )
+
+Some teachers know who we are, some are coming close,... others... not so close
 
 ## Variations
 There also exist a number of less popular meme pages that have either stopped posting, or have very few followers.
