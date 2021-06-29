@@ -2,14 +2,14 @@
 title: Year 11
 description: The fifth year at BRGS
 published: true
-date: 2021-04-21T19:48:16.591Z
+date: 2021-06-29T09:57:15.190Z
 tags: intake, intake 16, year 11, intake 16 events
 editor: markdown
 dateCreated: 2020-06-06T11:57:45.087Z
 ---
 
 ## Year 11
-Year 11 is the year in which you take your GCSEs (unless of course a deadly disease sweeping the world results in them getting cancelled... as if that would happen)
+Year 11 is the year in which you take your GCSEs (unless of course a deadly virus sweeping the world results in them getting cancelled... as if that would happen)
 
 In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 1480x more stressful.
 
