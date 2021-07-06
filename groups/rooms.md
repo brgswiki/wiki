@@ -2,7 +2,7 @@
 title: Rooms
 description: The rooms around BRGS
 published: true
-date: 2021-07-06T15:59:21.594Z
+date: 2021-07-06T15:59:28.065Z
 tags: places, groups, rooms, classrooms, subjects
 editor: markdown
 dateCreated: 2020-06-03T16:39:23.683Z
@@ -14,7 +14,7 @@ BRGS has many rooms, including classrooms and little storage rooms that look lik
 Many of these rooms, depending on the building they reside in, are either miles above or below the ideal temperature.
 
 ---
-> Try our new interactive map, an even easier way to find the room you're looking for.
+> Try our interactive map, an even easier way to find the room you're looking for.
 > [📌 School Map](/map)
 {.is-info}
 
