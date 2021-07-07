@@ -2,9 +2,10 @@
 title: Art Classrooms
 description: The classrooms in which art is taught
 published: true
-date: 2020-07-10T10:15:17.864Z
+date: 2021-07-07T09:37:08.445Z
 tags: places, rooms, classrooms, art
 editor: markdown
+dateCreated: 2020-07-10T10:15:17.864Z
 ---
 
 # Art Classrooms
