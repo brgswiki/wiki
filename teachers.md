@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-07-16T19:25:55.312Z
+date: 2021-07-16T19:28:21.198Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -98,7 +98,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Wilkinson *Head of Science*](/teachers/mr-wilkinson)
 - [Miss Whitaker *Maths teacher*](/teachers/miss-whitaker)
 - [Mrs Workman *Drama teacher*](/teachers/mrs-workman)
-- [Mr Wyton *Head of MFL*](/teachers/past/mr-wyton)
 {.links-list}
 ## Past Teachers
 Teachers from years long gone...
