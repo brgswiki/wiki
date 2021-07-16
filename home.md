@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2021-07-16T18:54:00.114Z
+date: 2021-07-16T19:27:50.176Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -60,7 +60,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Bamford](/teachers/mrs-bamford)
 - [Mrs Black](/teachers/mrs-black)
 - [Mr Brandwood](/teachers/mr-brandwood)
-- [Mr Brown](/teachers/music/mr-brown)
 - [Mrs Bowdler](/teachers/mrs-bowdler)
 - [Miss Burkhart](/teachers/music/miss-burkhart)
 - [Mrs Buckley](/teachers/mrs-buckley)
@@ -76,7 +75,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Ms Dougherty](/teachers/ms-dougherty)
 - [Mrs Easby](/teachers/mrs-easby)
 - [Miss Flint](/teachers/miss-flint)
-- [Mr Foster](/teachers/mr-foster)
 - [Miss Foster](/teachers/miss-foster)
 - [Mr Flynn](/teachers/mr-flynn)
 - [Miss Freeth](/teachers/miss-freeth)
@@ -110,7 +108,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mr Neve](/teachers/mr-neve)
 - [Mrs O'Hara](/teachers/mrs-o-hara)
 - [Miss Ogle](/teachers/miss-ogle)
-- [Mr Patrick](/teachers/mr-patrick)
 - [Mr Peat](/teachers/mr-peat)
 - [Mr Pigott](/teachers/mr-pigott)
 - [Mr Porteous](/teachers/mr-porteous)
@@ -144,7 +141,6 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mr Wilkinson](/teachers/mr-wilkinson)
 - [Miss Whitaker](/teachers/miss-whitaker)
 - [Mrs Workman](/teachers/mrs-workman)
-- [Mr Wyton](/teachers/past/mr-wyton)
 {.links-list}
 
 #### Other Teachers
