@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-07-16T18:48:58.492Z
+date: 2021-07-16T18:56:48.030Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -13,10 +13,11 @@ Teachers from years long gone...
 - [Mrs Aldred *PE teacher*](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
 - [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
+- [Mrs Berry *Deputy Director of Sixth Form and Psychology*](/teachers/past/mrs-berry)
 - [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
-- [Mr Bowley *Head of DT*](/teachers/mr-bowley)
+- [Mr Bowley *Head of DT*](/teachers/past/mr-bowley)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton *Chemistry teacher*](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
