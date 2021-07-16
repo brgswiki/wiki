@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-07-16T19:11:05.348Z
+date: 2021-07-16T19:24:34.188Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -39,6 +39,7 @@ Teachers from years long gone...
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
 - [Mr Overend](/teachers/past/mr-overend)
+- [Mr Patrick *Head of DT*](/teachers/past/mr-patrick)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
 - [Mrs Reynard *Head of Textiles & Law teacher*](/teachers/past/mrs-reynard)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
