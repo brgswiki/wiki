@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-07-16T18:56:48.030Z
+date: 2021-07-16T19:04:58.363Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -26,6 +26,7 @@ Teachers from years long gone...
 - [Mr Edwards](/teachers/past/mr-edwards)
 - [Mr Fitton *DT teacher*](/teachers/past/mr-fitton)
 - [Miss Forrest *Spanish teacher*](/teachers/past/miss-forrest)
+- [Mr Foster *English teacher*](/teachers/past/mr-foster)
 - [Mrs Fowler-Gibbs *Drama teacher*](/teachers/past/mrs-fowler-gibbs)
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
