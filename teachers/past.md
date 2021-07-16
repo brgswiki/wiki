@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-07-16T19:04:58.363Z
+date: 2021-07-16T19:11:05.348Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -18,6 +18,7 @@ Teachers from years long gone...
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
 - [Mr Bowley *Head of DT*](/teachers/past/mr-bowley)
+- [Mr Brown *Brass Teacher*](/teachers/past/music/mr-brown)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton *Chemistry teacher*](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
