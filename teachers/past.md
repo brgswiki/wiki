@@ -2,7 +2,7 @@
 title: Past Teachers
 description: 
 published: true
-date: 2021-07-16T19:24:34.188Z
+date: 2021-07-17T09:08:03.081Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-05T11:42:16.609Z
@@ -36,6 +36,7 @@ Teachers from years long gone...
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
 - [Dr Kirk](/teachers/past/dr-kirk)
+- [Ms Marti *German teacher*](/teachers/past/ms-marti)
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
 - [Mr Overend](/teachers/past/mr-overend)
