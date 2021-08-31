@@ -1,41 +1,32 @@
 ---
-title: Year 9
-description: The third year at BRGS
+title: Year 10
+description: Intake 2018
 published: true
 date: 2021-01-23T14:48:21.012Z
-tags: intake, intake 18, year 9, intake 18 events
+tags: intake, intake 18, year 10, intake 18 events
 editor: markdown
 dateCreated: 2020-06-06T11:43:36.738Z
 ---
 
-## Year 9
-Year 9s are on the whole less cocky than both years before them. This is also the year you choose your GCSE options, although most people regret these by Year 10 and change them to another subject they regret just as much.
+## Year 10
+In Year 10 most people are stressing about their GCSEs and then half way through the year you just give up worrying and have decided come what may, and then rather than putting effort in you'll just live life to the fullest. This high only lasts a week or so before you come back to reality as all teachers talk about is GCSEs or how much they hate their kids.
+The first term tends to be fun but then things get a bit hectic and dead. Mock exams are usually in May, unless a deadly virus comes along and cancels them! Mock exams are usually just crippling anxiety and depression but if you revise well then you will be fine. 
 
-In Year 9 rather than being in forms for your classes you are put in a mixed group, with roughly 5 people from each form. You are in these classes for every subject apart from the language you chose in Year 8 and one drama lesson a fortnight.
+In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
 
-The current Year 9 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
+The current Year 10 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
 
-The current Year 9s are not actually in forms this year, but instead their teaching groups to 'reduce the spread of coronavirus' although if one gets covid-19 they're all off anyway.
+### Intake 18 Forms
+- [18B](/students/intake18/b)
+- [18R](/students/intake18/r)
+- [18G](/students/intake18/g)
+- [18S](/students/intake18/s)
+- [18N](/students/intake18/n)
+- [18W](/students/intake18/w)
+{.links-list}
 
-9X1 - [Miss Gore-Ward](/teachers/miss-gore-ward)
-9X2 - [Miss McCaffrey](/teachers/miss-mccaffrey) & [Mrs Jackson](/teachers/mrs-jackson)
-9X3 - [Mrs Kennedy](/teachers/mrs-kennedy)
-9Y1 - [Mr Brandwood](/teachers/mr-brandwood)
-9Y2 - [Mr Neve](/teachers/mr-neve)
-9Y3 - [Mr Peat](/teachers/mr-peat)
+### Other
+- [Intake 18 Events](/students/intake18/events)
+{.links-list}
 
- 
- ### Year 9 Forms
- - [18B](/students/intake18/b)
- - [18R](/students/intake18/r)
- - [18G](/students/intake18/g)
- - [18S](/students/intake18/s)
- - [18N](/students/intake18/n)
- - [18W](/students/intake18/w)
- {.links-list}
-
- ### Other
- - [Intake 18 Events](/students/intake18/events)
- {.links-list}
- 
- > Note:  Rather than saying "9S" for example, we use "18S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "10S" for example, we use "18S" so that we don't need to update the year group each new school year

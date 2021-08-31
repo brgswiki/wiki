@@ -1,19 +1,21 @@
 ---
-title: Year 8
-description: The second year of BRGS
+title: Year 9
+description: Intake 2019
 published: true
 date: 2020-09-03T15:50:44.828Z
-tags: intake, intake 19, year 8, intake 19 events
+tags: intake, intake 19, year 9, intake 19 events
 editor: markdown
+dateCreated: 2020-06-06T11:43:36.738Z
 ---
 
-##  Year 8
- Year 8s are possibly even cockier than Year 7s, because they are no longer the youngest year in school. None of the other years really pay much attention to year 8s depite their best efforts for attention.
- 
- In Year 8 you begin to branch out a bit more and make more friends from other forms.
-The current Year 8 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck).
+## Year 9
+Year 9s are on the whole less cocky than both years before them. This is also the year you choose your GCSE options, although most people regret these by Year 10 and change them to another subject they regret just as much.
 
-#### Year 8 Forms
+In Year 9 rather than being in forms for your classes you are put in a mixed group, with roughly 5 people from each form. You are in these classes for every subject apart from the language you chose in Year 8 and one drama lesson a fortnight.
+
+The current Year 9 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck).
+
+#### Intake 19 Forms
 - [19B](/students/intake19/b)
 - [19R](/students/intake19/r)
 - [19G](/students/intake19/g)

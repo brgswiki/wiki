@@ -1,22 +1,21 @@
 ---
-title: Year 10
-description: The fourth year of BRGS
+title: Year 11
+description: Intake 2017
 published: true
 date: 2021-01-23T14:52:08.586Z
-tags: intake, intake 17, 17s, 17w, 17b, 17g, 17r, 17n
+tags: intake, intake 17, year 11, intake 17 events
 editor: markdown
 dateCreated: 2020-06-06T11:50:25.808Z
 ---
 
-## Year 10
- In Year 10 most people are stressing about their GCSEs and then half way through the year you just give up worrying and have decided come what may, and then rather than putting effort in you'll just live life to the fullest. This high only lasts a week or so before you come back to reality as all teachers talk about is GCSEs or how much they hate their kids.
- The first term tends to be fun (at least in my experience) but then things get a bit hectic and dead. Mock exams are usually in May, unless a deadly virus comes along and cancels them! Mock exams are usually just crippling anxiety and depression but if you revise well then you will be fine. 
- 
- In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
- 
-The current Year 10 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
+## Year 11
+Year 11 is the year in which you take your GCSEs (unless of course a deadly virus sweeping the world results in them getting cancelled... as if that would happen)
 
-### Year 10 Forms
+In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 1480x more stressful.
+
+The current Year 11 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
+
+### Intake 17 Forms
 - [17B](/students/intake17/b)
 - [17R](/students/intake17/r)
 - [17G](/students/intake17/g)
@@ -29,5 +28,5 @@ The current Year 10 joined in 2017, and their Head of Year is [Mr Chambers](/tea
 - [Intake 17 Events](/students/intake17/events)
 {.links-list}
 
-> Note:  Rather than saying "10S" for example, we use "17S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "11S" for example, we use "17S" so that we don't need to update the year group each new school year
 {.is-info}

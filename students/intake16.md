@@ -1,23 +1,26 @@
 ---
-title: Year 11
-description: The fifth year at BRGS
+title: Year 12
+description: Intake 2016
 published: true
 date: 2021-06-29T09:57:15.190Z
-tags: intake, intake 16, year 11, intake 16 events
+tags: intake, intake 16, year 12, intake 16 events
 editor: markdown
 dateCreated: 2020-06-06T11:57:45.087Z
 ---
 
-## Year 11
-Year 11 is the year in which you take your GCSEs (unless of course a deadly virus sweeping the world results in them getting cancelled... as if that would happen)
+## Year 12
+This is the first year of Sixth Form, and many people continue from the Lower School. You usually take about 4 subjects, then drop one after the first term.
 
-In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 1480x more stressful.
+The current Year 12 either joined in 2016 or 2021, and their Head of Year is [Mrs Walsh](/teachers/mrs-walsh).
 
-The current Year 11 joined in 2016, and their Head of Year is [Mrs Bowdler](/teachers/mrs-bowdler).
+In lower school, their Head of Year was [Mrs Bowdler](/teachers/mrs-bowdler), and they were the last year to have a Halloween disco and the first to have the same Head of Year all 5 years.
 
-The last year to have a Halloween disco and the first to have the same Head of Year all 5 years.
+### Intake 16 Tutor Groups
 
-### Year 11 Forms
+- TBC
+{.links-list}
+
+### Intake 16 Forms (Lower School)
 - [16B](/students/intake16/b)
 - [16R](/students/intake16/r)
 - [16G](/students/intake16/g)
@@ -30,5 +33,5 @@ The last year to have a Halloween disco and the first to have the same Head of Y
 - [Intake 16 Events](/students/intake16/events)
 {.links-list}
 
-> Note:  Rather than saying "11S" for example, we use "16S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "12XYZ" for example, we use "16XYZ" so that we don't need to update the year group each new school year
 {.is-info}
