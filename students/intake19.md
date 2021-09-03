@@ -2,10 +2,10 @@
 title: Year 9
 description: Intake 2019
 published: true
-date: 2020-09-03T15:50:44.828Z
+date: 2021-09-03T19:48:27.113Z
 tags: intake, intake 19, year 9, intake 19 events
 editor: markdown
-dateCreated: 2020-06-06T11:43:36.738Z
+dateCreated: 2020-06-05T09:18:20.865Z
 ---
 
 ## Year 9
@@ -28,5 +28,5 @@ The current Year 9 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teac
 - [Intake 19 Events](/students/intake19/events)
 {.links-list}
 
-> Note:  Rather than saying "8S" for example, we use "19S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "9S" for example, we use "19S" so that we don't need to update the year group each new school year
 {.is-info}
