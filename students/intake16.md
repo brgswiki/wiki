@@ -2,7 +2,7 @@
 title: Year 12
 description: Intake 2016
 published: true
-date: 2021-06-29T09:57:15.190Z
+date: 2021-09-03T19:01:51.819Z
 tags: intake, intake 16, year 12, intake 16 events
 editor: markdown
 dateCreated: 2020-06-06T11:57:45.087Z
@@ -16,8 +16,16 @@ The current Year 12 either joined in 2016 or 2021, and their Head of Year is [Mr
 In lower school, their Head of Year was [Mrs Bowdler](/teachers/mrs-bowdler), and they were the last year to have a Halloween disco and the first to have the same Head of Year all 5 years.
 
 ### Intake 16 Tutor Groups
+- [12JIB](/students/intake16/jib)
+- [12CEB](/students/intake16/ceb)
+- [12KES](/students/intake16/kes)
+- [12AJW](/students/intake16/ajw)
+- [12CHJ](/students/intake16/chj)
+- [12GLG](/students/intake16/glg)
+- [12TOH](/students/intake16/toh)
+- [12HEC](/students/intake16/hec)
+- [12SSJ](/students/intake16/ssj)
 
-- TBC
 {.links-list}
 
 ### Intake 16 Forms (Lower School)
