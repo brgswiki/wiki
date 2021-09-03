@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2021-09-03T18:56:16.493Z
+date: 2021-09-03T19:19:11.794Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -81,6 +81,7 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mr Grehan](/teachers/mr-grehan)
 - [Mrs Grehan](/teachers/mrs-grehan)
 - [Miss Gore-Ward](/teachers/miss-gore-ward)
+- [Mrs Hallworth](/teachers/miss-james)
 - [Mrs Harper](/teachers/mrs-harper)
 - [Miss Hartley](/teachers/miss-hartley)
 - [Mrs Howard](/teachers/music/mrs-howard)
@@ -89,10 +90,9 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Miss Hughes](/teachers/miss-hughes)
 - [Miss Ingham](/teachers/miss-ingham)
 - [Mrs Jackson](/teachers/mrs-jackson)
-- [Miss Jackson](/teachers/miss-jackson)
+- [Mrs Jackson-Orland](/teachers/miss-jackson)
 - [Dr Jackson](/teachers/dr-jackson)
 - [Mr Jackson](/teachers/mr-jackson)
-- [Ms James](/teachers/ms-james)
 - [Mr Jones](/teachers/mr-jones)
 - [Mr Johnstone](/teachers/mr-johnstone)
 - [Miss Jordan](/teachers/miss-jordan)
@@ -125,8 +125,8 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 - [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
 - [Mr Stringer](/teachers/mr-stringer)
 - [Mrs Szafranski](/teachers/mrs-szafranski)
+- [Ms Tait-Hanlon](/teachers/ms-tait-hanlon)
 - [Mrs Taylor](/teachers/mrs-taylor)
-- [Mr Taylor](/teachers/mr-taylor)
 - [Mrs Walsh](/teachers/mrs-walsh)
 - [Miss Watts](/teachers/miss-watts)
 - [Mr Webber](/teachers/mr-webber)
