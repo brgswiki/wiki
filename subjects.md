@@ -1,8 +1,8 @@
 ---
 title: Subjects
 description: The different lessons & subjects BRGS offers
-published: true
-date: 2020-11-27T11:08:25.834Z
+published: false
+date: 2021-09-23T17:06:33.167Z
 tags: subjects
 editor: markdown
 dateCreated: 2020-07-05T10:11:22.681Z

@@ -1,8 +1,8 @@
 ---
 title: Intake '75
 description: Intake of 1975
-published: true
-date: 2021-04-08T14:12:34.791Z
+published: false
+date: 2021-09-23T16:58:07.020Z
 tags: intake, past students, 1975, intake 75
 editor: markdown
 dateCreated: 2021-03-17T19:30:04.273Z

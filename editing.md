@@ -1,8 +1,8 @@
 ---
 title: Editing Guidelines
 description: Learn how to edit/create pages on the Wiki
-published: true
-date: 2020-11-25T08:32:20.418Z
+published: false
+date: 2021-09-23T17:01:28.784Z
 tags: rules
 editor: markdown
 dateCreated: 2020-06-09T11:42:45.867Z

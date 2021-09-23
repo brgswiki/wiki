@@ -1,8 +1,8 @@
 ---
 title: Intake '60
 description: Intake of 1960
-published: true
-date: 2021-03-23T20:35:07.264Z
+published: false
+date: 2021-09-23T16:57:19.426Z
 tags: intake, past students, intake 60, 1960
 editor: markdown
 dateCreated: 2021-03-23T19:36:29.142Z

@@ -1,10 +1,11 @@
 ---
 title: Intake '84
 description: Intake of 1984
-published: true
-date: 2020-08-07T10:51:16.184Z
+published: false
+date: 2021-09-23T17:00:39.552Z
 tags: past students, students, 1984, intake 84
 editor: markdown
+dateCreated: 2020-07-16T13:59:39.273Z
 ---
 
 ## Intake 1984

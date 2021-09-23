@@ -2,7 +2,7 @@
 title: RS Classrooms
 description: The rooms in which Religious Studies is taught
 published: true
-date: 2020-11-21T13:06:41.736Z
+date: 2021-08-31T20:11:45.595Z
 tags: places, rooms, classrooms, rs
 editor: markdown
 dateCreated: 2020-06-14T14:52:33.548Z

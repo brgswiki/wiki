@@ -2,9 +2,10 @@
 title: Intake 15
 description: Year group that joined in 2015
 published: true
-date: 2020-09-02T13:50:39.619Z
+date: 2021-08-31T20:10:50.620Z
 tags: intake, intake 15, past students, students
 editor: markdown
+dateCreated: 2020-06-06T12:13:29.763Z
 ---
 
 ## Intake 15

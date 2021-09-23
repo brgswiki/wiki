@@ -1,8 +1,8 @@
 ---
 title: Intake '77
 description: Intake of 1977
-published: true
-date: 2021-03-13T22:46:27.373Z
+published: false
+date: 2021-09-23T16:58:56.176Z
 tags: intake, past students, students, intake 77, 1977
 editor: markdown
 dateCreated: 2021-03-13T21:39:50.496Z

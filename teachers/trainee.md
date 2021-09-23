@@ -2,7 +2,7 @@
 title: Trainee Teachers
 description: Teachers who have come to train for a short while at BRGS
 published: true
-date: 2020-12-20T16:30:12.761Z
+date: 2021-08-31T20:11:39.789Z
 tags: teacher, past teachers, trainee teachers
 editor: markdown
 dateCreated: 2020-06-14T14:30:15.490Z

@@ -1,8 +1,8 @@
 ---
 title: Coronavirus
 description: Probably one of the biggest events in BRGS's history during peacetime.
-published: true
-date: 2021-02-09T22:28:19.958Z
+published: false
+date: 2021-09-23T16:04:06.357Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:31:58.950Z

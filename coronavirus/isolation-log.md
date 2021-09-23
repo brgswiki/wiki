@@ -2,7 +2,7 @@
 title: Coronavirus Isolation Memories Log (September Onwards)
 description: A place to write down our memories of the our time in isolation
 published: true
-date: 2020-12-08T10:09:59.452Z
+date: 2021-08-31T20:19:57.232Z
 tags: coronavirus, isolation
 editor: markdown
 dateCreated: 2020-09-19T16:36:27.215Z

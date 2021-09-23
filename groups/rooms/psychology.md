@@ -2,9 +2,10 @@
 title: Psychology Rooms
 description: Classrooms in which psychology is taught
 published: true
-date: 2020-07-21T19:34:53.432Z
+date: 2021-08-31T20:15:55.424Z
 tags: places, rooms, classrooms, psychology
 editor: markdown
+dateCreated: 2020-07-21T19:33:49.012Z
 ---
 
 ## Psychology Classrooms

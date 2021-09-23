@@ -2,9 +2,10 @@
 title: History Classrooms
 description: The rooms in which history is taught
 published: true
-date: 2020-07-03T09:40:14.285Z
+date: 2021-08-31T20:12:56.287Z
 tags: places, room, history
 editor: markdown
+dateCreated: 2020-07-03T09:21:23.814Z
 ---
 
 # History Classrooms

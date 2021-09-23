@@ -1,10 +1,11 @@
 ---
 title: Intake 1996
 description: Intake of '96
-published: true
-date: 2020-08-12T20:56:19.789Z
+published: false
+date: 2021-09-23T17:05:10.790Z
 tags: intake, past students, students, 1996, intake 96
 editor: markdown
+dateCreated: 2020-08-12T20:56:19.789Z
 ---
 
 ## Intake 1996

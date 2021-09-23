@@ -2,9 +2,10 @@
 title: Science Rooms
 description: The rooms in which biology, chemistry and physics are taught
 published: true
-date: 2020-06-10T22:14:28.523Z
+date: 2021-08-31T20:10:52.567Z
 tags: chemistry, physics, places, science, biology, rooms, classrooms
 editor: markdown
+dateCreated: 2020-06-06T19:02:00.047Z
 ---
 
 # Science Rooms

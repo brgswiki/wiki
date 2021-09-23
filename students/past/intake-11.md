@@ -1,10 +1,11 @@
 ---
 title: Intake 2011
 description: The intake of 2011
-published: true
-date: 2020-07-03T12:36:20.060Z
+published: false
+date: 2021-09-23T17:02:53.112Z
 tags: intake, students, intake 11
 editor: markdown
+dateCreated: 2020-07-03T12:27:54.906Z
 ---
 
 # Intake 2011
