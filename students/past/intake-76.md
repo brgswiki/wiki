@@ -1,7 +1,7 @@
 ---
 title: Intake '76
 description: Intake of 1976
-published: false
+published: true
 date: 2021-09-23T16:58:30.135Z
 tags: intake, past students, students, intake 76
 editor: markdown

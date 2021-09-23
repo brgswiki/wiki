@@ -1,7 +1,7 @@
 ---
 title: Groups
 description: School trips, events, places & rooms
-published: false
+published: true
 date: 2021-09-23T16:47:02.956Z
 tags: groups
 editor: markdown

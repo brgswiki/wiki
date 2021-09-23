@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: Get the facts about what we do with your data
-published: false
+published: true
 date: 2021-09-23T16:04:51.200Z
 tags: 
 editor: markdown

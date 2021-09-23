@@ -1,7 +1,7 @@
 ---
 title: Year 9
 description: Intake 2019
-published: false
+published: true
 date: 2021-09-23T16:17:11.538Z
 tags: intake, intake 19, year 9, intake 19 events
 editor: markdown

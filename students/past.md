@@ -1,7 +1,7 @@
 ---
 title: Past Students
 description: Students from years long gone...
-published: false
+published: true
 date: 2021-09-23T16:18:14.153Z
 tags: intake, past, past students, students
 editor: markdown

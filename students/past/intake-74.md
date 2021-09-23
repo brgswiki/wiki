@@ -1,7 +1,7 @@
 ---
 title: Intake '74
 description: Intake of 1974
-published: false
+published: true
 date: 2021-09-23T16:57:42.101Z
 tags: intake, past students, students, intake 74
 editor: markdown

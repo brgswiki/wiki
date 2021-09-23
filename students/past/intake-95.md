@@ -1,7 +1,7 @@
 ---
 title: Intake 1995
 description: Intake of '95
-published: false
+published: true
 date: 2021-09-23T17:05:29.677Z
 tags: past students, intake 95, 1995
 editor: markdown

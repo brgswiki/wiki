@@ -1,7 +1,7 @@
 ---
 title: Intake 1993
 description: Intake of '93
-published: false
+published: true
 date: 2021-09-23T17:05:38.726Z
 tags: past students, intake 93
 editor: markdown

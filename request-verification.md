@@ -1,7 +1,7 @@
 ---
 title: Request Verification
 description: Get your Wiki account verified so you can edit pages
-published: false
+published: true
 date: 2021-09-23T15:30:58.846Z
 tags: verification
 editor: markdown

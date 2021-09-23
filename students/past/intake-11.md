@@ -1,7 +1,7 @@
 ---
 title: Intake 2011
 description: The intake of 2011
-published: false
+published: true
 date: 2021-09-23T17:02:53.112Z
 tags: intake, students, intake 11
 editor: markdown

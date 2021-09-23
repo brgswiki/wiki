@@ -1,7 +1,7 @@
 ---
 title: Intake '79
 description: Intake of 1979
-published: false
+published: true
 date: 2021-09-23T16:59:56.182Z
 tags: intake, past students, students, 1979, intake 79
 editor: markdown

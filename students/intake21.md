@@ -1,7 +1,7 @@
 ---
 title: Year 7
 description: Intake 2021
-published: false
+published: true
 date: 2021-09-23T16:16:34.533Z
 tags: intake, year 7, intake 21, intake 21 events
 editor: markdown

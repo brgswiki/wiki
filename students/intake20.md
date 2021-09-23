@@ -1,7 +1,7 @@
 ---
 title: Year 8
 description: Intake 2020
-published: false
+published: true
 date: 2021-09-23T15:31:37.589Z
 tags: intake, year 8, intake 20, intake 20 events
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: Year 10
 description: Intake 2018
-published: false
+published: true
 date: 2021-09-23T16:17:26.015Z
 tags: intake, intake 18, year 10, intake 18 events
 editor: markdown

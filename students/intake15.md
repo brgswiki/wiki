@@ -1,7 +1,7 @@
 ---
 title: Year 13
 description: Intake 2015
-published: false
+published: true
 date: 2021-09-23T16:18:11.111Z
 tags: intake, intake 15, sixth form, year 13
 editor: markdown

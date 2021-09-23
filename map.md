@@ -1,7 +1,7 @@
 ---
 title: School Map
 description: Our interactive map of BRGS - never get lost again!
-published: false
+published: true
 date: 2021-09-23T16:04:24.341Z
 tags: map
 editor: markdown

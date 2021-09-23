@@ -1,7 +1,7 @@
 ---
 title: Coronavirus Lockdown 2020 Memories
 description: A place to write down our memories/stories of and during the Lockdown.
-published: false
+published: true
 date: 2021-09-23T16:05:01.271Z
 tags: 
 editor: markdown

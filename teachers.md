@@ -1,7 +1,7 @@
 ---
 title: Teachers
 description: BRGS staff members
-published: false
+published: true
 date: 2021-09-23T15:28:12.132Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown

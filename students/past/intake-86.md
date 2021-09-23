@@ -1,7 +1,7 @@
 ---
 title: Intake '86
 description: Intake of 1986
-published: false
+published: true
 date: 2021-09-23T17:01:15.005Z
 tags: past students, students, 1986, intake 86
 editor: markdown

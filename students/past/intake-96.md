@@ -1,7 +1,7 @@
 ---
 title: Intake 1996
 description: Intake of '96
-published: false
+published: true
 date: 2021-09-23T17:05:10.790Z
 tags: intake, past students, students, 1996, intake 96
 editor: markdown

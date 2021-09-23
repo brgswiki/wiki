@@ -1,7 +1,7 @@
 ---
 title: Intake '87
 description: Intake of 1987
-published: false
+published: true
 date: 2021-09-23T17:01:50.027Z
 tags: past students, students, 1987, intake 87
 editor: markdown

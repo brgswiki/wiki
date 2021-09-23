@@ -1,7 +1,7 @@
 ---
 title: Intake 1994
 description: Intake of '94
-published: false
+published: true
 date: 2021-09-23T17:05:23.976Z
 tags: past students, form, intake 94
 editor: markdown

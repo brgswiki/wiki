@@ -1,7 +1,7 @@
 ---
 title: Intake '78
 description: Intake of 1978
-published: false
+published: true
 date: 2021-09-23T16:59:36.033Z
 tags: intake, past students, students, 1978, intake 78
 editor: markdown

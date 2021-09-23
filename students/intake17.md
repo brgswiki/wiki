@@ -1,7 +1,7 @@
 ---
 title: Year 11
 description: Intake 2017
-published: false
+published: true
 date: 2021-09-23T16:17:42.402Z
 tags: intake, intake 17, year 11, intake 17 events
 editor: markdown

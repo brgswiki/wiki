@@ -1,7 +1,7 @@
 ---
 title: Intake 1997
 description: Intake of '97
-published: false
+published: true
 date: 2021-09-23T17:04:56.637Z
 tags: intake, past students, students, 1997, intake 97
 editor: markdown

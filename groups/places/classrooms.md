@@ -1,7 +1,7 @@
 ---
 title: Classrooms
 description: Rooms in which lessons are taught
-published: false
+published: true
 date: 2021-09-23T16:43:13.299Z
 tags: places, rooms, classrooms
 editor: markdown
