@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-08-31T20:22:04.664Z
+date: 2021-11-11T21:21:30.532Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -46,8 +46,8 @@ BRGSmemes123 was the last of the three main memepages and was be created on the 
 This is the account most teachers mean when they refer to the 'meme pages' as it was the most active over lockdown and uses almost entirely staff memes.
 
 This account is credited with creating the new BRGS Wiki.
-As of 01/06/2021 it has 926 followers.
-BRGSmemes123's owners are currently in Year 11 and have had no switches in owner yet (and hope to continue it for another two years ;) )
+As of 11/11/2021 it has 992 followers.
+BRGSmemes123's owners are currently in Year 12.
 
 Some teachers know who we are, some are coming close,... others... not so close
 
