@@ -2,14 +2,14 @@
 title: Year 12
 description: Intake 2016
 published: true
-date: 2021-09-23T16:17:47.835Z
+date: 2021-11-19T08:14:53.238Z
 tags: intake, intake 16, year 12, intake 16 events
 editor: markdown
 dateCreated: 2020-06-06T11:57:45.087Z
 ---
 
 ## Year 12
-This is the first year of Sixth Form, and many people continue from the Lower School. You usually take about 4 subjects, then drop one after the first term.
+This is the first year of Sixth Form, and many people continue from the Lower School. You usually take about 4 subjects, then drop one during the first term.
 
 The current Year 12 either joined in 2016 or 2021, and their Head of Year is [Mrs Walsh](/teachers/mrs-walsh).
 
