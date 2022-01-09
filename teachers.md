@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2021-09-23T15:28:12.132Z
+date: 2022-01-09T17:19:44.605Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -36,7 +36,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Grehan *Head of Year 9, History teacher*](/teachers/mr-grehan)
 - [Mrs Grehan *Head of History*](/teachers/mrs-grehan)
 - [Miss Gore-Ward *History teacher*](/teachers/miss-gore-ward)
-- [Mrs Hallworth *Psychology teacher*]((/teachers/mrs-hallworth)
+- [Mrs Hallworth *Psychology teacher*](/teachers/mrs-hallworth)
 - [Mrs Harper *English teacher*](/teachers/mrs-harper)
 - [Miss Hartley *Chemistry teacher*](/teachers/miss-hartley)
 - [Mrs Howard *Singing Teacher*](teachers/music/mrs-howard)
@@ -62,19 +62,19 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Neve *Head of Drama*](/teachers/mr-neve)
 - [Mrs O'Hara *German teacher*](/teachers/mrs-o-hara)
 - [Miss Ogle *Maths teacher*](/teachers/miss-ogle)
-- [Mr Pauline *Physics teacher*]((/teachers/mr-pauline)
+- [Mr Pauline *Physics teacher*](/teachers/mr-pauline)
 - [Mr Peat *History teacher*](/teachers/mr-peat)
 - [Mr Pigott *PE teacher*](/teachers/mr-pigott)
 - [Mr Porteous *Headteacher*](/teachers/mr-porteous)
 - [Mrs Porteous *Head of Year 7, Biology teacher*](/teachers/mrs-porteous)
-- [Miss Powell *Head of Maths*](/teachers/miss-powell)
 - [Mr Proudman *Guitar teacher*](/teachers/music/mr-proudman)
 - [Miss Rowan *French teacher*](/teachers/miss-rowan)
 - [Mrs Richardson *PSHCE Teacher*](/teachers/mrs-richardson)
 - [Miss Ridings *PE teacher*](/teachers/miss-ridings)
 - [Mr Robinson *DT teacher*](/teachers/mr-robinson)
 - [Mrs Sawle *Maths teacher*](/teachers/mrs-sawle)
-- [Mr Seddon *Head of Maths*](/teachers/mr-seddon)
+- [Mr Seddon *Maths teacher*](/teachers/mr-seddon)
+- [Mrs Smith *Head of Maths*](/teachers/mrs-smith)
 - [Mrs Spall *Piano & Woodwind Teacher*](/teachers/music/mrs-spall)
 - [Mr Spencer *Head of Geography*](/teachers/mr-spencer)
 - [Mrs Spencer *Biology teacher*](/teachers/mrs-spencer)
