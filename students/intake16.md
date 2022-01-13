@@ -2,7 +2,7 @@
 title: Year 12
 description: Intake 2016
 published: true
-date: 2021-11-19T08:14:53.238Z
+date: 2022-01-13T19:37:43.794Z
 tags: intake, intake 16, year 12, intake 16 events
 editor: markdown
 dateCreated: 2020-06-06T11:57:45.087Z
@@ -25,6 +25,7 @@ In lower school, their Head of Year was [Mrs Bowdler](/teachers/mrs-bowdler), an
 - [12TOH](/students/intake16/toh)
 - [12HEC](/students/intake16/hec)
 - [12SSJ](/students/intake16/ssj)
+- [12MPC](/students/intake16/mpc)
 
 {.links-list}
 
