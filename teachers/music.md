@@ -2,16 +2,16 @@
 title: Private Music Teachers
 description: 
 published: true
-date: 2021-08-31T20:21:30.232Z
+date: 2022-01-19T17:40:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-18T19:31:09.158Z
 ---
 
 ## Private Music Teachers
-These teachers offer private (paid for) specialis music lessons. Each teach a certain instrument and / or area of music. 
+These teachers offer private (paid for) specialist music lessons. Each teach a certain instrument and/or area of music. 
 ### Teachers
-- [Mr Brown *Brass teacher*](/teachers/music/mr-brown)
+- [Mr Brown *Brass teacher*](/teachers/past/music/mr-brown)
 - [Mrs Byfield *Music Admin*](/teachers/music/mrs-blyfield)
 - [Miss Burkhart *Woodwind Teacher*](/teachers/music/miss-burkhart)
 - [Mrs Howard *Singing Teacher*](/teachers/music/mrs-howard)

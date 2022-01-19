@@ -2,7 +2,7 @@
 title: About the Meme Pages
 description: 
 published: true
-date: 2021-11-11T21:21:30.532Z
+date: 2022-01-19T17:40:00.000Z
 tags: memes
 editor: markdown
 dateCreated: 2020-11-25T23:31:24.988Z
@@ -39,7 +39,7 @@ The account currently has 1,012 followers as of 01/06/2021.
 BRGSmemes are likely Yr 11s.
 
 ## BRGSmemes123
-BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of [Mr Reeves](/teachers/mr-reeves) in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
+BRGSmemes123 was the last of the three main memepages and was be created on the 23rd September 2019, with a single photo of [Mr Reeves](/teachers/past/mr-reeves) in a red school uniform captioned "When you're in yr 7 and your mum gets you to put on your new uniform for a photo".
 
 ![brgsmemes123firstpost.png](/brgsmemes123firstpost.png)
 
