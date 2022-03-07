@@ -2,24 +2,14 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2022-02-22T17:28:53.962Z
+date: 2022-03-07T17:48:22.340Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
 ---
 
-## *Subscribe to our new newsletter!*
-<div id="revue-embed" style="margin: 10px 0px;padding:10px;background-color:#e6e6e6;width:fit-content;border-radius:10px">
-  <form action="https://squirrel.brgswiki.org/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-  <div class="revue-form-group">
-    <input class="revue-form-field" style="border:2px solid #1565c0!important;border-radius:5px;padding:5px 10px;background-color:#fff" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-  </div>
-  <div class="revue-form-actions">
-    <input style="border:2px solid #1565c0!important;border-radius:5px;padding:3px 8px;background-color:#1565c0;color:#fff;margin-top:8px" type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-  </div>
-  <div class="revue-form-footer" style="font-size:12px;margin-top:4px">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
-  </form>
-</div>
+> **We are in the process of revamping our policies!** Please [take a look here](/policies) to get up-to-date with any changes.
+{.is-info}
 
 # Welcome to the BRGS Wiki 🎉
 <figure class="image image_resized image-style-align-right" style="width:48%;"><img src="/brgs_from-glen-road.jpg"><figcaption>The lovely view from Glen Road</figcaption></figure>
