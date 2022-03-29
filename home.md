@@ -2,7 +2,7 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2022-03-07T17:48:22.340Z
+date: 2022-03-29T14:07:08.138Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
@@ -50,105 +50,8 @@ We aim to take your privacy very seriously, you can [view our privacy policy her
 
 ## Teachers
 
-### Top 10 Pages (Last 7 days)
-<br>
-<div id="top-teachers-chart">This chart will be back soon...</div>
-<br>
-
-### Current teachers
-- [Mr Baird](/teachers/mr-baird)
-- [Mrs Bamford](/teachers/mrs-bamford)
-- [Mrs Black](/teachers/mrs-black)
-- [Mr Brandwood](/teachers/mr-brandwood)
-- [Mrs Booth](/teachers/mrs-booth)
-- [Mrs Bowdler](/teachers/mrs-bowdler)
-- [Miss Burkhart](/teachers/music/miss-burkhart)
-- [Mrs Buckley](/teachers/mrs-buckley)
-- [Miss Butterworth](/teachers/miss-butterworth)
-- [Miss Carney](/teachers/miss-carney)
-- [Miss Caton](/teachers/miss-caton)
-- [Mr Chambers](/teachers/mr-chambers)
-- [Mrs Chambers](/teachers/mrs-chambers)
-- [Mrs Chapman](/teachers/mrs-chapman)
-- [Mr Cunningham](/teachers/mr-cunningham)
-- [Ms Curry](/teachers/ms-curry)
-- [Mr Davenport](/teachers/mr-davenport)
-- [Ms Dougherty](/teachers/ms-dougherty)
-- [Mrs Easby](/teachers/mrs-easby)
-- [Miss Flint](/teachers/miss-flint)
-- [Miss Foster](/teachers/miss-foster)
-- [Mr Flynn](/teachers/mr-flynn)
-- [Miss Freeth](/teachers/miss-freeth)
-- [Mr Grehan](/teachers/mr-grehan)
-- [Mrs Grehan](/teachers/mrs-grehan)
-- [Miss Gore-Ward](/teachers/miss-gore-ward)
-- [Mrs Hallworth](/teachers/mrs-hallworth)
-- [Mrs Harper](/teachers/mrs-harper)
-- [Miss Hartley](/teachers/miss-hartley)
-- [Dr Heaton](/teachers/dr-heaton)
-- [Miss Hughes](/teachers/miss-hughes)
-- [Miss Ingham](/teachers/miss-ingham)
-- [Mrs Jackson](/teachers/mrs-jackson)
-- [Mrs Jackson-Orland](/teachers/mrs-jackson-orland)
-- [Dr Jackson](/teachers/dr-jackson)
-- [Mr Jackson](/teachers/mr-jackson)
-- [Mr Jones](/teachers/mr-jones)
-- [Mr Johnstone](/teachers/mr-johnstone)
-- [Miss Jordan](/teachers/miss-jordan)
-- [Mrs Kennedy](/teachers/mrs-kennedy)
-- [Mrs King](/teachers/mrs-king)
-- [Mrs Kolbuck](/teachers/mrs-kolbuck)
-- [Miss McCaffrey](/teachers/miss-mccaffrey)
-- [Mr Mercer](/teachers/mr-mercer)
-- [Miss Morris](/teachers/miss-morris)
-- [Mr Morriss](/teachers/mr-morriss)
-- [Mrs Nelson](/teachers/mrs-nelson)
-- [Mr Neve](/teachers/mr-neve)
-- [Mrs O'Hara](/teachers/mrs-o-hara)
-- [Miss Ogle](/teachers/miss-ogle)
-- [Mr Pauline](/teachers/mr-pauline)
-- [Mr Peat](/teachers/mr-peat)
-- [Mr Pigott](/teachers/mr-pigott)
-- [Mr Porteous](/teachers/mr-porteous)
-- [Mrs Porteous](/teachers/mrs-porteous)
-- [Mr Proudman](/teachers/music/mr-proudman)
-- [Miss Rowan](/teachers/miss-rowan)
-- [Mrs Richardson](/teachers/mrs-richardson)
-- [Miss Ridings](/teachers/miss-ridings)
-- [Mr Robinson](/teachers/mr-robinson)
-- [Mrs Saunders](/teachers/supply/mrs-saunders)
-- [Mrs Sawle](/teachers/mrs-sawle)
-- [Mr Seddon](/teachers/mr-seddon)
-- [Mrs Smith](/teachers/mrs-smith)
-- [Mrs Spall](/teachers/music/mrs-spall)
-- [Mr Spencer](/teachers/mr-spencer)
-- [Mrs Spencer](/teachers/mrs-spencer)
-- [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
-- [Mr Stringer](/teachers/mr-stringer)
-- [Mrs Szafranski](/teachers/mrs-szafranski)
-- [Ms Tait-Hanlon](/teachers/ms-tait-hanlon)
-- [Mrs Taylor](/teachers/mrs-taylor)
-- [Mrs Walsh](/teachers/mrs-walsh)
-- [Miss Watts](/teachers/miss-watts)
-- [Mr Webber](/teachers/mr-webber)
-- [Ms Webber](/teachers/ms-webber)
-- [Mrs Wharmby](/teachers/mrs-wharmby)
-- [Mr Whyte](/teachers/mr-whyte)
-- [Mr Wilbraham](/teachers/mr-wilbraham)
-- [Mrs Williamson](/teachers/mrs-williamson)
-- [Miss Wilkes](/teachers/miss-wilkes)
-- [Mr Wilkinson](/teachers/mr-wilkinson)
-- [Miss Whitaker](/teachers/miss-whitaker)
-- [Mrs Workman](/teachers/mrs-workman)
-{.links-list}
-
-#### Other Teachers
-
-- [Past Teachers](/teachers/past) 
-- [Supply Teachers](/teachers/supply) 
-- [Trainee Teachers](/teachers/trainee) 
-- [Other Staff Members](/teachers/other)
-{.links-list}
+> These pages are currently unavailable and under review by Mr Johnstone, but we hope to bring them back soon... 🙏
+{.is-danger}
 
 ## Subjects
 
