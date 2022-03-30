@@ -2,7 +2,7 @@
 title: School Trips
 description: The school trips hosted by BRGS
 published: true
-date: 2021-09-23T16:18:45.342Z
+date: 2022-03-30T07:15:29.778Z
 tags: school trips, trips, groups
 editor: markdown
 dateCreated: 2020-06-03T15:06:13.173Z
@@ -61,7 +61,8 @@ BRGS hosts a number of school trips, particularly for the lower years. Some of t
 - [Valencia](/groups/trips/valencia)
 - [Theatre Trips](/groups/trips/theatre-trips)
 - [German Exchange](/groups/trips/german-exchange)
-- [London Music Trip](/groups/trips/london-music-trip)
+- [London Music Trip 2020](/groups/trips/london-music-trip)
 - [Sports Trips](/groups/trips/sports-trips)
 - [Work Experience](/groups/trips/work-experience)
+- [London Music Trip 2022](/groups/trips/london-music-trip-2)
 {.links-list}
