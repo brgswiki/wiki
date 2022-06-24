@@ -2,11 +2,13 @@
 title: Home
 description: The BRGS Wiki is a student run archive and knowledge base about BRGS (in Rossendale, UK). Full of stories, quotes, and more, there's something fun for everyone.
 published: true
-date: 2022-04-16T18:24:07.897Z
+date: 2022-06-24T14:43:11.670Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-01T11:22:59.481Z
 ---
+
+> [**An important message from BRGS Memes**](https://closed.brgswiki.org/memes)
 
 > **We are in the process of revamping our policies!** Please [take a look here](/policies) to get up-to-date with any changes.
 {.is-info}
