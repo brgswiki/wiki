@@ -2,7 +2,7 @@
 title: Year 11
 description: Intake 2017
 published: true
-date: 2021-09-23T16:17:42.402Z
+date: 2022-09-14T17:43:45.899Z
 tags: intake, intake 17, year 11, intake 17 events
 editor: markdown
 dateCreated: 2020-06-06T11:50:25.808Z
@@ -13,20 +13,20 @@ Year 11 is the year in which you take your GCSEs (unless of course a deadly viru
 
 In Year 11 you have the same classes and teachers as Year 10, and all in all Year 11 is rather similar to Year 10 just 1480x more stressful.
 
-The current Year 11 joined in 2017, and their Head of Year is [Mr Chambers](/teachers/mr-chambers).
+The current Year 11 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
 
-### Intake 17 Forms
-- [17B](/students/intake17/b)
-- [17R](/students/intake17/r)
-- [17G](/students/intake17/g)
-- [17S](/students/intake17/s)
-- [17N](/students/intake17/n)
-- [17W](/students/intake17/w)
+### Intake 18 Forms
+- [18B](/students/intake18/b)
+- [18R](/students/intake18/r)
+- [18G](/students/intake18/g)
+- [18S](/students/intake18/s)
+- [18N](/students/intake18/n)
+- [18W](/students/intake18/w)
 {.links-list}
 
 ### Other
-- [Intake 17 Events](/students/intake17/events)
+- [Intake 18 Events](/students/intake18/events)
 {.links-list}
 
-> Note:  Rather than saying "11S" for example, we use "17S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "11S" for example, we use "18S" so that we don't need to update the year group each new school year
 {.is-info}
