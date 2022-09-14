@@ -2,7 +2,7 @@
 title: Year 8
 description: Intake 2020
 published: true
-date: 2021-09-23T15:31:37.589Z
+date: 2022-09-14T17:40:09.621Z
 tags: intake, year 8, intake 20, intake 20 events
 editor: markdown
 dateCreated: 2020-09-02T13:49:42.519Z
@@ -13,20 +13,20 @@ Year 8s are possibly even cockier than Year 7s, because they are no longer the y
 
 In Year 8 you begin to branch out a bit more and make more friends from other forms.
 
-The current Year 8 joined in 2020, and their Head of Year is [Mrs Porteous](/teachers/mrs-porteous).
+The current Year 8 joined in 2021, and their Head of Year is [Mrs Bowdler](/teachers/mrs-bowdler).
 
 #### Intake 20 Forms
-- [20B](/students/intake20/b)
-- [20R](/students/intake20/r)
-- [20G](/students/intake20/g)
-- [20S](/students/intake20/s)
-- [20N](/students/intake20/n)
-- [20W](/students/intake20/w)
+- [21B](/students/intake21/b)
+- [21R](/students/intake21/r)
+- [21G](/students/intake21/g)
+- [21S](/students/intake21/s)
+- [21N](/students/intake21/n)
+- [21W](/students/intake21/w)
 {.links-list}
 
 #### Other
-- [Intake 20 Events](/students/intake20/events)
+- [Intake 21 Events](/students/intake21/events)
 {.links-list}
 
-> Note:  Rather than saying "8S" for example, we use "20S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "8S" for example, we use "21S" so that we don't need to update the year group each new school year
 {.is-info}
