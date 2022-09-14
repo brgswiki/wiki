@@ -2,7 +2,7 @@
 title: Year 10
 description: Intake 2018
 published: true
-date: 2022-09-14T17:41:54.184Z
+date: 2022-09-14T17:42:19.535Z
 tags: intake, intake 18, year 10, intake 18 events
 editor: markdown
 dateCreated: 2020-06-06T11:43:36.738Z
@@ -14,7 +14,7 @@ The first term tends to be fun but then things get a bit hectic and dead. Mock e
 
 In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
 
-The current Year 10 joined in 2018, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck) (who doesn't like them much because they keep starting fights).
+The current Year 10 joined in 2019, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck).
 
 ### Intake 18 Forms
 - [19B](/students/intake19/b)
