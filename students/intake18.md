@@ -2,7 +2,7 @@
 title: Year 10
 description: Intake 2018
 published: true
-date: 2021-09-23T16:17:26.015Z
+date: 2022-09-14T17:41:54.184Z
 tags: intake, intake 18, year 10, intake 18 events
 editor: markdown
 dateCreated: 2020-06-06T11:43:36.738Z
@@ -14,19 +14,19 @@ The first term tends to be fun but then things get a bit hectic and dead. Mock e
 
 In Year 10 you are setted for all core subjects, and you have the same teachers as you'd have in Year 11. This year unfortunately has a disappointly low number of trips as Blackpool was replaced by work experience and DofE is just a 2 day hike.
 
-The current Year 10 joined in 2018, and their Head of Year is [Mr Grehan](/teachers/mr-grehan) (who doesn't like them much because they keep starting fights).
+The current Year 10 joined in 2018, and their Head of Year is [Mrs Kolbuck](/teachers/mrs-kolbuck) (who doesn't like them much because they keep starting fights).
 
 ### Intake 18 Forms
-- [18B](/students/intake18/b)
-- [18R](/students/intake18/r)
-- [18G](/students/intake18/g)
-- [18S](/students/intake18/s)
-- [18N](/students/intake18/n)
-- [18W](/students/intake18/w)
+- [19B](/students/intake19/b)
+- [19R](/students/intake19/r)
+- [19G](/students/intake19/g)
+- [19S](/students/intake19/s)
+- [19N](/students/intake19/n)
+- [19W](/students/intake19/w)
 {.links-list}
 
 ### Other
-- [Intake 18 Events](/students/intake18/events)
+- [Intake 19 Events](/students/intake19/events)
 {.links-list}
 
-> Note:  Rather than saying "10S" for example, we use "18S" so that we don't need to update the year group each new school year
+> Note:  Rather than saying "10S" for example, we use "19S" so that we don't need to update the year group each new school year
