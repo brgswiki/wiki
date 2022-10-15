@@ -2,7 +2,7 @@
 title: Policies
 description: 
 published: true
-date: 2022-03-08T15:09:06.249Z
+date: 2022-10-15T10:42:09.905Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-07T17:46:12.181Z
@@ -37,7 +37,7 @@ Additionally, if you find any content on the wiki that you believe to be in brea
 - **Always check for correct grammar and spelling.** Please remember that the Wiki is not a Tumblr blog or an Instagram post, and we aim to only publish well-written content to help retain our reputation as the go-to place for accurate information about BRGS.
 
 ## Sanctions
-If offending content is found, our response will differ base on the severity of the content. For example, a more minor offence may incur a written warning and correction on the first occurance, with a potential for blocks and bans to be implemented on any further or more serious offences. If circumstances require it, pages can be locked for a period of time so that only approved administrators can make changes. Additionally, our administrative team is notified when any edits are made, and as such we can review them.
+If offending content is found, our response will differ based on the severity of the content. For example, a more minor offence may incur a written warning and correction on the first occurance, with a potential for blocks and bans to be implemented on any further or more serious offences. If circumstances require it, pages can be locked for a period of time so that only approved administrators can make changes. Additionally, our administrative team is notified when any edits are made, and as such we can review them.
 
 > If you have any queries about any of this information, or the Wiki as a whole, please contact us at [support@brgswiki.org](mailto:support@brgswiki.org), and our team will be more than happy to help you with your concern or request.
 {.is-info}
