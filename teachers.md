@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2022-10-15T10:21:52.630Z
+date: 2022-10-15T10:22:43.009Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -51,6 +51,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Johnson](/teachers/mrs-johnson)
 - [Mr Johnstone](/teachers/mr-johnstone)
 - [Miss Jordan](/teachers/miss-jordan)
+- [Mr Kay](/teachers/mr-kay)
 - [Mrs Kennedy](/teachers/mrs-kennedy)
 - [Mrs King](/teachers/mrs-king)
 - [Mrs Kolbuck](/teachers/mrs-kolbuck)
