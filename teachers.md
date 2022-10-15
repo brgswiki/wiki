@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2022-10-13T16:09:36.640Z
+date: 2022-10-15T10:21:52.630Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -75,6 +75,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Saunders](/teachers/supply/mrs-saunders)
 - [Mrs Sawle](/teachers/mrs-sawle)
 - [Mr Seddon](/teachers/mr-seddon)
+- [Miss Sethi-Tjen](/teachers/miss-sethi-tjen)
 - [Mrs Smith](/teachers/mrs-smith)
 - [Mrs Spall](/teachers/music/mrs-spall)
 - [Mr Spencer](/teachers/mr-spencer)
