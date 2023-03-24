@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2023-03-24T20:56:05.218Z
+date: 2023-03-24T20:57:19.702Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -72,7 +72,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mr Porteous](/teachers/mr-porteous)
 - [Mrs Porteous](/teachers/mrs-porteous)
 - [Mr Proudman](/teachers/music/mr-proudman)
-
 - [Mrs Richardson](/teachers/mrs-richardson)
 - [Miss Ridings](/teachers/miss-ridings)
 - [Mr Robinson](/teachers/mr-robinson)
