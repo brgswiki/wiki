@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2023-03-23T21:18:06.687Z
+date: 2023-03-24T20:54:01.819Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -220,10 +220,10 @@ Staff members that are not strictly teaching staff - including office staff, tec
 
 ## Private Music Teachers
 These teachers offer private (paid for) specialist music lessons. Each teach a certain instrument and/or area of music. 
-- [Mr Brown *Brass teacher*](/teachers/past/music/mr-brown)
+
 - [Mrs Byfield *Music Admin*](/teachers/music/mrs-blyfield)
 - [Miss Burkhart *Woodwind Teacher*](/teachers/music/miss-burkhart)
-- [Mrs Howard *Singing Teacher*](/teachers/music/mrs-howard)
+- [Mrs Howarth *Singing Teacher*](/teachers/music/mrs-howarth)
 - [Mr Hoyle *Strings teacher*](/teachers/music/mr-hoyle)
 - [Mr Noone *Drums teacher*](/teachers/music/mr-noone)
 - [Mr Proudman *Guitar teacher*](/teachers/music/mr-proudman)
