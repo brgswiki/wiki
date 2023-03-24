@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2023-03-24T20:57:19.702Z
+date: 2023-03-24T20:59:55.063Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -60,7 +60,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss McCaffrey](/teachers/miss-mccaffrey)
 - [Mr Mercer](/teachers/mr-mercer)
 - [Miss Morris](/teachers/miss-morris)
-- [Mr Morriss](/teachers/mr-morriss)
+
 - [Mrs Nelson](/teachers/mrs-nelson)
 - [Mr Neve](/teachers/mr-neve)
 - [Mrs O'Hara](/teachers/mrs-o-hara)
@@ -134,6 +134,7 @@ Teachers from years long gone...
 - [Ms Marti *German teacher*](/teachers/past/ms-marti)
 - [Mr McConvey *MFL teacher*](/teachers/past/mr-mcconvey)
 - [Miss Meredith](/teachers/past/miss-meredith)
+- [Mr Morriss * Head of Sixth Form and Biology Teacher*](/teachers/mr-morriss)
 - [Mr Overend](/teachers/past/mr-overend)
 - [Mr Patrick *Head of DT*](/teachers/past/mr-patrick)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
