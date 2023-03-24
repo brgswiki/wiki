@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2023-03-24T20:59:55.063Z
+date: 2023-03-24T21:04:01.260Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -60,17 +60,13 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Miss McCaffrey](/teachers/miss-mccaffrey)
 - [Mr Mercer](/teachers/mr-mercer)
 - [Miss Morris](/teachers/miss-morris)
-
 - [Mrs Nelson](/teachers/mrs-nelson)
 - [Mr Neve](/teachers/mr-neve)
 - [Mrs O'Hara](/teachers/mrs-o-hara)
 - [Miss Ogle](/teachers/miss-ogle)
 - [Mr Parkins](/teachers/mr-parkins)
 - [Mr Pauline](/teachers/mr-pauline)
-- [Mr Peat](/teachers/mr-peat)
 - [Mr Pigott](/teachers/mr-pigott)
-- [Mr Porteous](/teachers/mr-porteous)
-- [Mrs Porteous](/teachers/mrs-porteous)
 - [Mr Proudman](/teachers/music/mr-proudman)
 - [Mrs Richardson](/teachers/mrs-richardson)
 - [Miss Ridings](/teachers/miss-ridings)
@@ -83,9 +79,7 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Spall](/teachers/music/mrs-spall)
 - [Mr Spencer](/teachers/mr-spencer)
 - [Mrs Spencer](/teachers/mrs-spencer)
-- [Mrs Stevenson-Jones](/teachers/mrs-stevenson-jones)
 - [Mr Stringer](/teachers/mr-stringer)
-- [Mrs Szafranski](/teachers/mrs-szafranski)
 - [Ms Tait-Hanlon](/teachers/ms-tait-hanlon)
 - [Mrs Taylor](/teachers/mrs-taylor)
 - [Mrs Walsh](/teachers/mrs-walsh)
@@ -138,12 +132,17 @@ Teachers from years long gone...
 - [Mr Overend](/teachers/past/mr-overend)
 - [Mr Patrick *Head of DT*](/teachers/past/mr-patrick)
 - [Mrs Pauline *English teacher*](/teachers/past/mrs-pauline)
+- [Mr Peat *History Teacher*](/teachers/mr-peat)
+- [Mr Porteous *Head Teacher*](/teachers/mr-porteous)
+- [Mrs Porteous *Head of Year and Biology Teacher*](/teachers/mrs-porteous)
 - [Mr Reeves *Deputy Head*](/teachers/past/mr-reeves)
 - [Mrs Reynard *Head of Textiles & Law teacher*](/teachers/past/mrs-reynard)
 - [Ms Rogers *Art teacher*](/teachers/past/ms-rogers)
 - [Miss Rowan *MFL Teacher*](/teachers/miss-rowan)
 - [Mrs Sharp *Computing teacher*](/teachers/past/mrs-sharp)
 - [Mrs Stanley *History teacher*](/teachers/past/mrs-stanley)
+- [Mrs Stevenson-Jones *Chemistry Teacher*](/teachers/mrs-stevenson-jones)
+- [Mrs Szafranski *English Teacher*](/teachers/mrs-szafranski)
 - [Miss Townsend *PE teacher*](/teachers/past/miss-townsend)
 - [Mr Ventress *English teacher*](/teachers/past/mr-ventress)
 - [Miss Winchester *MFL teacher*](/teachers/past/miss-winchester)
