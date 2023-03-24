@@ -2,7 +2,7 @@
 title: Teachers
 description: BRGS staff members
 published: true
-date: 2023-03-24T21:05:33.498Z
+date: 2023-03-24T21:11:55.807Z
 tags: teacher, cover teacher, supply teacher, past teachers, staff
 editor: markdown
 dateCreated: 2020-07-04T11:11:41.348Z
@@ -12,14 +12,12 @@ dateCreated: 2020-07-04T11:11:41.348Z
 
 ## Current teachers
 - [Mr Baird](/teachers/mr-baird)
-- [Mrs Bamford](/teachers/mrs-bamford)
 - [Mrs Black](/teachers/mrs-black)
 - [Mr Brandwood](/teachers/mr-brandwood)
 - [Mrs Booth](/teachers/mrs-booth)
 - [Mrs Bowdler](/teachers/mrs-bowdler)
 - [Miss Burkhart](/teachers/music/miss-burkhart)
 - [Mrs Buckley](/teachers/mrs-buckley)
-- [Miss Butterworth](/teachers/miss-butterworth)
 - [Miss Carney](/teachers/miss-carney)
 - [Miss Caton](/teachers/miss-caton)
 - [Mr Chambers](/teachers/mr-chambers)
@@ -43,7 +41,6 @@ dateCreated: 2020-07-04T11:11:41.348Z
 - [Mrs Harper](/teachers/mrs-harper)
 - [Miss Hartley](/teachers/miss-hartley)
 - [Dr Heaton](/teachers/dr-heaton)
-- [Miss Hughes](/teachers/miss-hughes)
 - [Miss Ingham](/teachers/miss-ingham)
 - [Mrs Jackson](/teachers/mrs-jackson)
 - [Mrs Jackson-Orland](/teachers/mrs-jackson-orland)
@@ -102,12 +99,14 @@ Teachers from years long gone...
 - [Mrs Aldred *PE teacher*](/teachers/past/mrs-aldred)
 - [Mrs Appleton-Why *History teacher*](/teachers/past/mrs-appleton-why)
 - [Mrs Ashworth *English teacher*](/teachers/past/mrs-ashworth)
+- [Mrs Bamford *Art Teacher*](/teachers/mrs-bamford)
 - [Mrs Berry *Deputy Director of Sixth Form and Psychology Teacher*](/teachers/past/mrs-berry)
 - [Miss Bibi *English teacher*](/teachers/past/miss-bibi)
 - [Ms Blant](/teachers/past/ms-blant)
 - [Miss Bowden *Head of Chemistry*](/teachers/past/miss-bowden)
 - [Mr Bowley *Head of DT*](/teachers/past/mr-bowley)
 - [Mr Brown *Brass Teacher*](/teachers/past/music/mr-brown)
+- [Miss Butterworth *RS and PSHCE Teacher*](/teachers/miss-butterworth)
 - [Miss Byrne](/teachers/past/miss-byrne)
 - [Mr Bretherton *Chemistry teacher*](/teachers/past/mr-bretherton)
 - [Mr Cairns](/teachers/past/mr-cairns)
@@ -121,6 +120,7 @@ Teachers from years long gone...
 - [Miss Gordon](/teachers/past/miss-gordon)
 - [Mr Grundy *DT teacher*](/teachers/past/mr-grundy)
 - [Mr Heald *Physics Teacher*](/teachers/past/mr-heald)
+- [Miss Hughes *Cover Teacher*](/teachers/miss-hughes)
 - [Mrs Jenkins](/teachers/past/mrs-jenkins)
 - [Mrs Khan *Maths teacher*](/teachers/past/mrs-khan)
 - [Mrs King](/teachers/past/mrs-king)
